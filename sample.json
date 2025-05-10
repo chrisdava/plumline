@@ -15,9 +15,9 @@
     "NL",
     "O"
   ],
-  "author": "scott@recoverydharma.org",
+  "author": "author@recoverydharma.org",
   "location": "3411 Austell Rd SW #200, Marietta, GA 30008, USA",
-  "location_url": "https://recoverydharma.org/locations/3411-austell-rd-sw-200-marietta-ga-30008-usa/",
+  "location_url": "https://location_url.recoverydharma.org/locations/3411-austell-rd-sw-200-marietta-ga-30008-usa/",
   "formatted_address": "3411 Austell Rd SW #200, Marietta, GA 30008, USA",
   "approximate": "no",
   "latitude": 33.8699152,
@@ -28,11 +28,11 @@
   "regions": [
     "Georgia"
   ],
-  "email": "bodhi.recoverydharma@gmail.com",
-  "contact_1_email": "bodhi.recoverydharma@gmail.com",
+  "email": "email@gmail.com",
+  "contact_1_email": "contact_1_email@gmail.com",
   "attendance_option": "in_person",
   "entity": "Recovery Dharma",
-  "entity_email": "web@recoverydharma.org",
+  "entity_email": "entity_email@recoverydharma.org",
   "entity_url": "https://recoverydharma.org",
   "feedback_emails": [
     "info@recoverydharma.org",
