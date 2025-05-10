@@ -33,9 +33,9 @@
   "attendance_option": "in_person",
   "entity": "Recovery Dharma",
   "entity_email": "entity_email@recoverydharma.org",
-  "entity_url": "https://recoverydharma.org",
+  "entity_url": "https://entity_url.org",
   "feedback_emails": [
-    "info@recoverydharma.org",
+    "feedback_emails@recoverydharma.org",
     "meetings@RecoveryDharma.org"
   ]
 }]
