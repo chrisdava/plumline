@@ -1399,7 +1399,7 @@
     "email": "kanzicek50@gmail.com",
     "entity_phone": "",
     "notes": "Our practice includes both silent and guided meditation, deep relaxation practice, and walking meditation outdoors, weather permitting. We have a reading or dharma talk, followed by dharma discussion. Lastly, we share a potluck meal together. We hold a spacious silence in this half-day practice.",
-    "day": 0,
+    "day": 6,
     "time": "10:00",
     "end_time": "13:00"
   },
@@ -5451,6 +5451,24 @@
     "notes": "Dublin Mindfulness Group practicing in the tradition of Thich Nhat Hanh. A Day of Mindfulness would include sitting meditation, deep relaxation, mindful walking, dharma sharing, and enjoying tea together. Open to all faiths and none; whether you are new to meditation or a seasoned practitioner. €10 suggested donation to cover cost of room and expenses. Contact us via email/ check our Facebook Page or if you would like to go on our mailing list, we will confirm date of next Sangha.",
     "day": 0,
     "time": "06:00",
+    "end_time": ""
+  },
+  {
+    "country": "New Zealand",
+    "region": "New Zealand",
+    "state": "",
+    "name": "Kōwhai Sangha - Mindfulness Practice Auckland",
+    "entity": "Kōwhai Sangha - Mindfulness Practice Auckland",
+    "slug": "kwhai-sangha---mindfulness-practice-auckland-1206",
+    "address": "Mt Eden, Auckland 1024, New Zealand",
+    "latitude": "-36.8817977",
+    "longitude": "174.7554234",
+    "entity_url": "",
+    "email": "caitybush@gmail.com",
+    "entity_phone": "",
+    "notes": "Monday evenings in-person and online for new and experienced practitioners to experience sitting and walking meditation, Dharma talks and readings, as well as deep listening and sharing in a community. We draw inspiration and guidance from Zen Master Thich Nhat Hanh, and other teachers in the Plum Village lineage.",
+    "day": 1,
+    "time": "08:30",
     "end_time": ""
   },
   {
