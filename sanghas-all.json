@@ -1932,6 +1932,20 @@
     "Language": "English"
   },
   {
+    "Name": "Psalms of Buddha",
+    "Category": "Traditional Sanghas",
+    "Sub Category": "",
+    "Frequency": "weekly",
+    "Duration": "10",
+    "Time Zone": "America/New_York",
+    "Times": "18:30 Fri",
+    "Contact Name": "Tashia",
+    "Contact Email": "psalmsofbuddha@gmail.com",
+    "Website": "psalmsofbuddha.org",
+    "Description": "Friends coming together to practice, study, share.",
+    "Language": "English"
+  },
+  {
     "Name": "Queer Aspirations Sangha",
     "Category": "Affinity Sanghas",
     "Sub Category": "LGBTQ+",
@@ -2755,6 +2769,20 @@
     "Contact Email": "Jim.fries@shaw.ca",
     "Website": "",
     "Description": "",
+    "Language": "English"
+  },
+  {
+    "Name": "Wild Rose Rainbow Sangha",
+    "Category": "Affinity Sanghas",
+    "Sub Category": "LGBTQ+",
+    "Frequency": "monthly",
+    "Duration": "75",
+    "Time Zone": "Canada/Mountain",
+    "Times": "19:00 Sunday",
+    "Contact Name": "Elizabeth",
+    "Contact Email": "wildroserainbow@gmail.com",
+    "Website": "wildrosesangha.ca",
+    "Description": "Open to 2SLGBTQIA practitioners with a current emphasis on supporting queer practitioners residing in Canada. Our monthly practice consists of guided meditation, silent sitting meditation and dharma sharing. Meets the third Sunday of each month",
     "Language": "English"
   },
   {
