@@ -952,6 +952,20 @@
     "Language": "English"
   },
   {
+    "Name": "Heart of Insight Sangha",
+    "Category": "Traditional Sanghas",
+    "Sub Category": "",
+    "Frequency": "weekly",
+    "Duration": "105",
+    "Time Zone": "America/Los_Angeles",
+    "Times": "19:15 Wed",
+    "Contact Name": "Gail",
+    "Contact Email": "atinfinity@comcast.net",
+    "Website": "https://mindful.community/",
+    "Description": "Heart of Insight is a Sangha that practices in the Plum Village tradition as taught by our teacher, Zen Master Thich Nhat Hanh. Together we share in meditation, walking meditation, dharma study, dharma sharing, service and mutual practice support. All are welcome! We meet weekly online and once a season in person for a half day to full day retreat.",
+    "Language": "English"
+  },
+  {
     "Name": "Free Street Sangha",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
@@ -1815,7 +1829,7 @@
     "Times": "16:00 Sun",
     "Contact Name": "Michael",
     "Contact Email": "mikemigrates@gmail.com",
-    "Website": "https://www.pacificonlinesangha.org",
+    "Website": "",
     "Description": "",
     "Language": "English"
   },
@@ -1829,7 +1843,7 @@
     "Times": "16:00 Sun",
     "Contact Name": "Michael",
     "Contact Email": "mikemigrates@gmail.com",
-    "Website": "https://www.pacificonlinesangha.org",
+    "Website": "",
     "Description": "",
     "Language": "English"
   },
