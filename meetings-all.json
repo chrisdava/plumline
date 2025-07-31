@@ -4014,6 +4014,24 @@
     "end_time": ""
   },
   {
+    "country": "United States",
+    "region": "United States",
+    "state": "CA",
+    "name": "The Sun My Heart",
+    "entity": "The Sun My Heart",
+    "slug": "the-sun-my-heart-9934",
+    "address": "24986 Danafir, Dana Woods Park, Dana Point, California 92629, United States",
+    "latitude": "33.485935",
+    "longitude": "-117.693851",
+    "entity_url": "",
+    "email": "thesunmyheartsangha@gmail.com",
+    "entity_phone": "",
+    "notes": "The Sun My Heart Sangha follows the Plum Village tradition of Vietnamese Zen master Thich Nhat Hanh. We meet regularly in person for sitting meditation, walking meditation, and dharma sharing. Our group is open to those interested in learning these Buddhist meditation practices.",
+    "day": 4,
+    "time": "16:30",
+    "end_time": "17:30"
+  },
+  {
     "country": "Canada",
     "region": "Canada",
     "state": "",
