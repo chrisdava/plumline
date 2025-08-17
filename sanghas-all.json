@@ -412,7 +412,7 @@
     "Frequency": "twice daily",
     "Duration": "12",
     "Time Zone": "America/New_York",
-    "Times": "06:45 Mon, 08:45 Mon",
+    "Times": "06:45 Mon",
     "Contact Name": "Melina",
     "Contact Email": "melinabondy@gmail.com",
     "Website": "http://www.melinabondy.com",
@@ -426,7 +426,7 @@
     "Frequency": "twice daily",
     "Duration": "12",
     "Time Zone": "America/New_York",
-    "Times": "06:45 Mon, 08:45 Mon",
+    "Times": "08:45 Mon",
     "Contact Name": "Melina",
     "Contact Email": "melinabondy@gmail.com",
     "Website": "http://www.melinabondy.com",
@@ -734,7 +734,21 @@
     "Frequency": "twice monthly",
     "Duration": "90",
     "Time Zone": "America/New_York",
-    "Times": "11:00 Sun, 18:00 Sun",
+    "Times": "11:00 Sun",
+    "Contact Name": "",
+    "Contact Email": "",
+    "Website": "https://earthholdinghereandnow.us8.list-manage.com/subscribe?id=bcd0d7b6bc&u=8be9b5ed990a2cbf98c358356",
+    "Description": "Growing our love for Mother Earth",
+    "Language": "English"
+  },
+  {
+    "Name": "Earth Holder Sangha",
+    "Category": "Affinity Sanghas",
+    "Sub Category": "Engaged Practice",
+    "Frequency": "twice monthly",
+    "Duration": "90",
+    "Time Zone": "America/New_York",
+    "Times": "18:00 Sun",
     "Contact Name": "",
     "Contact Email": "",
     "Website": "https://earthholdinghereandnow.us8.list-manage.com/subscribe?id=bcd0d7b6bc&u=8be9b5ed990a2cbf98c358356",
@@ -969,10 +983,24 @@
     "Name": "Free Street Sangha",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
-    "Frequency": "twice weekly",
+    "Frequency": "weekly",
     "Duration": "75",
     "Time Zone": "Asia/Bangkok",
-    "Times": "6:30 Wed, 15:30 Sun",
+    "Times": "6:30 Wed",
+    "Contact Name": "Dan",
+    "Contact Email": "00-ends-lumbar@icloud.com",
+    "Website": "",
+    "Description": "Free Street Sangha is an inclusive community movement uniting body, speech, and mind to support individual and collective wellbeing. Welcoming all, it encourages open-hearted practice, active listening, and compassionate response, fostering a nourishing environment that helps participants manage life’s challenges and pursue peace, happiness, and healing together.",
+    "Language": "English"
+  },
+  {
+    "Name": "Free Street Sangha",
+    "Category": "Traditional Sanghas",
+    "Sub Category": "",
+    "Frequency": "weekly",
+    "Duration": "75",
+    "Time Zone": "Asia/Bangkok",
+    "Times": "15:30 Sun",
     "Contact Name": "Dan",
     "Contact Email": "00-ends-lumbar@icloud.com",
     "Website": "",
@@ -983,10 +1011,24 @@
     "Name": "Fresh Morning Sangha (audio only)",
     "Category": "Single Practice Sanghas",
     "Sub Category": "Guided Meditation",
-    "Frequency": "twice weekly",
+    "Frequency": "weekly",
     "Duration": "30",
     "Time Zone": "Europe/Dublin",
-    "Times": "06:50 Tue, 06:50 Thu",
+    "Times": "06:50 Tue",
+    "Contact Name": "Orlaith",
+    "Contact Email": "hello@orlatihosullivan.com",
+    "Website": "",
+    "Description": "",
+    "Language": "English"
+  },
+  {
+    "Name": "Fresh Morning Sangha (audio only)",
+    "Category": "Single Practice Sanghas",
+    "Sub Category": "Guided Meditation",
+    "Frequency": "weekly",
+    "Duration": "30",
+    "Time Zone": "Europe/Dublin",
+    "Times": "06:50 Thu",
     "Contact Name": "Orlaith",
     "Contact Email": "hello@orlatihosullivan.com",
     "Website": "",
@@ -1207,10 +1249,24 @@
     "Name": "International LGBTQIA+ Sangha",
     "Category": "Affinity Sanghas",
     "Sub Category": "LGBTQ+",
-    "Frequency": "twice monthly",
+    "Frequency": "monthly",
     "Duration": "120",
     "Time Zone": "Europe/London",
-    "Times": "10:00 Sun, 18:00 Sun",
+    "Times": "10:00 Sun",
+    "Contact Name": "contact",
+    "Contact Email": "sanghaqueer@gmail.com",
+    "Website": "https://meditationlgbtiqparis.Jimdosite.com/rainbow-sangha-english/",
+    "Description": "For friends who identify as LGBTQIA+",
+    "Language": "English"
+  },
+  {
+    "Name": "International LGBTQIA+ Sangha",
+    "Category": "Affinity Sanghas",
+    "Sub Category": "LGBTQ+",
+    "Frequency": "monthly",
+    "Duration": "120",
+    "Time Zone": "Europe/London",
+    "Times": "18:00 Sun",
     "Contact Name": "contact",
     "Contact Email": "sanghaqueer@gmail.com",
     "Website": "https://meditationlgbtiqparis.Jimdosite.com/rainbow-sangha-english/",
@@ -2414,7 +2470,7 @@
     "Frequency": "weekly",
     "Duration": "90",
     "Time Zone": "Australia/Sydney",
-    "Times": "19:30 Tue",
+    "Times": "19:00 Tue",
     "Contact Name": "Ann",
     "Contact Email": "annmorris52@gmail.com",
     "Website": "",
@@ -3038,7 +3094,7 @@
     "Language": ""
   },
   {
-    "Name": "Plum Village v české Republice (Plum Village in the Czech Republic)",
+    "Name": "Plum Village v české Republice",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
     "Frequency": "Monthly",
@@ -3052,7 +3108,7 @@
     "Language": "česky mluvící (Czech)"
   },
   {
-    "Name": "Plum Village v české Republice (Plum Village in the Czech Republic)",
+    "Name": "Plum Village v české Republice",
     "Category": "Practice Sanghas",
     "Sub Category": "Mindfulness Trainings",
     "Frequency": "Monthly",
@@ -3108,7 +3164,7 @@
     "Language": "deutsch (German)"
   },
   {
-    "Name": "Elternsangha (Parents' Sangha)",
+    "Name": "Elternsangha",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
     "Frequency": "Monthly",
@@ -3122,7 +3178,7 @@
     "Language": "deutsch (German)"
   },
   {
-    "Name": "Sangha in der Bremen Neustadt (Sangha in Bremen Neustadt)",
+    "Name": "Sangha in der Bremen Neustadt",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
     "Frequency": "Weekly",
@@ -3318,7 +3374,7 @@
     "Language": "español (Spanish)"
   },
   {
-    "Name": "Sangha Flor de Loto (Lotus Flower Sangha)",
+    "Name": "Sangha Flor de Loto",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
     "Frequency": "Weekly",
@@ -3542,7 +3598,7 @@
     "Language": "español (Spanish)"
   },
   {
-    "Name": "ZASP Hispanohablantes Internacional (ZASP Spanish Speakers International)\n)",
+    "Name": "ZASP Hispanohablantes Internacional",
     "Category": "Affinity Sanghas",
     "Sub Category": "Other Affinity Sanghas",
     "Frequency": "Monthly",
@@ -3640,7 +3696,7 @@
     "Language": "Français (French)"
   },
   {
-    "Name": "Sangha Mouvements (Movements Sangha)",
+    "Name": "Sangha Mouvements",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
     "Frequency": "Weekly",
@@ -3654,7 +3710,7 @@
     "Language": "Français (French)"
   },
   {
-    "Name": "Sangha Mouvements (Movements Sangha)",
+    "Name": "Sangha Mouvements",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
     "Frequency": "Weekly",
@@ -3738,7 +3794,7 @@
     "Language": ""
   },
   {
-    "Name": "Szelíd Mosoly Buddhista Szangha (Gentle Smile Buddhist Sangha)",
+    "Name": "Szelíd Mosoly Buddhista Szangha",
     "Category": "Practice Sanghas",
     "Sub Category": "Silent Meditation",
     "Frequency": "Weekly",
