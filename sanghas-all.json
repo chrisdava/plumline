@@ -254,20 +254,6 @@
   {
     "Name": "Boat of Compassion Sangha",
     "Category": "Single Practice Sanghas",
-    "Sub Category": "Daily",
-    "Frequency": "six days a week",
-    "Duration": "30",
-    "Time Zone": "Asia/Manila",
-    "Times": "08:00 Mon",
-    "Contact Name": "Oey",
-    "Contact Email": "jose.magpantay@gmail.com",
-    "Website": "",
-    "Description": "Silent meditation",
-    "Language": "English"
-  },
-  {
-    "Name": "Boat of Compassion Sangha",
-    "Category": "Single Practice Sanghas",
     "Sub Category": "Silent Meditation",
     "Frequency": "six days a week",
     "Duration": "30",
@@ -413,20 +399,6 @@
     "Duration": "12",
     "Time Zone": "America/New_York",
     "Times": "06:45 Mon",
-    "Contact Name": "Melina",
-    "Contact Email": "melinabondy@gmail.com",
-    "Website": "http://www.melinabondy.com",
-    "Description": "Chanting",
-    "Language": "English"
-  },
-  {
-    "Name": "Chanting Sangha",
-    "Category": "Single Practice Sanghas",
-    "Sub Category": "Daily",
-    "Frequency": "twice daily",
-    "Duration": "12",
-    "Time Zone": "America/New_York",
-    "Times": "08:45 Mon",
     "Contact Name": "Melina",
     "Contact Email": "melinabondy@gmail.com",
     "Website": "http://www.melinabondy.com",
@@ -599,20 +571,6 @@
     "Contact Email": "daovientemple@gmail.com",
     "Website": "https://daovientemple.com",
     "Description": "",
-    "Language": "English"
-  },
-  {
-    "Name": "Deep Listening Sangha (audio only)",
-    "Category": "Single Practice Sanghas",
-    "Sub Category": "Daily",
-    "Frequency": "daily",
-    "Duration": "20",
-    "Time Zone": "Europe/London",
-    "Times": "09:00 Mon",
-    "Contact Name": "Ana",
-    "Contact Email": "telesangha@gmail.com",
-    "Website": "",
-    "Description": "Guided meditation",
     "Language": "English"
   },
   {
@@ -823,76 +781,6 @@
     "Contact Email": "info@firstlightsangha.org",
     "Website": "",
     "Description": "Friends coming together to practice, study & share (new friends welcome)",
-    "Language": "English"
-  },
-  {
-    "Name": "Flower Fresh Sangha",
-    "Category": "Single Practice Sanghas",
-    "Sub Category": "Silent Meditation",
-    "Frequency": "daily",
-    "Duration": "30",
-    "Time Zone": "Australia/Sydney",
-    "Times": "06.30 Tue",
-    "Contact Name": "Maria",
-    "Contact Email": "flowerfreshsangha@gmail.com",
-    "Website": "",
-    "Description": "silent meditation",
-    "Language": "English"
-  },
-  {
-    "Name": "Flower Fresh Sangha",
-    "Category": "Single Practice Sanghas",
-    "Sub Category": "Silent Meditation",
-    "Frequency": "daily",
-    "Duration": "30",
-    "Time Zone": "Australia/Sydney",
-    "Times": "06.30 Wed",
-    "Contact Name": "Maria",
-    "Contact Email": "flowerfreshsangha@gmail.com",
-    "Website": "",
-    "Description": "silent meditation",
-    "Language": "English"
-  },
-  {
-    "Name": "Flower Fresh Sangha",
-    "Category": "Single Practice Sanghas",
-    "Sub Category": "Silent Meditation",
-    "Frequency": "daily",
-    "Duration": "30",
-    "Time Zone": "Australia/Sydney",
-    "Times": "06.30 Thu",
-    "Contact Name": "Maria",
-    "Contact Email": "flowerfreshsangha@gmail.com",
-    "Website": "",
-    "Description": "silent meditation",
-    "Language": "English"
-  },
-  {
-    "Name": "Flower Fresh Sangha",
-    "Category": "Single Practice Sanghas",
-    "Sub Category": "Silent Meditation",
-    "Frequency": "daily",
-    "Duration": "30",
-    "Time Zone": "Australia/Sydney",
-    "Times": "06.30 Fri",
-    "Contact Name": "Maria",
-    "Contact Email": "flowerfreshsangha@gmail.com",
-    "Website": "",
-    "Description": "silent meditation",
-    "Language": "English"
-  },
-  {
-    "Name": "Flower Fresh Sangha",
-    "Category": "Single Practice Sanghas",
-    "Sub Category": "Silent Meditation",
-    "Frequency": "daily",
-    "Duration": "30",
-    "Time Zone": "Australia/Sydney",
-    "Times": "06.30 Sat",
-    "Contact Name": "Maria",
-    "Contact Email": "flowerfreshsangha@gmail.com",
-    "Website": "",
-    "Description": "silent meditation",
     "Language": "English"
   },
   {
@@ -1164,20 +1052,6 @@
   {
     "Name": "Insightful Mind Sangha (GMT)",
     "Category": "Single Practice Sanghas",
-    "Sub Category": "Daily",
-    "Frequency": "Monday to Friday",
-    "Duration": "30",
-    "Time Zone": "Atlantic/Canary",
-    "Times": "12:30 Mon",
-    "Contact Name": "Ben",
-    "Contact Email": "ben@benearthplus@gmail.com",
-    "Website": "",
-    "Description": "Silent meditation",
-    "Language": "English"
-  },
-  {
-    "Name": "Insightful Mind Sangha (GMT)",
-    "Category": "Single Practice Sanghas",
     "Sub Category": "Silent Meditation",
     "Frequency": "Monday to Friday",
     "Duration": "30",
@@ -1187,20 +1061,6 @@
     "Contact Email": "ben@benearthplus@gmail.com",
     "Website": "",
     "Description": "Mindful eating is included on Tuesdays",
-    "Language": "English"
-  },
-  {
-    "Name": "Insightful Mind Sangha (GMT)",
-    "Category": "Single Practice Sanghas",
-    "Sub Category": "Daily",
-    "Frequency": "Monday to Friday",
-    "Duration": "45",
-    "Time Zone": "Atlantic/Canary",
-    "Times": "06:30 Mon",
-    "Contact Name": "Ben",
-    "Contact Email": "ben@benearthplus@gmail.com",
-    "Website": "",
-    "Description": "Silent meditation - participants may also attend either 06:30 to 07:00 or 07:00 to 07:15 GMT",
     "Language": "English"
   },
   {
@@ -1495,20 +1355,6 @@
     "Contact Email": "attaleck@gmail.com",
     "Website": "",
     "Description": "",
-    "Language": "English"
-  },
-  {
-    "Name": "Midwest Moon Sangha",
-    "Category": "Single Practice Sanghas",
-    "Sub Category": "Daily",
-    "Frequency": "Monday to Friday",
-    "Duration": "40",
-    "Time Zone": "Central/Chicago",
-    "Times": "07:00 Mon",
-    "Contact Name": "Daniel",
-    "Contact Email": "info@midwestnoonsangha.org",
-    "Website": "http://www.midwestmoonsangha.org/",
-    "Description": "An online and in person mindfulness practice center in the Plum Village Tradition meets everyday except Sunday",
     "Language": "English"
   },
   {
@@ -1836,20 +1682,6 @@
   {
     "Name": "Oxford Thich Nhat Hanh Sangha",
     "Category": "Single Practice Sanghas",
-    "Sub Category": "Daily",
-    "Frequency": "daily",
-    "Duration": "30",
-    "Time Zone": "Europe/London",
-    "Times": "08:00 Sun",
-    "Contact Name": "Jan",
-    "Contact Email": "oxfordtnhsangha@gmail.com",
-    "Website": "",
-    "Description": "Guided meditation",
-    "Language": "English"
-  },
-  {
-    "Name": "Oxford Thich Nhat Hanh Sangha",
-    "Category": "Single Practice Sanghas",
     "Sub Category": "Guided Meditation",
     "Frequency": "daily",
     "Duration": "30",
@@ -1974,20 +1806,6 @@
     "Language": "English"
   },
   {
-    "Name": "Plumline",
-    "Category": "Affinity Sanghas",
-    "Sub Category": "Other Affinity Sanghas",
-    "Frequency": "",
-    "Duration": "",
-    "Time Zone": "",
-    "Times": "",
-    "Contact Name": "",
-    "Contact Email": "admin@plumline.org",
-    "Website": "plumline.org",
-    "Description": "Friends supporting sangha in the plum village tradition",
-    "Language": "English"
-  },
-  {
     "Name": "Plumline Heart Sangha",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
@@ -2069,20 +1887,6 @@
     "Contact Email": "radiantheart888@gmail.com",
     "Website": "",
     "Description": "For friends struggling with issues of sexual misconduct, and ready to embrace personal change through the Plum Village tradition",
-    "Language": "English"
-  },
-  {
-    "Name": "Rainbow Dharma Collective",
-    "Category": "Affinity Sanghas",
-    "Sub Category": "LGBTQ+",
-    "Frequency": "",
-    "Duration": "",
-    "Time Zone": "",
-    "Times": "",
-    "Contact Name": "Pia",
-    "Contact Email": "rainbowdharmacollective@gmail.com",
-    "Website": "",
-    "Description": "The planning team for the International LGBT+ group – meetings are irregular",
     "Language": "English"
   },
   {
@@ -2170,20 +1974,6 @@
     "Language": "English"
   },
   {
-    "Name": "Sanctuary Sangha",
-    "Category": "Traditional Sanghas",
-    "Sub Category": "LGBTQ+",
-    "Frequency": "weekly",
-    "Duration": "60",
-    "Time Zone": "America/New York",
-    "Times": "15.00 Sat",
-    "Contact Name": "Susan",
-    "Contact Email": "s64hof.f@gmail.com",
-    "Website": "",
-    "Description": "for friends who identify as LGBTQIA+",
-    "Language": "English"
-  },
-  {
     "Name": "Sangha Amor for Health Care Workers",
     "Category": "Affinity Sanghas",
     "Sub Category": "Professions",
@@ -2209,34 +1999,6 @@
     "Contact Email": "brotherdave@davekenneally.com",
     "Website": "",
     "Description": "",
-    "Language": "English"
-  },
-  {
-    "Name": "Sangha of the Falling Rain",
-    "Category": "Single Practice Sanghas",
-    "Sub Category": "Daily",
-    "Frequency": "Monday, Wednesday, Friday",
-    "Duration": "30",
-    "Time Zone": "Europe/Paris",
-    "Times": "21:30 Mon",
-    "Contact Name": "contact",
-    "Contact Email": "hello@community.fallingrain.org",
-    "Website": "https://fallingrain.org/",
-    "Description": "Guided meditation",
-    "Language": "English"
-  },
-  {
-    "Name": "Sangha of the Falling Rain",
-    "Category": "Single Practice Sanghas",
-    "Sub Category": "Daily",
-    "Frequency": "Sunday, Tuesday, Thursday",
-    "Duration": "30",
-    "Time Zone": "Europe/Paris",
-    "Times": "21:30 Mon",
-    "Contact Name": "contact",
-    "Contact Email": "hello@community.fallingrain.org",
-    "Website": "https://fallingrain.org/",
-    "Description": "Silent meditation",
     "Language": "English"
   },
   {
@@ -2298,20 +2060,6 @@
   {
     "Name": "Sangha of the Falling Rain",
     "Category": "Single Practice Sanghas",
-    "Sub Category": "Daily",
-    "Frequency": "twice daily",
-    "Duration": "30",
-    "Time Zone": "Europe/Madrid",
-    "Times": "06:30 Mon, 21:30 Mon",
-    "Contact Name": "contact",
-    "Contact Email": "hello@community.fallingrain.org",
-    "Website": "https://fallingrain.org/",
-    "Description": "Chanting followed by sitting and walking meditation, or Touching the Earth",
-    "Language": "English"
-  },
-  {
-    "Name": "Sangha of the Falling Rain",
-    "Category": "Single Practice Sanghas",
     "Sub Category": "Chanting",
     "Frequency": "twice daily",
     "Duration": "30",
@@ -2326,20 +2074,6 @@
   {
     "Name": "Sangha of the Falling Rain",
     "Category": "Single Practice Sanghas",
-    "Sub Category": "Daily",
-    "Frequency": "Monday, Wednesday, Friday",
-    "Duration": "30",
-    "Time Zone": "Europe/Paris",
-    "Times": "06:30 Mon",
-    "Contact Name": "contact",
-    "Contact Email": "hello@community.fallingrain.org",
-    "Website": "https://fallingrain.org/",
-    "Description": "Guided meditation",
-    "Language": "English"
-  },
-  {
-    "Name": "Sangha of the Falling Rain",
-    "Category": "Single Practice Sanghas",
     "Sub Category": "Guided Meditation",
     "Frequency": "Monday, Wednesday, Friday, twice daily",
     "Duration": "60",
@@ -2349,20 +2083,6 @@
     "Contact Email": "hello@community.fallingrain.org",
     "Website": "https://fallingrain.org/",
     "Description": "Noble Silence, morning or evening chant, guided meditation, Touching the Earth or slow walking meditation",
-    "Language": "English"
-  },
-  {
-    "Name": "Sangha of the Falling Rain",
-    "Category": "Single Practice Sanghas",
-    "Sub Category": "Daily",
-    "Frequency": "Sunday, Tuesday, Thursday, twice daily",
-    "Duration": "60",
-    "Time Zone": "Europe/Paris",
-    "Times": "06:00 Mon, 21:00 Mon",
-    "Contact Name": "contact",
-    "Contact Email": "hello@community.fallingrain.org",
-    "Website": "https://fallingrain.org/",
-    "Description": "Noble Silence, morning or evening chant, silent meditation, and mindful walking",
     "Language": "English"
   },
   {
@@ -2461,20 +2181,6 @@
     "Contact Email": "jasperlerch@sbcglobal.net",
     "Website": "",
     "Description": "Friends coming together to practice, study & share",
-    "Language": "English"
-  },
-  {
-    "Name": "Smiling Heart Sangha",
-    "Category": "Traditional Sanghas",
-    "Sub Category": "",
-    "Frequency": "weekly",
-    "Duration": "90",
-    "Time Zone": "Australia/Sydney",
-    "Times": "19:00 Tue",
-    "Contact Name": "Ann",
-    "Contact Email": "annmorris52@gmail.com",
-    "Website": "",
-    "Description": "",
     "Language": "English"
   },
   {
@@ -2758,20 +2464,6 @@
     "Language": "English"
   },
   {
-    "Name": "Uplift Your Life Sangha",
-    "Category": "Traditional Sanghas",
-    "Sub Category": "",
-    "Frequency": "weekly",
-    "Duration": "60",
-    "Time Zone": "America/New_York",
-    "Times": "18:00 Wed",
-    "Contact Name": "Omneya",
-    "Contact Email": "omneyapeacefullife@gmail.com",
-    "Website": "",
-    "Description": "",
-    "Language": "English"
-  },
-  {
     "Name": "Waving Grass Sangha",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
@@ -2825,20 +2517,6 @@
     "Contact Email": "Jim.fries@shaw.ca",
     "Website": "",
     "Description": "",
-    "Language": "English"
-  },
-  {
-    "Name": "Wild Rose Sangha",
-    "Category": "Single Practice Sanghas",
-    "Sub Category": "Daily",
-    "Frequency": "daily",
-    "Duration": "30",
-    "Time Zone": "Canada/Mountain",
-    "Times": "07:45 Mon",
-    "Contact Name": "Jim",
-    "Contact Email": "Jim.fries@shaw.ca",
-    "Website": "",
-    "Description": "Silent meditation",
     "Language": "English"
   },
   {
@@ -3007,7 +2685,7 @@
     "Contact Email": "morning.light.sangha.taiwan@gmail.com",
     "Website": "https://www.instagram.com/morning_light_sangha",
     "Description": "Our sangha is a hybrid one, with both physical and online sangha happening at the same time in Taipei. Conducted in English",
-    "Language": "中文 (Chinese)"
+    "Language": "中文 (chinese)"
   },
   {
     "Name": "臺北共修團 (Taipei Taiwan Sangha)",
@@ -3021,7 +2699,7 @@
     "Contact Email": "victoriapfliiu@gmail.com",
     "Website": "",
     "Description": "",
-    "Language": "中文 (Chinese)"
+    "Language": "中文 (chinese)"
   },
   {
     "Name": "霽月共修團(線上) (Jiyue Sangha Online)",
@@ -3035,7 +2713,7 @@
     "Contact Email": "Ji.Yue.Sangha@proton.me",
     "Website": "",
     "Description": "",
-    "Language": "中文 (Chinese)"
+    "Language": "中文 (chinese)"
   },
   {
     "Name": "INDONESIAN",
@@ -3063,7 +2741,7 @@
     "Contact Email": "rahka.lioe@gmail.com",
     "Website": "",
     "Description": "",
-    "Language": "bahasa indonesia (Indonesian)"
+    "Language": "bahasa indonesia (indonesian)"
   },
   {
     "Name": "BULGARIAN",
@@ -3091,7 +2769,7 @@
     "Contact Email": "plumvillage.bulgarian.sangha@gmail.com",
     "Website": "",
     "Description": "The Bulgarian Plum Village Sanga was established in 2021. We meet online and practice usually Guided Sitting Meditation (or Slow Walking, Deep Relaxation etc.), presentation of Plum Village Practice (text, Dharma talk or video) and Dharma Sharing. Sometimes we have online sessions with Plum Village monastics who offer us short Dharma Talks and/or Questions and Answers sessions.",
-    "Language": "български (Bulgarian)"
+    "Language": "български (bulgarian)"
   },
   {
     "Name": "CZECH",
@@ -3119,7 +2797,7 @@
     "Contact Email": "jindracekan@gmail.com",
     "Website": "",
     "Description": "",
-    "Language": "česky mluvící (Czech)"
+    "Language": "česky mluvící (czech)"
   },
   {
     "Name": "Plum Village v české Republice",
@@ -3133,7 +2811,7 @@
     "Contact Email": "jindracekan@gmail.com",
     "Website": "",
     "Description": "",
-    "Language": "česky mluvící (Czech)"
+    "Language": "česky mluvící (czech)"
   },
   {
     "Name": "GERMAN",
@@ -3161,7 +2839,7 @@
     "Contact Email": "info@achtsam-leben-heidelberg.de",
     "Website": "https://achtsam-leben-heidelberg.de/",
     "Description": "hybrid sangha - meetings online + local days of mindfulness and walking meditations",
-    "Language": "deutsch (German)"
+    "Language": "deutsch (german)"
   },
   {
     "Name": "Sangha Garten der Achtsamkeit",
@@ -3175,7 +2853,7 @@
     "Contact Email": "mail@sangha-luzern.ch",
     "Website": "www.sangha-luzern.ch",
     "Description": "",
-    "Language": "deutsch (German)"
+    "Language": "deutsch (german)"
   },
   {
     "Name": "Elternsangha",
@@ -3189,7 +2867,21 @@
     "Contact Email": "susanne.spinnler@gmail.com",
     "Website": "",
     "Description": "",
-    "Language": "deutsch (German)"
+    "Language": "deutsch (german)"
+  },
+  {
+    "Name": "Die Freiburger Gruppe der Erdschützer",
+    "Category": "Affinity Sanghas",
+    "Sub Category": "",
+    "Frequency": "3rd Thurs",
+    "Duration": "90",
+    "Time Zone": "Europe/Stuttgart",
+    "Times": "19:00 Thu",
+    "Contact Name": "Nicole",
+    "Contact Email": "atarabi@gmx.net",
+    "Website": "",
+    "Description": "Die Freiburger Gruppe der Erdschützer innen in der Tradition von Thich Nhat Hanh trifft sich regelmäßig zum Praktizieren im öffentlichen Raum.",
+    "Language": "deutsch (german)"
   },
   {
     "Name": "Sangha in der Bremen Neustadt",
@@ -3203,7 +2895,7 @@
     "Contact Email": "antje_eberhardt@t-online.de",
     "Website": "",
     "Description": "",
-    "Language": "deutsch (German)"
+    "Language": "deutsch (german)"
   },
   {
     "Name": "GREEK",
@@ -3231,7 +2923,7 @@
     "Contact Email": "madosofiakonst@hotmail.com",
     "Website": "",
     "Description": "",
-    "Language": "ελληνικά (Greek)"
+    "Language": "ελληνικά (greek)"
   },
   {
     "Name": "Interbeing Ελλάδα (Interbeing Greece)",
@@ -3245,7 +2937,7 @@
     "Contact Email": "interbeing.greece@gmail.com",
     "Website": "",
     "Description": "",
-    "Language": "ελληνικά (Greek)"
+    "Language": "ελληνικά (greek)"
   },
   {
     "Name": "SPANISH",
@@ -3273,7 +2965,7 @@
     "Contact Email": "adtargentina@earthholders.org",
     "Website": "",
     "Description": "",
-    "Language": "español (Spanish)"
+    "Language": "español (spanish)"
   },
   {
     "Name": "Sangha de las Américas  (Sangha of the Americas)",
@@ -3287,7 +2979,7 @@
     "Contact Email": "joaquincarral@gmail.com",
     "Website": "",
     "Description": "",
-    "Language": "español (Spanish)"
+    "Language": "español (spanish)"
   },
   {
     "Name": "Sangha Aspiración de la Fuente (Sangha Aspiration of the Source)",
@@ -3301,7 +2993,7 @@
     "Contact Email": "marianaguhl@gmail.com",
     "Website": "",
     "Description": "",
-    "Language": "español (Spanish)"
+    "Language": "español (spanish)"
   },
   {
     "Name": "Sangha del Buen Ayre (Sangha of the Good Wind)",
@@ -3315,7 +3007,7 @@
     "Contact Email": "sanghadelbuenayre@gmail.com",
     "Website": "",
     "Description": "",
-    "Language": "español (Spanish)"
+    "Language": "español (spanish)"
   },
   {
     "Name": "Sangha Bogotá",
@@ -3329,7 +3021,7 @@
     "Contact Email": "sangha.bogota@gmail.com",
     "Website": "",
     "Description": "",
-    "Language": "español (Spanish)"
+    "Language": "español (spanish)"
   },
   {
     "Name": "Sangha Bogotá",
@@ -3343,7 +3035,7 @@
     "Contact Email": "sangha.bogota@gmail.com",
     "Website": "",
     "Description": "",
-    "Language": "español (Spanish)"
+    "Language": "español (spanish)"
   },
   {
     "Name": "Sangha Bogotá",
@@ -3357,7 +3049,7 @@
     "Contact Email": "sangha.bogota@gmail.com",
     "Website": "",
     "Description": "",
-    "Language": "español (Spanish)"
+    "Language": "español (spanish)"
   },
   {
     "Name": "Sangha Bogotá",
@@ -3371,7 +3063,7 @@
     "Contact Email": "sangha.bogota@gmail.com",
     "Website": "",
     "Description": "",
-    "Language": "español (Spanish)"
+    "Language": "español (spanish)"
   },
   {
     "Name": "Sangha de Chimalistac (Sangha of Chimalistac)",
@@ -3385,7 +3077,7 @@
     "Contact Email": "hirsch@nucleares.unam.mx",
     "Website": "",
     "Description": "",
-    "Language": "español (Spanish)"
+    "Language": "español (spanish)"
   },
   {
     "Name": "Sangha Flor de Loto",
@@ -3399,7 +3091,7 @@
     "Contact Email": "sanghaflordeloto@gmail.com",
     "Website": "",
     "Description": "Todas las tradiciones espirituales son bienvenidas. Practicamos la plena conciencia en la tradición de la Aldea de los Ciruelos.",
-    "Language": "español (Spanish)"
+    "Language": "español (spanish)"
   },
   {
     "Name": "Sangha Las Flores (Sangha of the Flowers)",
@@ -3413,7 +3105,7 @@
     "Contact Email": "informacion@ordeninterser.org",
     "Website": "",
     "Description": "",
-    "Language": "español (Spanish)"
+    "Language": "español (spanish)"
   },
   {
     "Name": "Sangha de la Fuente (Sangha of the Source)",
@@ -3427,7 +3119,7 @@
     "Contact Email": "sanghadelafuente@gmail.com",
     "Website": "",
     "Description": "",
-    "Language": "español (Spanish)"
+    "Language": "español (spanish)"
   },
   {
     "Name": "Sangha Girasoles (Sunflowers Sangha)",
@@ -3441,7 +3133,7 @@
     "Contact Email": "sanghagirasoles2024@gmail.com",
     "Website": "",
     "Description": "",
-    "Language": "español (Spanish)"
+    "Language": "español (spanish)"
   },
   {
     "Name": "Sangha de Ibero (Ibero Sangha)",
@@ -3455,7 +3147,7 @@
     "Contact Email": "traverocio@gmail.com",
     "Website": "",
     "Description": "",
-    "Language": "español (Spanish)"
+    "Language": "español (spanish)"
   },
   {
     "Name": "Sangha Inspirando (Inspiring Sangha)",
@@ -3469,7 +3161,7 @@
     "Contact Email": "mandreabutron@gmail.com",
     "Website": "",
     "Description": "",
-    "Language": "español (Spanish)"
+    "Language": "español (spanish)"
   },
   {
     "Name": "Sangha Insightful Mind (Insightful Mind Sangha)",
@@ -3483,7 +3175,7 @@
     "Contact Email": "ben@earthplus.io",
     "Website": "",
     "Description": "",
-    "Language": "español (Spanish)"
+    "Language": "español (spanish)"
   },
   {
     "Name": "Sangha Medellín",
@@ -3497,7 +3189,7 @@
     "Contact Email": "wakeupmedellin@gmail.com",
     "Website": "",
     "Description": "",
-    "Language": "español (Spanish)"
+    "Language": "español (spanish)"
   },
   {
     "Name": "Sangha Mudita",
@@ -3511,7 +3203,7 @@
     "Contact Email": "lapazencadapaso@gmail.com",
     "Website": "www.facebook.com/ComunidadChilenaPlenaConciencia/",
     "Description": "Practicamos semanalmente una sesión de una hora y Media de meditación sentada/caminando, Cantos, lecturas de Dharma (textos de Thay) Compartir el Dharma y observación de los 5 Mindfulness Trainings",
-    "Language": "español (Spanish)"
+    "Language": "español (spanish)"
   },
   {
     "Name": "Sangha en la Nube (Sangha in the Cloud)",
@@ -3525,7 +3217,7 @@
     "Contact Email": "sanghaenlanube.oi@gmail.com",
     "Website": "",
     "Description": "",
-    "Language": "español (Spanish)"
+    "Language": "español (spanish)"
   },
   {
     "Name": "Sangha Panamá",
@@ -3539,7 +3231,7 @@
     "Contact Email": "npimentel0722@gmail.com",
     "Website": "",
     "Description": "meet on even week-numbers",
-    "Language": "español (Spanish)"
+    "Language": "español (spanish)"
   },
   {
     "Name": "Sangha de Querétaro (Sangha of Querétaro)",
@@ -3553,7 +3245,7 @@
     "Contact Email": "monicalvarado@yahoo.com",
     "Website": "",
     "Description": "",
-    "Language": "español (Spanish)"
+    "Language": "español (spanish)"
   },
   {
     "Name": "Sangha del Silencio",
@@ -3567,7 +3259,7 @@
     "Contact Email": "sanghasilenciomurcia@gmail.com",
     "Website": "",
     "Description": "La Sangha del Silencio surgió hace unos 12 años como grupo presencial, pero desde el 2020 se transformó exclusivamente en grupo online que se reúne el 1er y 3er domingo de cada mes de 19 a 20:30 horas (online).",
-    "Language": "español (Spanish)"
+    "Language": "español (spanish)"
   },
   {
     "Name": "Sangha de UNAM (Sangha of UNAM)",
@@ -3581,7 +3273,7 @@
     "Contact Email": "hirsch@nucleares.unam.mx",
     "Website": "",
     "Description": "",
-    "Language": "español (Spanish)"
+    "Language": "español (spanish)"
   },
   {
     "Name": "Sangha Vitacura",
@@ -3595,7 +3287,7 @@
     "Contact Email": "carpinto2000@gmail.com",
     "Website": "www.facebook.com/ComunidadChilenaPlenaConciencia/",
     "Description": "Practicamos semanalmente una sesión de dos horas de meditación,sentada/caminando, cantos, lecturas de Dharma (textos de Thay) compartir el Dharma y observación de los 5 Mindfulness Trainings",
-    "Language": "español (Spanish)"
+    "Language": "español (spanish)"
   },
   {
     "Name": "Semillas de Fraternidad (Seeds of Fraternity)",
@@ -3609,7 +3301,7 @@
     "Contact Email": "barbarapeuvrie@yahoo.com.ar",
     "Website": "",
     "Description": "",
-    "Language": "español (Spanish)"
+    "Language": "español (spanish)"
   },
   {
     "Name": "ZASP Hispanohablantes Internacional",
@@ -3623,7 +3315,7 @@
     "Contact Email": "zasphispanohablantes@gmail.com",
     "Website": "",
     "Description": "",
-    "Language": "español (Spanish)"
+    "Language": "español (spanish)"
   },
   {
     "Name": "FRENCH",
@@ -3651,12 +3343,12 @@
     "Contact Email": "madeca@ecomail.bzh",
     "Website": "",
     "Description": "",
-    "Language": "Français (French)"
+    "Language": "français (french)"
   },
   {
     "Name": "Sangha Lotus du Matin (Morning Lotus Sangha)",
     "Category": "Practice Sanghas",
-    "Sub Category": "Meditation",
+    "Sub Category": "Guided Meditation",
     "Frequency": "Weekdays",
     "Duration": "30",
     "Time Zone": "Europe/Paris",
@@ -3665,7 +3357,7 @@
     "Contact Email": "pascal.guion.lotus@outlook.fr",
     "Website": "",
     "Description": "",
-    "Language": "Français (French)"
+    "Language": "français (french)"
   },
   {
     "Name": "Sangha du Lotus Noir (Black Lotus Sangha)",
@@ -3679,12 +3371,12 @@
     "Contact Email": "lotusnoirsangha@protonmail.com",
     "Website": "https://lotusnoirsangha.wordpress.com/",
     "Description": "",
-    "Language": "Français (French)"
+    "Language": "français (french)"
   },
   {
     "Name": "Méditation du Matin (Morning Meditation)",
     "Category": "Practice Sanghas",
-    "Sub Category": "Meditation",
+    "Sub Category": "Guided Meditation",
     "Frequency": "Weekdays",
     "Duration": "30",
     "Time Zone": "Europe/Paris",
@@ -3693,7 +3385,7 @@
     "Contact Email": "pluiequifleurit@gmail.com",
     "Website": "",
     "Description": "",
-    "Language": "Français (French)"
+    "Language": "français (french)"
   },
   {
     "Name": "Sangha Mandala",
@@ -3707,7 +3399,7 @@
     "Contact Email": "sanghamandala62@gmail.com",
     "Website": "",
     "Description": "",
-    "Language": "Français (French)"
+    "Language": "français (french)"
   },
   {
     "Name": "Sangha Mouvements",
@@ -3721,7 +3413,7 @@
     "Contact Email": "sanghamouvements@gmail.com",
     "Website": "",
     "Description": "",
-    "Language": "Français (French)"
+    "Language": "français (french)"
   },
   {
     "Name": "Sangha Mouvements",
@@ -3735,7 +3427,7 @@
     "Contact Email": "sanghamouvements@gmail.com",
     "Website": "",
     "Description": "",
-    "Language": "Français (French)"
+    "Language": "français (french)"
   },
   {
     "Name": "Sangha des Mûriers (Mulberry Sangha)",
@@ -3749,7 +3441,7 @@
     "Contact Email": "eco.rando31@orange.fr",
     "Website": "",
     "Description": "",
-    "Language": "Français (French)"
+    "Language": "français (french)"
   },
   {
     "Name": "Sangha Queer Paris",
@@ -3763,7 +3455,7 @@
     "Contact Email": "sanghaqueer@gmail.com",
     "Website": "",
     "Description": "",
-    "Language": "Français (French)"
+    "Language": "français (french)"
   },
   {
     "Name": "HEBREW",
@@ -3791,7 +3483,7 @@
     "Contact Email": "mindfulnessisrael101@gmail.com",
     "Website": "",
     "Description": "",
-    "Language": "עברית (Hebrew)"
+    "Language": "עברית (hebrew)"
   },
   {
     "Name": "HUNGARIAN",
@@ -3819,7 +3511,7 @@
     "Contact Email": "szelidmosoly@szelidmosoly.hu",
     "Website": "https://szelidmosoly.hu/",
     "Description": "",
-    "Language": "magyar (Hungarian)"
+    "Language": "magyar (hungarian)"
   },
   {
     "Name": "ITALIAN",
@@ -3847,7 +3539,7 @@
     "Contact Email": "emanuelaleonelli2@gmail.com",
     "Website": "",
     "Description": "",
-    "Language": "Italiano (Italian)"
+    "Language": "italiano (italian)"
   },
   {
     "Name": "Sangha del Mare (Sangha of the Sea)",
@@ -3861,7 +3553,7 @@
     "Contact Email": "paolovierucci@gmail.com",
     "Website": "",
     "Description": "",
-    "Language": "Italiano (Italian)"
+    "Language": "italiano (italian)"
   },
   {
     "Name": "Sangha di Pandoiano (Sangha of Pandoiano)",
@@ -3875,7 +3567,7 @@
     "Contact Email": "a.deleonibus@libero.it",
     "Website": "",
     "Description": "",
-    "Language": "Italiano (Italian)"
+    "Language": "italiano (italian)"
   },
   {
     "Name": "JAPANESE",
@@ -3903,12 +3595,12 @@
     "Contact Email": "belovedcommunity.jp@gmail.com",
     "Website": "https://www.beloved-community.net/",
     "Description": "We are a community of friends practicing mindfulness in the tradition of Thich Nhat Hanh and Plum Village since 2013. We offer online gatherings, including a monthly recitation of the Five Mindfulness Trainings, as well as monthly in-person meetings in Yokohama. All are welcome!  https://www.beloved-community.net/english/heart-of-tokyo-yokohama-kamakura-sangha-english/",
-    "Language": "日本語 (Japanese)"
+    "Language": "日本語 (japanese)"
   },
   {
     "Name": "Heart of Yokohama, Tokyo, Kamakura Sangha",
     "Category": "Affinity Sanghas",
-    "Sub Category": "Meditation",
+    "Sub Category": "Guided Meditation",
     "Frequency": "Bi-Monthly",
     "Duration": "45",
     "Time Zone": "Japan",
@@ -3917,7 +3609,7 @@
     "Contact Email": "belovedcommunity.jp@gmail.com",
     "Website": "https://www.beloved-community.net/",
     "Description": "",
-    "Language": "日本語 (Japanese)"
+    "Language": "日本語 (japanese)"
   },
   {
     "Name": "LITHUANIAN",
@@ -3945,7 +3637,7 @@
     "Contact Email": "vilnius.sangha@gmail.com",
     "Website": "",
     "Description": "",
-    "Language": "Lietuvių (Lithuanian)"
+    "Language": "lietuvių (lithuanian)"
   },
   {
     "Name": "DUTCH",
@@ -3973,7 +3665,7 @@
     "Contact Email": "liasanghaonline@aandacht.net",
     "Website": "",
     "Description": "",
-    "Language": "Nederland (Dutch)"
+    "Language": "nederland (dutch)"
   },
   {
     "Name": "Wake Up Nederland",
@@ -3987,7 +3679,7 @@
     "Contact Email": "online@wkup.nl",
     "Website": "",
     "Description": "",
-    "Language": "Nederland (Dutch)"
+    "Language": "nederland (dutch)"
   },
   {
     "Name": "POLISH",
@@ -4015,7 +3707,7 @@
     "Contact Email": "sangha@usmiechbuddy.org",
     "Website": "https://www.usmiechbuddy.org/cloud/",
     "Description": "",
-    "Language": "Polskie (Polish)"
+    "Language": "polskie (polish)"
   },
   {
     "Name": "PORTUGUESE",
@@ -4043,7 +3735,7 @@
     "Contact Email": "eduardo@aoutramargem.org",
     "Website": "",
     "Description": "",
-    "Language": "Português (Portuguese)"
+    "Language": "português (portuguese)"
   },
   {
     "Name": "Comunidade Guardiã da Terra (Earth Guardian Community)",
@@ -4057,7 +3749,7 @@
     "Contact Email": "guardioesdaterra.thay@gmail.com",
     "Website": "https://www.instagram.com/guardioesdaterra.ehcbr/",
     "Description": "",
-    "Language": "Português (Portuguese)"
+    "Language": "português (portuguese)"
   },
   {
     "Name": "Sangha Viver Consciente",
@@ -4071,7 +3763,7 @@
     "Contact Email": "contato@viverconsciente.com",
     "Website": "https://www.viverconsciente.com/",
     "Description": "",
-    "Language": "Português (Portuguese)"
+    "Language": "português (portuguese)"
   },
   {
     "Name": "Sangha Zen Mantiqueira",
@@ -4085,12 +3777,12 @@
     "Contact Email": "zenmantiqueira@gmail.com",
     "Website": "",
     "Description": "meditação, leitura do Dharma e partilha do Dharma",
-    "Language": "Português (Portuguese)"
+    "Language": "português (portuguese)"
   },
   {
     "Name": "Sangha Zen Mantiqueira",
     "Category": "Practice Sanghas",
-    "Sub Category": "Meditation",
+    "Sub Category": "Guided Meditation",
     "Frequency": "Weekly",
     "Duration": "40",
     "Time Zone": "Brazil/Sao Paulo",
@@ -4099,7 +3791,7 @@
     "Contact Email": "zenmantiqueira@gmail.com",
     "Website": "",
     "Description": "meditação e partilha",
-    "Language": "Português (Portuguese)"
+    "Language": "português (portuguese)"
   },
   {
     "Name": "Sangha Zen Mantiqueira",
@@ -4113,7 +3805,7 @@
     "Contact Email": "zenmantiqueira@gmail.com",
     "Website": "",
     "Description": "medtação silenciosa",
-    "Language": "Português (Portuguese)"
+    "Language": "português (portuguese)"
   },
   {
     "Name": "ROMANIAN",
@@ -4141,7 +3833,7 @@
     "Contact Email": "https://andreia.mitrea@gmail.com/",
     "Website": "",
     "Description": "",
-    "Language": "Românește (Romanian)"
+    "Language": "românește (romanian)"
   },
   {
     "Name": "SLOVENIAN",
@@ -4169,7 +3861,7 @@
     "Contact Email": "npimentel0722@gmail.com",
     "Website": "",
     "Description": "Smo Sangha Slovenija, sveže ustanovljena za prakso v tradiciji Plum Village.  Pozdravljeni,  dragi prijatelj!  \n\nRojstvo Sanghe v tradiciji Plum Village v Sloveniji poteka že nekaj časa.  Zdaj, ko nas je peščica ljudi, ki so pokazali zanimanje, bi se radi začeli občasno srečevati.  S tem v mislih predlagamo spletno srečanje, da se malo spoznamo in izmenjamo zamisli ter čas, oblike in pogostost takih srečanj. Srečanje bi bilo okvirno konec marca 2025. \n\nČe vas sodelovanje zanima, nam, prosimo, sporočite na npimentel0722@gmail.com. Poskusili bomo uskladiti čas spletnega srečanja tako, da bo vsem v redu. \n\nZ ljubečo prijaznostjo,\n\nSangha Slovenia",
-    "Language": "Slovenščina (Slovenian)"
+    "Language": "slovenščina (slovenian)"
   },
   {
     "Name": "SWEDISH",
@@ -4197,7 +3889,7 @@
     "Contact Email": "earthholders.sweden@gmail.com",
     "Website": "",
     "Description": "",
-    "Language": "svenska (Swedish)"
+    "Language": "svenska (swedish)"
   },
   {
     "Name": "Glädjens källa (The Source of Joy)",
@@ -4211,7 +3903,7 @@
     "Contact Email": "kontakt@gladjenskalla.se",
     "Website": "",
     "Description": "",
-    "Language": "svenska (Swedish)"
+    "Language": "svenska (swedish)"
   },
   {
     "Name": "VIETNAMESE",
@@ -4239,7 +3931,7 @@
     "Contact Email": "lng00725@gmail.com",
     "Website": "",
     "Description": "",
-    "Language": "Tiếng Việt (Vietnamese)"
+    "Language": "tiếng việt (vietnamese)"
   },
   {
     "Name": "Tăng thân Tâm Sáng (Bright Mind/Heart Sangha)",
@@ -4253,7 +3945,7 @@
     "Contact Email": "maihue.wellbeing@gmail.com",
     "Website": "https://youtu.be/qMe2hdmsroc",
     "Description": "",
-    "Language": "Tiếng Việt (Vietnamese)"
+    "Language": "tiếng việt (vietnamese)"
   },
   {
     "Name": "Xóm Dừa Sangha (Coconut Village Sangha)",
@@ -4267,7 +3959,7 @@
     "Contact Email": "info@xomdua.org",
     "Website": "https://xomdua.org/",
     "Description": "",
-    "Language": "Tiếng Việt (Vietnamese)"
+    "Language": "tiếng việt (vietnamese)"
   },
   {
     "Name": "QT Việt Sangha",
@@ -4281,7 +3973,7 @@
     "Contact Email": "qtvietsangha@gmail.com",
     "Website": "",
     "Description": "",
-    "Language": "Tiếng Việt (Vietnamese)"
+    "Language": "tiếng việt (vietnamese)"
   },
   {
     "Name": "THAI",
@@ -4309,7 +4001,7 @@
     "Contact Email": "premprach@gmail.com",
     "Website": "",
     "Description": "",
-    "Language": "ไทย (Thai)"
+    "Language": "ไทย (thai)"
   },
   {
     "Name": "TURKISH",
@@ -4337,6 +4029,6 @@
     "Contact Email": "mete@commoncolors.net",
     "Website": "",
     "Description": "This sangha meets in Turkshi, however English translation is available for non-Turkish speakers",
-    "Language": "Türkçe"
+    "Language": "türkçe (turkish)"
   }
 ]
