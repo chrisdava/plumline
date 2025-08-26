@@ -6,7 +6,21 @@
     "Frequency": "twice weekly",
     "Duration": "90",
     "Time Zone": "America/Los_Angeles",
-    "Times": "19:00 Wed, 10:00 Sat",
+    "Times": "19:00 Wed",
+    "Contact Name": "Peter",
+    "Contact Email": "peterkuhnxx@gmail.com",
+    "Website": "",
+    "Description": "Exploring the intersection of Buddha’s teachings and 12 step wisdom",
+    "Language": "English"
+  },
+  {
+    "Name": "12 Step Zen",
+    "Category": "Affinity Sanghas",
+    "Sub Category": "Healing",
+    "Frequency": "twice weekly",
+    "Duration": "90",
+    "Time Zone": "America/Los_Angeles",
+    "Times": "10:00 Sat",
     "Contact Name": "Peter",
     "Contact Email": "peterkuhnxx@gmail.com",
     "Website": "",
@@ -295,8 +309,8 @@
   },
   {
     "Name": "Breathe, You Are Alive",
-    "Category": "Single Practice Sanghas",
-    "Sub Category": "Silent Meditation",
+    "Category": "Traditional Sanghas",
+    "Sub Category": "",
     "Frequency": "weekly",
     "Duration": "60",
     "Time Zone": "Europe/Luxembourg",
@@ -304,7 +318,7 @@
     "Contact Name": "Věra",
     "Contact Email": "chob@seznam.cz",
     "Website": "https://verakristensen1406.wixsite.com/breatheyouarealive",
-    "Description": "We are a small sangha that meets weekly to practice sitting meditation followed by a few mindful movements, read a short text and share what’s in our hearts. We find that this regular practice brings us solidity and joy in our everyday lives. For more information please check our website.",
+    "Description": "",
     "Language": "English"
   },
   {
@@ -374,7 +388,7 @@
     "Contact Name": "Chris",
     "Contact Email": "info@cahabariversangha.com",
     "Website": "https://cahabariversangha.com/",
-    "Description": "Dharma book club",
+    "Description": "",
     "Language": "English"
   },
   {
@@ -402,7 +416,7 @@
     "Contact Name": "Melina",
     "Contact Email": "melinabondy@gmail.com",
     "Website": "http://www.melinabondy.com",
-    "Description": "Chanting",
+    "Description": "",
     "Language": "English"
   },
   {
@@ -658,6 +672,20 @@
     "Language": "English"
   },
   {
+    "Name": "Upper Midwest OI, OI aspirant or Aspirant Curious Sangha",
+    "Category": "",
+    "Sub Category": "",
+    "Frequency": "",
+    "Duration": "",
+    "Time Zone": "",
+    "Times": "",
+    "Contact Name": "",
+    "Contact Email": "",
+    "Website": "",
+    "Description": "",
+    "Language": ""
+  },
+  {
     "Name": "Direction Home Sangha",
     "Category": "Affinity Sanghas",
     "Sub Category": "Professions",
@@ -668,7 +696,7 @@
     "Contact Name": "Lihi",
     "Contact Email": "directionhomesangha@gmail.com",
     "Website": "",
-    "Description": "A space for Mental Health Professionals. We will meet on Sept 13, Oct 10, Nov 8 and Dec 13 at the listed time. Please inquire for more information!",
+    "Description": "A space for Mental Health Professionals.",
     "Language": "English"
   },
   {
@@ -1008,20 +1036,6 @@
     "Language": "English"
   },
   {
-    "Name": "Indian – Ahimsa Trust Sanghas",
-    "Category": "Affinity Sanghas",
-    "Sub Category": "Other Affinity Sanghas",
-    "Frequency": "",
-    "Duration": "",
-    "Time Zone": "",
-    "Times": "",
-    "Contact Name": "Shalini",
-    "Contact Email": "ahimsa.trust@gmail.com",
-    "Website": "https://ahimsatrust.org/events",
-    "Description": "A practice community of mostly Indian friends with a number of regular online meetings. Please visit website for details.",
-    "Language": "English"
-  },
-  {
     "Name": "Insightful Mind Sangha (GMT)",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
@@ -1037,8 +1051,8 @@
   },
   {
     "Name": "Insightful Mind Sangha (GMT)",
-    "Category": "Single Practice Sanghas",
-    "Sub Category": "Other Practice Sanghas",
+    "Category": "Affinity Sanghas",
+    "Sub Category": "Other Affinity Sanghas",
     "Frequency": "weekly",
     "Duration": "30",
     "Time Zone": "Atlantic/Canary",
@@ -1060,7 +1074,7 @@
     "Contact Name": "Ben",
     "Contact Email": "ben@benearthplus@gmail.com",
     "Website": "",
-    "Description": "Mindful eating is included on Tuesdays",
+    "Description": "",
     "Language": "English"
   },
   {
@@ -1074,7 +1088,7 @@
     "Contact Name": "Ben",
     "Contact Email": "ben@benearthplus@gmail.com",
     "Website": "",
-    "Description": "Participants may also attend either 06:30 to 07:00 or 07:00 to 07:15 GMT",
+    "Description": "",
     "Language": "English"
   },
   {
@@ -1144,7 +1158,7 @@
     "Contact Name": "Shelagh",
     "Contact Email": "shalevbs@netvision.net.il",
     "Website": "",
-    "Description": "A collaboration with \"wisdom of aging\". Aimed for elderly people",
+    "Description": "A collaboration with \"wisdom of aging\" aimed for elderly people",
     "Language": "English"
   },
   {
@@ -1270,7 +1284,7 @@
     "Contact Name": "Don",
     "Contact Email": "donald.leka@gmail.com",
     "Website": "",
-    "Description": "Living the 14 Sangha The 14 Mindfulness Trainings are the foundation of the Order of Interbeing and we are strengthening our commitment to them by looking deeply at a single training each week.  We are open to OI members, Aspirants and pre-Aspirants. Each week is a study in itself. You are welcome anytime, week to week. Wednesdays, 7:30-9 PM ET on zoom.",
+    "Description": "The 14 Mindfulness Trainings are the foundation of the Order of Interbeing and we are strengthening our commitment to them by looking deeply at a single training each week.  We are open to OI members, Aspirants and pre-Aspirants.",
     "Language": "English"
   },
   {
@@ -1402,7 +1416,7 @@
   {
     "Name": "Mindfulness in Healing",
     "Category": "Affinity Sanghas",
-    "Sub Category": "Other Affinity Sanghas",
+    "Sub Category": "Healing",
     "Frequency": "",
     "Duration": "60",
     "Time Zone": "America/Los_Angeles",
@@ -1429,8 +1443,8 @@
   },
   {
     "Name": "Mossy Path Sangha",
-    "Category": "Single Practice Sanghas",
-    "Sub Category": "Other Practice Sanghas",
+    "Category": "Traditional Sanghas",
+    "Sub Category": "",
     "Frequency": "weekly",
     "Duration": "60",
     "Time Zone": "America/New_York",
@@ -1458,7 +1472,7 @@
   {
     "Name": "Muddy Path Sangha",
     "Category": "Affinity Sanghas",
-    "Sub Category": "Other Affinity Sanghas",
+    "Sub Category": "Healing, Other Affinity Sanghas",
     "Frequency": "quarterly",
     "Duration": "60-90",
     "Time Zone": "America/New_York",
@@ -1494,7 +1508,7 @@
     "Contact Name": "Elizabeth",
     "Contact Email": "neurodivergentsangha@gmail.com",
     "Website": "https://neurodivergentsangha.wixsite.com/plumvillage",
-    "Description": "Neurodivergent Sangha offers a safe and reliable space where you can express and liberate what you’ve been hiding without the fear of discrimination. Embracing neurodiversity through mindful connection, we provide spiritual support with Thich Nhat Hanh Tradition Plum Village's Practice. Our practices include Guided Meditation, Deep Listening, and Contemplative Exercise, helping you accept differences, build confidence, and achieve peace of mind. Join us to experience a community that values acceptance and spiritual growth.",
+    "Description": "A safe and reliable space where you can express and liberate what you’ve been hiding without the fear of discrimination. Embracing neurodiversity through mindful connection, we provide spiritual support with Thich Nhat Hanh Tradition Plum Village's Practice.",
     "Language": "English"
   },
   {
@@ -1858,7 +1872,7 @@
     "Contact Name": "Jam",
     "Contact Email": "jammin108@hotmail.com",
     "Website": "",
-    "Description": "For Trans/Non-binary/Gender-Queer/Gender-Questioning/Intersex people with Monastic Aspiration. Even if your aspiration is very small, has lots of doubts, or is in the past - you're welcome to join! We primarily get together to share about our experience of having an aspiration that may not be available to us as our Truest selves. Open to hearing both the pain as well as the joys of potential exciting possibilities! This space is only for those who fit the above description – it is currently not for allies. Please email with your interest and confirming that you meet the description – and then you can find out when our next meeting is.",
+    "Description": "For Trans/Non-binary/Gender-Queer/Gender-Questioning/Intersex people with Monastic Aspiration. Open to hearing both the pain as well as the joys of potential exciting possibilities! This space is only for those who fit the above description – it is currently not for allies.",
     "Language": "English"
   },
   {
@@ -1919,8 +1933,8 @@
   },
   {
     "Name": "Red Kite Zen Sangha",
-    "Category": "Single Practice Sanghas",
-    "Sub Category": "Other Practice Sanghas",
+    "Category": "Affinity Sanghas",
+    "Sub Category": "Other Affinity Sanghas",
     "Frequency": "various days and times each month",
     "Duration": "",
     "Time Zone": "",
@@ -2208,7 +2222,7 @@
     "Contact Name": "Sylvia",
     "Contact Email": "sylviaclare@plumvillage.uk",
     "Website": "",
-    "Description": "Neurodiversity Sangha. Meetings are held on Zoom as it allows people to attend with camera off and to feel safe until they are ready to show their faces. It takes some people months to get to that level of safety. Joining involves a brief chat to explain how we function and to make sure it is a good match. You can use the provided email to contact us initially.",
+    "Description": "Meetings are held on Zoom as it allows people to attend with camera off and to feel safe until they are ready to show their faces. It takes some people months to get to that level of safety. Joining involves a brief chat to explain how we function and to make sure it is a good match.",
     "Language": "English"
   },
   {
@@ -2488,7 +2502,7 @@
     "Contact Name": "",
     "Contact Email": "whiteawaresanghauk@gmail.com",
     "Website": "https://plumvillage.uk/practice-groups/find-a-group/white-awareness-sangha/",
-    "Description": "Second Sunday each month. An opportunity for sangha members who have been socialised as/identify as ‘white’ – and would be interested in practicing together and reflecting on what this means in a racialised society, in an open, compassionate space of deep listening and loving speech. UK-based, however we welcome people from anywhere.",
+    "Description": "An opportunity for sangha members who have been socialised as/identify as ‘white’ – and would be interested in practicing together and reflecting on what this means in a racialised society, in an open, compassionate space of deep listening and loving speech. UK-based, however we welcome people from anywhere.",
     "Language": "English"
   },
   {
@@ -2502,7 +2516,7 @@
     "Contact Name": "",
     "Contact Email": "whitecloudssangha@gmail.com",
     "Website": "https://plumvillage.uk/group/white-clouds-sangha-2/",
-    "Description": "Meets online for mindfulness and meditation every Thursday evening from 7pm to 8:30pm.",
+    "Description": "",
     "Language": "English"
   },
   {
@@ -2872,7 +2886,7 @@
   {
     "Name": "Die Freiburger Gruppe der Erdschützer",
     "Category": "Affinity Sanghas",
-    "Sub Category": "",
+    "Sub Category": "Engaged Practice",
     "Frequency": "3rd Thurs",
     "Duration": "90",
     "Time Zone": "Europe/Stuttgart",
@@ -2912,7 +2926,7 @@
     "Language": ""
   },
   {
-    "Name": "Sangha Αθήνας (Sangha of Athens)",
+    "Name": "Sangha Αθήνας",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
     "Frequency": "Weekly",
@@ -2926,7 +2940,7 @@
     "Language": "ελληνικά (greek)"
   },
   {
-    "Name": "Interbeing Ελλάδα (Interbeing Greece)",
+    "Name": "Interbeing Ελλάδα",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
     "Frequency": "Fortnightly",
@@ -2954,7 +2968,7 @@
     "Language": ""
   },
   {
-    "Name": "Abrazadores de la Tierra Argentina (Earth Holders Argentina)",
+    "Name": "Abrazadores de la Tierra Argentina",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
     "Frequency": "Weekly",
@@ -2968,7 +2982,7 @@
     "Language": "español (spanish)"
   },
   {
-    "Name": "Sangha de las Américas  (Sangha of the Americas)",
+    "Name": "Sangha de las Américas",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
     "Frequency": "every 2 months",
@@ -2982,7 +2996,7 @@
     "Language": "español (spanish)"
   },
   {
-    "Name": "Sangha Aspiración de la Fuente (Sangha Aspiration of the Source)",
+    "Name": "Sangha Aspiración de la Fuente",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
     "Frequency": "Weekly",
@@ -2996,7 +3010,7 @@
     "Language": "español (spanish)"
   },
   {
-    "Name": "Sangha del Buen Ayre (Sangha of the Good Wind)",
+    "Name": "Sangha del Buen Ayre",
     "Category": "Practice Sanghas",
     "Sub Category": "Guided Meditation",
     "Frequency": "Weekly",
@@ -3013,10 +3027,38 @@
     "Name": "Sangha Bogotá",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
-    "Frequency": "Tue / Wed / Sat",
-    "Duration": "90 / 90 / 60",
+    "Frequency": "Tue",
+    "Duration": "90",
     "Time Zone": "Colombia/Bogota",
-    "Times": "19:00 / 20:00 / 09:00",
+    "Times": "19:00",
+    "Contact Name": "Ximena",
+    "Contact Email": "sangha.bogota@gmail.com",
+    "Website": "",
+    "Description": "",
+    "Language": "español (spanish)"
+  },
+  {
+    "Name": "Sangha Bogotá",
+    "Category": "Traditional Sanghas",
+    "Sub Category": "",
+    "Frequency": "Tue",
+    "Duration": "90",
+    "Time Zone": "Colombia/Bogota",
+    "Times": "20:00",
+    "Contact Name": "Ximena",
+    "Contact Email": "sangha.bogota@gmail.com",
+    "Website": "",
+    "Description": "",
+    "Language": "español (spanish)"
+  },
+  {
+    "Name": "Sangha Bogotá",
+    "Category": "Traditional Sanghas",
+    "Sub Category": "",
+    "Frequency": "Sat",
+    "Duration": "60",
+    "Time Zone": "Colombia/Bogota",
+    "Times": "09:00",
     "Contact Name": "Ximena",
     "Contact Email": "sangha.bogota@gmail.com",
     "Website": "",
@@ -3066,7 +3108,7 @@
     "Language": "español (spanish)"
   },
   {
-    "Name": "Sangha de Chimalistac (Sangha of Chimalistac)",
+    "Name": "Sangha de Chimalistac",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
     "Frequency": "Weekly",
@@ -3094,7 +3136,7 @@
     "Language": "español (spanish)"
   },
   {
-    "Name": "Sangha Las Flores (Sangha of the Flowers)",
+    "Name": "Sangha Las Flores",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
     "Frequency": "Weekly",
@@ -3108,7 +3150,7 @@
     "Language": "español (spanish)"
   },
   {
-    "Name": "Sangha de la Fuente (Sangha of the Source)",
+    "Name": "Sangha de la Fuente",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
     "Frequency": "Weekly",
@@ -3122,7 +3164,7 @@
     "Language": "español (spanish)"
   },
   {
-    "Name": "Sangha Girasoles (Sunflowers Sangha)",
+    "Name": "Sangha Girasoles",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
     "Frequency": "Weekly",
@@ -3136,7 +3178,7 @@
     "Language": "español (spanish)"
   },
   {
-    "Name": "Sangha de Ibero (Ibero Sangha)",
+    "Name": "Sangha de Ibero",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
     "Frequency": "Weekly",
@@ -3150,7 +3192,7 @@
     "Language": "español (spanish)"
   },
   {
-    "Name": "Sangha Inspirando (Inspiring Sangha)",
+    "Name": "Sangha Inspirando",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
     "Frequency": "Weekly",
@@ -3164,7 +3206,7 @@
     "Language": "español (spanish)"
   },
   {
-    "Name": "Sangha Insightful Mind (Insightful Mind Sangha)",
+    "Name": "Sangha Insightful Mind",
     "Category": "Practice Sanghas",
     "Sub Category": "Guided Meditation",
     "Frequency": "Wed / Thu / Fri",
@@ -3206,7 +3248,7 @@
     "Language": "español (spanish)"
   },
   {
-    "Name": "Sangha en la Nube (Sangha in the Cloud)",
+    "Name": "Sangha en la Nube",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
     "Frequency": "Weekly",
@@ -3234,7 +3276,7 @@
     "Language": "español (spanish)"
   },
   {
-    "Name": "Sangha de Querétaro (Sangha of Querétaro)",
+    "Name": "Sangha de Querétaro",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
     "Frequency": "Weekly",
@@ -3262,7 +3304,7 @@
     "Language": "español (spanish)"
   },
   {
-    "Name": "Sangha de UNAM (Sangha of UNAM)",
+    "Name": "Sangha de UNAM",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
     "Frequency": "Weekly",
@@ -3290,7 +3332,7 @@
     "Language": "español (spanish)"
   },
   {
-    "Name": "Semillas de Fraternidad (Seeds of Fraternity)",
+    "Name": "Semillas de Fraternidad",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
     "Frequency": "Fortnightly",
@@ -3332,7 +3374,7 @@
     "Language": ""
   },
   {
-    "Name": "Sangha Lotus de Bouddha (Lotus of Buddha Sangha)",
+    "Name": "Sangha Lotus de Bouddha",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
     "Frequency": "Bi-Monthly",
@@ -3346,7 +3388,7 @@
     "Language": "français (french)"
   },
   {
-    "Name": "Sangha Lotus du Matin (Morning Lotus Sangha)",
+    "Name": "Sangha Lotus du Matin",
     "Category": "Practice Sanghas",
     "Sub Category": "Guided Meditation",
     "Frequency": "Weekdays",
@@ -3360,7 +3402,7 @@
     "Language": "français (french)"
   },
   {
-    "Name": "Sangha du Lotus Noir (Black Lotus Sangha)",
+    "Name": "Sangha du Lotus Noir",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
     "Frequency": "Bi-Monthly",
@@ -3374,7 +3416,7 @@
     "Language": "français (french)"
   },
   {
-    "Name": "Méditation du Matin (Morning Meditation)",
+    "Name": "Méditation du Matin",
     "Category": "Practice Sanghas",
     "Sub Category": "Guided Meditation",
     "Frequency": "Weekdays",
@@ -3430,7 +3472,7 @@
     "Language": "français (french)"
   },
   {
-    "Name": "Sangha des Mûriers (Mulberry Sangha)",
+    "Name": "Sangha des Mûriers",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
     "Frequency": "Bi-Monthly",
@@ -3472,7 +3514,7 @@
     "Language": ""
   },
   {
-    "Name": "סנגהת שן הארי (Dandelion Sangha)",
+    "Name": "סנגהת שן הארי",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
     "Frequency": "Weekly",
@@ -3528,7 +3570,7 @@
     "Language": ""
   },
   {
-    "Name": "Sangha Diffuso (Widespread Sangha)",
+    "Name": "Sangha Diffuso",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
     "Frequency": "Weekly",
@@ -3542,7 +3584,7 @@
     "Language": "italiano (italian)"
   },
   {
-    "Name": "Sangha del Mare (Sangha of the Sea)",
+    "Name": "Sangha del Mare",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
     "Frequency": "Weekly",
@@ -3556,7 +3598,7 @@
     "Language": "italiano (italian)"
   },
   {
-    "Name": "Sangha di Pandoiano (Sangha of Pandoiano)",
+    "Name": "Sangha di Pandoiano",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
     "Frequency": "Weekly",
@@ -3584,31 +3626,59 @@
     "Language": ""
   },
   {
-    "Name": "Heart of Yokohama, Tokyo, Kamakura Sangha",
+    "Name": "Heart of Tokyo,Yokohama & Kamakura Sangha",
     "Category": "Affinity Sanghas",
     "Sub Category": "Engaged Practice",
     "Frequency": "Bi-Monthly",
     "Duration": "120",
     "Time Zone": "Japan",
-    "Times": "Sun 10:00, Thu 14:00",
+    "Times": "Sun 10:00",
     "Contact Name": "Kanako",
     "Contact Email": "belovedcommunity.jp@gmail.com",
     "Website": "https://www.beloved-community.net/",
-    "Description": "We are a community of friends practicing mindfulness in the tradition of Thich Nhat Hanh and Plum Village since 2013. We offer online gatherings, including a monthly recitation of the Five Mindfulness Trainings, as well as monthly in-person meetings in Yokohama. All are welcome!  https://www.beloved-community.net/english/heart-of-tokyo-yokohama-kamakura-sangha-english/",
+    "Description": "We are a community of friends practicing mindfulness since 2013. We offer online gatherings, including a monthly recitation of the Five Mindfulness Trainings, as well as monthly in-person meetings in Yokohama. All are welcome!",
     "Language": "日本語 (japanese)"
   },
   {
-    "Name": "Heart of Yokohama, Tokyo, Kamakura Sangha",
+    "Name": "Heart of Tokyo,Yokohama & Kamakura Sangha",
+    "Category": "Affinity Sanghas",
+    "Sub Category": "Engaged Practice",
+    "Frequency": "Bi-Monthly",
+    "Duration": "120",
+    "Time Zone": "Japan",
+    "Times": "Thu 14:00",
+    "Contact Name": "Kanako",
+    "Contact Email": "belovedcommunity.jp@gmail.com",
+    "Website": "https://www.beloved-community.net/",
+    "Description": "We are a community of friends practicing mindfulness since 2013. We offer online gatherings, including a monthly recitation of the Five Mindfulness Trainings, as well as monthly in-person meetings in Yokohama. All are welcome!",
+    "Language": "日本語 (japanese)"
+  },
+  {
+    "Name": "Heart of Tokyo,Yokohama & Kamakura Sangha",
     "Category": "Affinity Sanghas",
     "Sub Category": "Guided Meditation",
     "Frequency": "Bi-Monthly",
     "Duration": "45",
     "Time Zone": "Japan",
-    "Times": "Sun 20:30, Thu 20:30",
+    "Times": "Sun 20:30",
     "Contact Name": "Kanako",
     "Contact Email": "belovedcommunity.jp@gmail.com",
     "Website": "https://www.beloved-community.net/",
-    "Description": "",
+    "Description": "We are a community of friends practicing mindfulness since 2013. We offer online gatherings, including a monthly recitation of the Five Mindfulness Trainings, as well as monthly in-person meetings in Yokohama. All are welcome!",
+    "Language": "日本語 (japanese)"
+  },
+  {
+    "Name": "Heart of Tokyo,Yokohama & Kamakura Sangha",
+    "Category": "Affinity Sanghas",
+    "Sub Category": "Guided Meditation",
+    "Frequency": "Bi-Monthly",
+    "Duration": "45",
+    "Time Zone": "Japan",
+    "Times": "Thu 20:30",
+    "Contact Name": "Kanako",
+    "Contact Email": "belovedcommunity.jp@gmail.com",
+    "Website": "https://www.beloved-community.net/",
+    "Description": "We are a community of friends practicing mindfulness since 2013. We offer online gatherings, including a monthly recitation of the Five Mindfulness Trainings, as well as monthly in-person meetings in Yokohama. All are welcome!",
     "Language": "日本語 (japanese)"
   },
   {
@@ -3626,7 +3696,7 @@
     "Language": ""
   },
   {
-    "Name": "Vilniaus Sangha Prabuskime (Vilnius Let's Wake Up Sangha)",
+    "Name": "Vilniaus Sangha Prabuskime",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
     "Frequency": "Weekly",
@@ -3654,7 +3724,7 @@
     "Language": ""
   },
   {
-    "Name": "Online Sangha Leven in Aandacht (Living in Mindfulness Sangha)",
+    "Name": "Online Sangha Leven in Aandacht",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
     "Frequency": "Weekly",
@@ -3696,7 +3766,7 @@
     "Language": ""
   },
   {
-    "Name": "Sangha Uśmiech Buddy (Smile of the Buddha Sangha)",
+    "Name": "Sangha Uśmiech Buddy",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
     "Frequency": "Fortnightly",
@@ -3724,7 +3794,7 @@
     "Language": ""
   },
   {
-    "Name": "A Outra Margem (The Other Shore Sangha)",
+    "Name": "A Outra Margem",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
     "Frequency": "Weekly",
@@ -3738,7 +3808,7 @@
     "Language": "português (portuguese)"
   },
   {
-    "Name": "Comunidade Guardiã da Terra (Earth Guardian Community)",
+    "Name": "Comunidade Guardiã da Terra",
     "Category": "Affinity Sanghas",
     "Sub Category": "Engaged Practice",
     "Frequency": "Bi-Monthly",
@@ -3878,7 +3948,7 @@
     "Language": ""
   },
   {
-    "Name": "Earth Holders Sverige (Earth Holders Sweden)",
+    "Name": "Earth Holders Sverige",
     "Category": "Affinity Sanghas",
     "Sub Category": "Other Affinity Sanghas",
     "Frequency": "Monthly",
@@ -3892,7 +3962,7 @@
     "Language": "svenska (swedish)"
   },
   {
-    "Name": "Glädjens källa (The Source of Joy)",
+    "Name": "Glädjens källa",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
     "Frequency": "Monthly",
@@ -3920,7 +3990,7 @@
     "Language": ""
   },
   {
-    "Name": "Suối Tuệ / Hơi Thở Nhẹ Sangha (Stream of Wisdom / Gentle Breath Sangha)",
+    "Name": "Suối Tuệ / Hơi Thở Nhẹ Sangha",
     "Category": "Affinity Sanghas",
     "Sub Category": "Chanting",
     "Frequency": "Weekly",
@@ -3934,7 +4004,7 @@
     "Language": "tiếng việt (vietnamese)"
   },
   {
-    "Name": "Tăng thân Tâm Sáng (Bright Mind/Heart Sangha)",
+    "Name": "Tăng thân Tâm Sáng",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
     "Frequency": "Weekly",
@@ -3948,7 +4018,7 @@
     "Language": "tiếng việt (vietnamese)"
   },
   {
-    "Name": "Xóm Dừa Sangha (Coconut Village Sangha)",
+    "Name": "Xóm Dừa Sangha",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
     "Frequency": "",
@@ -3990,7 +4060,7 @@
     "Language": ""
   },
   {
-    "Name": "บ่มเพาะพลังแห่งรัก (Cultivate the Power of Love)",
+    "Name": "บ่มเพาะพลังแห่งรัก",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
     "Frequency": "Weekly",
@@ -4018,7 +4088,7 @@
     "Language": ""
   },
   {
-    "Name": "Türkçe Destek ve Dayanışma Sanghası (Turkish Support and Solidarity Sangha)",
+    "Name": "Türkçe Destek ve Dayanışma Sanghası",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
     "Frequency": "Weekly",
