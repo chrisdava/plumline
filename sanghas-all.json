@@ -2596,7 +2596,7 @@
     "Frequency": "weekly",
     "Duration": "60",
     "Time Zone": "Europe/London",
-    "Times": "20:30 Wed",
+    "Times": "20:00 Wed",
     "Contact Name": "",
     "Contact Email": "",
     "Website": "https://worldinterbeingsangha.org",
@@ -2703,8 +2703,8 @@
   },
   {
     "Name": "臺北共修團 (Taipei Taiwan Sangha)",
-    "Category": "Practice Sanghas",
-    "Sub Category": "Mindfulness Trainings",
+    "Category": "Traditional Sanghas",
+    "Sub Category": "",
     "Frequency": "Bi-Monthly",
     "Duration": "90",
     "Time Zone": "Asia/Taipei",
@@ -2755,6 +2755,20 @@
     "Contact Email": "rahka.lioe@gmail.com",
     "Website": "",
     "Description": "",
+    "Language": "bahasa indonesia (indonesian)"
+  },
+  {
+    "Name": "Komunitas Nusantara",
+    "Category": "Traditional Sanghas",
+    "Sub Category": "",
+    "Frequency": "Monthly",
+    "Duration": "90",
+    "Time Zone": "Western Indonesia/Jakarta",
+    "Times": "19:30 Sat",
+    "Contact Name": "CTC.OI",
+    "Contact Email": "ctcoi@plumvillage.or.id",
+    "Website": "http://ordointerbeing.id/",
+    "Description": "First Saturday of each month",
     "Language": "bahasa indonesia (indonesian)"
   },
   {
@@ -2810,21 +2824,21 @@
     "Contact Name": "Jindra",
     "Contact Email": "jindracekan@gmail.com",
     "Website": "",
-    "Description": "",
+    "Description": "First Saturday of each month",
     "Language": "česky mluvící (czech)"
   },
   {
     "Name": "Plum Village v české Republice",
-    "Category": "Practice Sanghas",
+    "Category": "Affinity Sanghas",
     "Sub Category": "Mindfulness Trainings",
     "Frequency": "Monthly",
-    "Duration": "",
+    "Duration": "60",
     "Time Zone": "Europe/Prague",
-    "Times": "20:00 Sun (third)",
+    "Times": "20:00 Sun",
     "Contact Name": "Jindra",
     "Contact Email": "jindracekan@gmail.com",
     "Website": "",
-    "Description": "",
+    "Description": "Third Sunday of each month, mindfulness trainings",
     "Language": "česky mluvící (czech)"
   },
   {
@@ -2885,9 +2899,9 @@
   },
   {
     "Name": "Die Freiburger Gruppe der Erdschützer",
-    "Category": "Affinity Sanghas",
-    "Sub Category": "Engaged Practice",
-    "Frequency": "3rd Thurs",
+    "Category": "Traditional Sanghas",
+    "Sub Category": "",
+    "Frequency": "3rd Thursday",
     "Duration": "90",
     "Time Zone": "Europe/Stuttgart",
     "Times": "19:00 Thu",
@@ -3011,7 +3025,7 @@
   },
   {
     "Name": "Sangha del Buen Ayre",
-    "Category": "Practice Sanghas",
+    "Category": "Affinity Sanghas",
     "Sub Category": "Guided Meditation",
     "Frequency": "Weekly",
     "Duration": "30",
@@ -3067,7 +3081,7 @@
   },
   {
     "Name": "Sangha Bogotá",
-    "Category": "Practice Sanghas",
+    "Category": "Affinity Sanghas",
     "Sub Category": "Mindfulness Trainings",
     "Frequency": "Bi-Weekly",
     "Duration": "60 / 45",
@@ -3082,7 +3096,7 @@
   {
     "Name": "Sangha Bogotá",
     "Category": "Affinity Sanghas",
-    "Sub Category": "Other Affinity Sanghas",
+    "Sub Category": "Engaged Practice",
     "Frequency": "Weekly",
     "Duration": "90",
     "Time Zone": "Colombia/Bogota",
@@ -3095,7 +3109,7 @@
   },
   {
     "Name": "Sangha Bogotá",
-    "Category": "Practice Sanghas",
+    "Category": "Affinity Sanghas",
     "Sub Category": "Healing",
     "Frequency": "Weekly",
     "Duration": "60",
@@ -3207,7 +3221,7 @@
   },
   {
     "Name": "Sangha Insightful Mind",
-    "Category": "Practice Sanghas",
+    "Category": "Affinity Sanghas",
     "Sub Category": "Guided Meditation",
     "Frequency": "Wed / Thu / Fri",
     "Duration": "30",
@@ -3272,7 +3286,7 @@
     "Contact Name": "Nivia",
     "Contact Email": "npimentel0722@gmail.com",
     "Website": "",
-    "Description": "meet on even week-numbers",
+    "Description": "We meet on even weeks of each month.",
     "Language": "español (spanish)"
   },
   {
@@ -3348,7 +3362,7 @@
   {
     "Name": "ZASP Hispanohablantes Internacional",
     "Category": "Affinity Sanghas",
-    "Sub Category": "Other Affinity Sanghas",
+    "Sub Category": "Engaged Practice",
     "Frequency": "Monthly",
     "Duration": "120",
     "Time Zone": "America/Argentina/Buenos_Aires",
@@ -3389,16 +3403,16 @@
   },
   {
     "Name": "Sangha Lotus du Matin",
-    "Category": "Practice Sanghas",
+    "Category": "Affinity Sanghas",
     "Sub Category": "Guided Meditation",
-    "Frequency": "Weekdays",
+    "Frequency": "Daily",
     "Duration": "30",
     "Time Zone": "Europe/Paris",
-    "Times": "06:30 Mon-Sat",
+    "Times": "06:30 Mon",
     "Contact Name": "Pascal",
     "Contact Email": "pascal.guion.lotus@outlook.fr",
     "Website": "",
-    "Description": "",
+    "Description": "Mon - Sat",
     "Language": "français (french)"
   },
   {
@@ -3417,16 +3431,16 @@
   },
   {
     "Name": "Méditation du Matin",
-    "Category": "Practice Sanghas",
+    "Category": "Affinity Sanghas",
     "Sub Category": "Guided Meditation",
-    "Frequency": "Weekdays",
+    "Frequency": "Daily",
     "Duration": "30",
     "Time Zone": "Europe/Paris",
-    "Times": "06:30 Mon-Fri",
+    "Times": "06:30 Mon",
     "Contact Name": "William",
     "Contact Email": "pluiequifleurit@gmail.com",
     "Website": "",
-    "Description": "",
+    "Description": "Mon - Fri",
     "Language": "français (french)"
   },
   {
@@ -3492,11 +3506,11 @@
     "Frequency": "Bi-Monthly",
     "Duration": "150",
     "Time Zone": "Europe/Paris",
-    "Times": "19:00 Thr",
+    "Times": "19:00 Thu",
     "Contact Name": "Sébastien",
     "Contact Email": "sanghaqueer@gmail.com",
     "Website": "",
-    "Description": "",
+    "Description": "First and third weeks of each month.",
     "Language": "français (french)"
   },
   {
@@ -3543,7 +3557,7 @@
   },
   {
     "Name": "Szelíd Mosoly Buddhista Szangha",
-    "Category": "Practice Sanghas",
+    "Category": "Affinity Sanghas",
     "Sub Category": "Silent Meditation",
     "Frequency": "Weekly",
     "Duration": "90",
@@ -3851,7 +3865,7 @@
   },
   {
     "Name": "Sangha Zen Mantiqueira",
-    "Category": "Practice Sanghas",
+    "Category": "Affinity Sanghas",
     "Sub Category": "Guided Meditation",
     "Frequency": "Weekly",
     "Duration": "40",
@@ -4022,7 +4036,7 @@
     "Category": "Traditional Sanghas",
     "Sub Category": "",
     "Frequency": "",
-    "Duration": "",
+    "Duration": "**",
     "Time Zone": "",
     "Times": "",
     "Contact Name": "",
