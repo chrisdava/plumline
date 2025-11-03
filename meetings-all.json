@@ -6174,6 +6174,24 @@
     "end_time": ""
   },
   {
+    "country": "Colombia",
+    "region": "Colombia",
+    "state": "",
+    "name": "Sangha Brisa Pacífica",
+    "entity": "Sangha Brisa Pacífica",
+    "slug": "sangha-brisa-pacfica-9912",
+    "address": "Varias, Cali, Valle, Colombia",
+    "latitude": "",
+    "longitude": "",
+    "entity_url": "https://sanghabrisapacifica.sutra.co/",
+    "email": "sanghabrisapacifica@gmail.com",
+    "entity_phone": "",
+    "notes": "Somos la primera Sangha en Cali, Colombia. Practicamos semanalmente meditaciones guiadas o en silencio, meditación caminando, y lecturas varias (libros de Thay, Charlas del Dharma transcritas, poemas, etc.), seguidas de un espacio de Compartir el Dharma. Nos reunimos los miércoles de 19:00 a 21:00hs en varios lugares en Cali",
+    "day": 3,
+    "time": "19:00",
+    "end_time": "21:00"
+  },
+  {
     "country": "Costa Rica",
     "region": "Costa Rica",
     "state": "",
