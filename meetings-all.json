@@ -482,7 +482,7 @@
     "entity_phone": "",
     "notes": "This Atlanta area sangha meets at the Red Clay Buddhist Meditation Community Center. Drawing on the wisdom of Zen Master Thich Nhat Hanh and the larger Plum Village community, we gather weekly to practice cultivating peace, joy, solidity and freedom within and around us. The schedule includes sitting and walking meditation, dharma readings and sharing. Once a month we recite The Five Mindfulness Trainings. We meet in person and offer a Zoom option. All are welcome.",
     "day": 0,
-    "time": "07:30",
+    "time": "06:30",
     "end_time": ""
   },
   {
@@ -4176,6 +4176,24 @@
     "end_time": ""
   },
   {
+    "country": "United States",
+    "region": "United States",
+    "state": "CA",
+    "name": "Tranquil Lotus Sanga",
+    "entity": "Tranquil Lotus Sanga",
+    "slug": "tranquil-lotus-sanga-8860",
+    "address": "Corson St, Pasadena, CA 91103, United States",
+    "latitude": "34.151762",
+    "longitude": "-118.124529",
+    "entity_url": "https://www.tranquillotussangha.org/home",
+    "email": "sanghatranquillotus@gmail.com",
+    "entity_phone": "",
+    "notes": "A People of Color centered mindfulness practice community in the Plum Village tradition of Thich Nhat Hanh, based in Pasadena CA. We are a BIPOC and White allies Buddhist sangha that strives to co-create a brave and intimate space where BIPOC, side by side with White allies, can practice mindfulness and meditation in the tradition of Thich Nhat Hanh and Plum Village.",
+    "day": 2,
+    "time": "09:00",
+    "end_time": ""
+  },
+  {
     "country": "Canada",
     "region": "Canada",
     "state": "",
@@ -6181,8 +6199,8 @@
     "entity": "Sangha Brisa Pacífica",
     "slug": "sangha-brisa-pacfica-9912",
     "address": "Varias, Cali, Valle, Colombia",
-    "latitude": "",
-    "longitude": "",
+    "latitude": "3.451717",
+    "longitude": "-76.531779",
     "entity_url": "https://sanghabrisapacifica.sutra.co/",
     "email": "sanghabrisapacifica@gmail.com",
     "entity_phone": "",
