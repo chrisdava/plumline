@@ -2566,7 +2566,7 @@
     "latitude": "40.43807",
     "longitude": "-79.92299",
     "entity_url": "http://www.laughingrivers.org",
-    "email": "tbocean@gmail.com",
+    "email": "loglr@aol.com",
     "entity_phone": "",
     "notes": "We are a Mindfulness Practice in the tradition of Thich Nhat Hanh. Laughing Rivers Sangha was started in 1991, and has grown continuously since. All welcome, long-term practitioners and newcomers alike. Our local Dharma teacher, Anthony Silvestre has been with the sangha since the early days.",
     "day": 1,
@@ -5668,6 +5668,24 @@
     "day": 3,
     "time": "19:30",
     "end_time": "21:00"
+  },
+  {
+    "country": "United Kingdom",
+    "region": "United Kingdom",
+    "state": "",
+    "name": "Stamford Sangha",
+    "entity": "Stamford Sangha",
+    "slug": "stamford-sangha-488",
+    "address": "Email for details",
+    "latitude": "52.650995",
+    "longitude": "-0.478186",
+    "entity_url": "https://plumvillage.uk/group/stamford-sangha/",
+    "email": "kirstieberridge@plumvillage.uk",
+    "entity_phone": "",
+    "notes": "We are a welcoming, supportive and inclusive Sangha. Together we enjoy the mindfulness practices of Plum Village, inspired by Zen Master Thich Nhat Hanh. These include guided, silent and slow walking meditation. We also read Plum Village texts together and listen to Dharma talks and practice Dharma sharing and singing together.",
+    "day": 3,
+    "time": "08:45",
+    "end_time": ""
   },
   {
     "country": "Ireland",
