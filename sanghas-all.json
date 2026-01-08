@@ -490,6 +490,20 @@
     "Language": "English"
   },
   {
+    "Name": "Community of Mindfulness",
+    "Category": "Traditional Sanghas",
+    "Sub Category": "",
+    "Frequency": "weekly",
+    "Duration": "60",
+    "Time Zone": "America/New_York",
+    "Times": "07:30 Wed",
+    "Contact Name": "Nick",
+    "Contact Email": "nickevento@gmail.com",
+    "Website": "https://communityofmindfulnessnl.com/",
+    "Description": "CMNL-Zoom is a warm and welcoming group sponsored by All Souls New London. Our practice includes sitting meditation, Dharma sharing, and chanting, with readings from Thich Nhat Hanh and others. Please contact Nick Evento for our Zoom link.",
+    "Language": "English"
+  },
+  {
     "Name": "Compassionate Ocean Sangha",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
@@ -499,7 +513,7 @@
     "Times": "20:00 Thu",
     "Contact Name": "",
     "Contact Email": "",
-    "Website": "https://www.compassionateoceansangha.org",
+    "Website": "",
     "Description": "",
     "Language": "English"
   },
@@ -513,7 +527,7 @@
     "Times": "20:00 Sun",
     "Contact Name": "",
     "Contact Email": "",
-    "Website": "https://www.compassionateoceansangha.org",
+    "Website": "",
     "Description": "",
     "Language": "English"
   },
