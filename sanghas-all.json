@@ -400,7 +400,7 @@
     "Time Zone": "America/New_York",
     "Times": "19:30 Wed",
     "Contact Name": "Pamela",
-    "Contact Email": "pamelagoddard. com(@gmail.com",
+    "Contact Email": "pamelagoddard.com(@gmail.com",
     "Website": "",
     "Description": "Our sangha has practiced more than 20 years ago and continues weekly in downtown Ithaca, NY.   In 2002, we began our practice in the Plum Village tradition. Each week we come together in person in a friendly, welcoming gathering to share songs, guided meditations, walking meditation, readings, silent meditation, a tea ceremony and dharma sharing. We meet alternate weeks on Zoom + in person. All are welcome.",
     "Language": "English"
@@ -560,7 +560,7 @@
     "Language": "English"
   },
   {
-    "Name": "Compassionate Presence Mindful Community",
+    "Name": "Compassionate Presence Mindful Community (online)",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
     "Frequency": "weekly",
@@ -571,20 +571,6 @@
     "Contact Email": "compassionatepresence@yahoo.com",
     "Website": "http://cpmcor.com/",
     "Description": "I was introduced to a local Plum Village tradition Sangha in 2009. After several years of practicing with that sangha I started the Compassionate Presence Mindful Community. We have both an online and in person gatherings. At both gatherings we practice the teachings of our dear Thay working to bring peace and reduce suffering through his teachings. Please see our website for details regarding times and dates of our gatherings plus general information about our practice.",
-    "Language": "English"
-  },
-  {
-    "Name": "Compassionate Presence Online Sangha",
-    "Category": "Traditional Sanghas",
-    "Sub Category": "",
-    "Frequency": "weekly",
-    "Duration": "90",
-    "Time Zone": "America/Los_Angeles",
-    "Times": "19:00 Tue",
-    "Contact Name": "David",
-    "Contact Email": "CompassionatePresence@yahoo.com",
-    "Website": "",
-    "Description": "",
     "Language": "English"
   },
   {
@@ -753,7 +739,7 @@
     "Contact Email": "earthholdercommunityireland@gmail.com",
     "Website": "https://www.mindfulnessireland.ie/earth-holder-community-ireland/",
     "Description": "The Earth Holder Community is a branch of the Plum Village tree that applies Thay’s core teachings on engaged Buddhism, mindful living, social and racial justice, and inter-being with Mother Earth at this time of ecological crisis. We practice with the aims of bringing mindfulness, compassion, healing and nonviolence to protecting ourselves, one another, all beings and the Earth. We meet online on the First Sunday of the month, as part of the Sangha na Saoirse, Sunday morning weekly meetings. Typical online EHCI gatherings includes a guided meditation, a reading or recording from Thay's teachings on earth holding and interbeing, walking mediation and dharma sharing. These gatherings are open to all. You are very welcome to join us from anywhere in the world.",
-    "Language": ""
+    "Language": "English"
   },
   {
     "Name": "Earth Holder Sangha",
@@ -1550,7 +1536,7 @@
     "Contact Name": "Niki",
     "Contact Email": "Buddhahouse587@outlook.com",
     "Website": "https://m.facebook.com/groups/1111332722994694/posts/1674641759997118/",
-    "Description": "Established in 2003, we meet every Saturday at 10 am to 12 pm in Nanaimo BC, Canada. Due toCovid, we practice on Zoom (i.e. online) at this present time.",
+    "Description": "Established in 2003, we meet every Saturday at 10 am to 12 pm in Nanaimo BC, Canada.",
     "Language": "English"
   },
   {
@@ -1690,7 +1676,7 @@
     "Contact Name": "Nigel",
     "Contact Email": "ocean.zen.mindfulness.community@gmail.com",
     "Website": "",
-    "Description": "5 Mindfulness Trainings, once a quarter; contact for next date",
+    "Description": "5 Mindfulness Trainings quarterly. Please contact for next date.",
     "Language": "English"
   },
   {
@@ -1764,7 +1750,7 @@
     "Language": "English"
   },
   {
-    "Name": "Pacific North West Based",
+    "Name": "Pacific North West Based Sangha",
     "Category": "Single Practice Sanghas",
     "Sub Category": "Mindfulness Trainings",
     "Frequency": "monthly",
