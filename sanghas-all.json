@@ -2772,14 +2772,14 @@
     "Language": "中文 (chinese)"
   },
   {
-    "Name": "霽月共修團(線上) (Jiyue Sangha Online)",
+    "Name": "霽月共修團(線上) (JiYue Sangha Online)",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
     "Frequency": "Weekly",
     "Duration": "120",
     "Time Zone": "Asia/Taipei",
     "Times": "09:00 Sat",
-    "Contact Name": "",
+    "Contact Name": "Soeui-Fah",
     "Contact Email": "Ji.Yue.Sangha@proton.me",
     "Website": "",
     "Description": "",
@@ -4142,5 +4142,19 @@
     "Website": "",
     "Description": "This sangha meets in Turkshi, however English translation is available for non-Turkish speakers",
     "Language": "türkçe (turkish)"
+  },
+  {
+    "Name": "12",
+    "Category": "",
+    "Sub Category": "",
+    "Frequency": "",
+    "Duration": "",
+    "Time Zone": "",
+    "Times": "",
+    "Contact Name": "",
+    "Contact Email": "",
+    "Website": "",
+    "Description": "",
+    "Language": ""
   }
 ]
