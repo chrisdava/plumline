@@ -490,13 +490,13 @@
     "Language": "English"
   },
   {
-    "Name": "Community of Mindfulness",
+    "Name": "Community of Mindfulness New London",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
     "Frequency": "weekly",
     "Duration": "60",
     "Time Zone": "America/New_York",
-    "Times": "07:30 Wed",
+    "Times": "07:15 Wed",
     "Contact Name": "Nick",
     "Contact Email": "nickevento@gmail.com",
     "Website": "https://communityofmindfulnessnl.com/",
@@ -1303,8 +1303,22 @@
   },
   {
     "Name": "Living the 14 Sangha",
-    "Category": "Single Practice Sanghas",
+    "Category": "Affinity Sanghas",
     "Sub Category": "Study",
+    "Frequency": "weekly",
+    "Duration": "90",
+    "Time Zone": "America/New_York",
+    "Times": "19:30 Wed",
+    "Contact Name": "Don",
+    "Contact Email": "donald.leka@gmail.com",
+    "Website": "",
+    "Description": "The 14 Mindfulness Trainings are the foundation of the Order of Interbeing and we are strengthening our commitment to them by looking deeply at a single training each week.  We are open to OI members, Aspirants and pre-Aspirants.",
+    "Language": "English"
+  },
+  {
+    "Name": "Living the 14 Sangha",
+    "Category": "Traditional Sanghas",
+    "Sub Category": "",
     "Frequency": "weekly",
     "Duration": "90",
     "Time Zone": "America/New_York",
@@ -1369,20 +1383,6 @@
     "Contact Email": "m.romang@rcn.com",
     "Website": "",
     "Description": "We always welcome new members.  In our first hour, we practice formal meditation (guided or silent), and our second hour is dedicated to dharma reading/sharing",
-    "Language": "English"
-  },
-  {
-    "Name": "Lotuses in the Mud Sangha",
-    "Category": "Affinity Sanghas",
-    "Sub Category": "Healing",
-    "Frequency": "monthly",
-    "Duration": "60",
-    "Time Zone": "America/Los_Angeles",
-    "Times": "07:45 Thu",
-    "Contact Name": "Karla",
-    "Contact Email": "karla@innerconstellation.com",
-    "Website": "https://laketahoemindfulness.com/",
-    "Description": "For family and beloveds of those in recovery",
     "Language": "English"
   },
   {
