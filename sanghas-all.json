@@ -494,13 +494,13 @@
     "Category": "Traditional Sanghas",
     "Sub Category": "",
     "Frequency": "weekly",
-    "Duration": "60",
+    "Duration": "80",
     "Time Zone": "America/New_York",
-    "Times": "07:15 Wed",
+    "Times": "07:10 Wed",
     "Contact Name": "Nick",
     "Contact Email": "nickevento@gmail.com",
     "Website": "https://communityofmindfulnessnl.com/",
-    "Description": "CMNL-Zoom is a warm and welcoming group sponsored by All Souls New London. Our practice includes sitting meditation, Dharma sharing, and chanting, with readings from Thich Nhat Hanh and others. Please contact Nick Evento for our Zoom link.",
+    "Description": "CMNL-ZOOM is a warm and welcoming group sponsored by All Souls New London. Our practice includes sitting meditation, Dharma sharing and chanting, with readings from Thich Nhat Hanh and others. Contact Nick to be put on our mailing list for readings and the Zoom link.",
     "Language": "English"
   },
   {
@@ -612,7 +612,7 @@
     "Contact Name": "Yenkuei",
     "Contact Email": "info@yenkuei.org",
     "Website": "https://www.yenkuei.org/classes",
-    "Description": "a guided community meditation that is mostly silent. You are welcome to drop in anytime - arrive late or leave early.",
+    "Description": "A guided community meditation that is mostly silent. You are welcome to drop in anytime - arrive late or leave early.",
     "Language": "English"
   },
   {
@@ -1386,6 +1386,34 @@
     "Language": "English"
   },
   {
+    "Name": "Lotuses in the Mud Sangha",
+    "Category": "Affinity Sanghas",
+    "Sub Category": "Healing",
+    "Frequency": "weekly",
+    "Duration": "60",
+    "Time Zone": "America/Los_Angeles",
+    "Times": "07:45 Thu",
+    "Contact Name": "Karla            Silvana",
+    "Contact Email": "karla@laketahoemindfulness.com            silvanamatteo@gmail.com",
+    "Website": "https://laketahoemindfulness.com/",
+    "Description": "For family and beloveds of those in recovery from substances",
+    "Language": "English"
+  },
+  {
+    "Name": "Lotuses in the Mud Sangha",
+    "Category": "Affinity Sanghas",
+    "Sub Category": "Healing",
+    "Frequency": "weekly",
+    "Duration": "60",
+    "Time Zone": "Europe/Paris",
+    "Times": "20:00 Fri",
+    "Contact Name": "Karla            Silvana",
+    "Contact Email": "karla@laketahoemindfulness.com            silvanamatteo@gmail.com",
+    "Website": "https://laketahoemindfulness.com/",
+    "Description": "For family and beloveds of those in recovery from substances",
+    "Language": "English"
+  },
+  {
     "Name": "Meditation Friends",
     "Category": "Single Practice Sanghas",
     "Sub Category": "Guided Meditation",
@@ -1536,7 +1564,7 @@
     "Contact Name": "Niki",
     "Contact Email": "Buddhahouse587@outlook.com",
     "Website": "https://m.facebook.com/groups/1111332722994694/posts/1674641759997118/",
-    "Description": "Established in 2003, we meet every Saturday at 10 am to 12 pm in Nanaimo BC, Canada.",
+    "Description": "Established in 2003. Before meditating, we follow some rituals from the Plum Village chanting and recitation book.",
     "Language": "English"
   },
   {
@@ -2741,7 +2769,7 @@
     "Contact Email": "",
     "Website": "",
     "Description": "",
-    "Language": ""
+    "Language": "中文 (chinese)"
   },
   {
     "Name": "晨光共修團 (Morning Light Sangha)",
@@ -2797,7 +2825,7 @@
     "Contact Email": "",
     "Website": "",
     "Description": "",
-    "Language": ""
+    "Language": "bahasa indonesia (indonesian)"
   },
   {
     "Name": "Indonesian Rainbow Sangha",
@@ -2839,7 +2867,7 @@
     "Contact Email": "",
     "Website": "",
     "Description": "",
-    "Language": ""
+    "Language": "български (bulgarian)"
   },
   {
     "Name": "Bulgarian Plum Village Sangha",
@@ -2867,7 +2895,7 @@
     "Contact Email": "",
     "Website": "",
     "Description": "",
-    "Language": ""
+    "Language": "česky mluvící (czech)"
   },
   {
     "Name": "Plum Village v české Republice",
@@ -2909,7 +2937,7 @@
     "Contact Email": "",
     "Website": "",
     "Description": "",
-    "Language": ""
+    "Language": "deutsch (german)"
   },
   {
     "Name": "Achtsames Leben Heidelberg Sangha",
@@ -2993,7 +3021,7 @@
     "Contact Email": "",
     "Website": "",
     "Description": "",
-    "Language": ""
+    "Language": "ελληνικά (greek)"
   },
   {
     "Name": "Sangha Αθήνας",
@@ -3035,7 +3063,7 @@
     "Contact Email": "",
     "Website": "",
     "Description": "",
-    "Language": ""
+    "Language": "español (spanish)"
   },
   {
     "Name": "Abrazadores de la Tierra Argentina",
@@ -3427,7 +3455,7 @@
     "Contact Email": "",
     "Website": "",
     "Description": "",
-    "Language": ""
+    "Language": "français (french)"
   },
   {
     "Name": "Sangha la Barque de Somarel",
@@ -3553,7 +3581,7 @@
     "Contact Email": "",
     "Website": "",
     "Description": "",
-    "Language": ""
+    "Language": "עברית (hebrew)"
   },
   {
     "Name": "סנגהת שן הארי",
@@ -3581,7 +3609,7 @@
     "Contact Email": "",
     "Website": "",
     "Description": "",
-    "Language": ""
+    "Language": "magyar (hungarian)"
   },
   {
     "Name": "Szelíd Mosoly Buddhista Szangha",
@@ -3609,7 +3637,7 @@
     "Contact Email": "",
     "Website": "",
     "Description": "",
-    "Language": ""
+    "Language": "italiano (italian)"
   },
   {
     "Name": "Sangha Diffuso",
@@ -3665,7 +3693,7 @@
     "Contact Email": "",
     "Website": "",
     "Description": "",
-    "Language": ""
+    "Language": "日本語 (japanese)"
   },
   {
     "Name": "Heart of Tokyo,Yokohama & Kamakura Sangha",
@@ -3735,7 +3763,7 @@
     "Contact Email": "",
     "Website": "",
     "Description": "",
-    "Language": ""
+    "Language": "lietuvių (lithuanian)"
   },
   {
     "Name": "Vilniaus Sangha Prabuskime",
@@ -3763,7 +3791,7 @@
     "Contact Email": "",
     "Website": "",
     "Description": "",
-    "Language": ""
+    "Language": "nederland (dutch)"
   },
   {
     "Name": "Online Sangha Leven in Aandacht",
@@ -3805,7 +3833,7 @@
     "Contact Email": "",
     "Website": "",
     "Description": "",
-    "Language": ""
+    "Language": "polskie (polish)"
   },
   {
     "Name": "Sangha Uśmiech Buddy",
@@ -3833,7 +3861,7 @@
     "Contact Email": "",
     "Website": "",
     "Description": "",
-    "Language": ""
+    "Language": "português (portuguese)"
   },
   {
     "Name": "A Outra Margem",
@@ -3931,7 +3959,7 @@
     "Contact Email": "",
     "Website": "",
     "Description": "",
-    "Language": ""
+    "Language": "românește (romanian)"
   },
   {
     "Name": "Sangha Romania",
@@ -3959,7 +3987,7 @@
     "Contact Email": "",
     "Website": "",
     "Description": "",
-    "Language": ""
+    "Language": "slovenščina (slovenian)"
   },
   {
     "Name": "Sangha Slovenia",
@@ -3987,7 +4015,7 @@
     "Contact Email": "",
     "Website": "",
     "Description": "",
-    "Language": ""
+    "Language": "svenska (swedish)"
   },
   {
     "Name": "Earth Holders Sverige",
@@ -4029,7 +4057,7 @@
     "Contact Email": "",
     "Website": "",
     "Description": "",
-    "Language": ""
+    "Language": "tiếng việt (vietnamese)"
   },
   {
     "Name": "Suối Tuệ / Hơi Thở Nhẹ Sangha",
@@ -4099,7 +4127,7 @@
     "Contact Email": "",
     "Website": "",
     "Description": "",
-    "Language": ""
+    "Language": "ไทย (thai)"
   },
   {
     "Name": "บ่มเพาะพลังแห่งรัก",
@@ -4127,7 +4155,7 @@
     "Contact Email": "",
     "Website": "",
     "Description": "",
-    "Language": ""
+    "Language": "türkçe (turkish)"
   },
   {
     "Name": "Türkçe Destek ve Dayanışma Sanghası",
