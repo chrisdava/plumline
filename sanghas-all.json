@@ -2954,20 +2954,6 @@
     "Language": "deutsch (german)"
   },
   {
-    "Name": "Sangha Garten der Achtsamkeit",
-    "Category": "Traditional Sanghas",
-    "Sub Category": "",
-    "Frequency": "Weekly",
-    "Duration": "90",
-    "Time Zone": "Europe/Stuttgart",
-    "Times": "19:30 Sun",
-    "Contact Name": "Letizia, Rolland",
-    "Contact Email": "mail@sangha-luzern.ch",
-    "Website": "www.sangha-luzern.ch",
-    "Description": "",
-    "Language": "deutsch (german)"
-  },
-  {
     "Name": "Elternsangha",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
@@ -2993,6 +2979,34 @@
     "Contact Email": "atarabi@gmx.net",
     "Website": "",
     "Description": "Die Freiburger Gruppe der Erdschützer innen in der Tradition von Thich Nhat Hanh trifft sich regelmäßig zum Praktizieren im öffentlichen Raum.",
+    "Language": "deutsch (german)"
+  },
+  {
+    "Name": "Deutschsprachige Lehrersangha",
+    "Category": "Affinity Sanghas",
+    "Sub Category": "Professions",
+    "Frequency": "1st Monday",
+    "Duration": "90",
+    "Time Zone": "Europe/Berlin",
+    "Times": "19:00 Mon",
+    "Contact Name": "Tobias",
+    "Contact Email": "tobias.schramm@rwth-aachen.de",
+    "Website": "",
+    "Description": "Wir sind eine sehr junge deutschsprachige Sangha von Lehrern, die Achtsamkeit privat und beruflich praktizieren.",
+    "Language": "deutsch (german)"
+  },
+  {
+    "Name": "Sangha Garten der Achtsamkeit",
+    "Category": "Traditional Sanghas",
+    "Sub Category": "",
+    "Frequency": "Weekly",
+    "Duration": "90",
+    "Time Zone": "Europe/Stuttgart",
+    "Times": "19:30 Sun",
+    "Contact Name": "Letizia, Rolland",
+    "Contact Email": "mail@sangha-luzern.ch",
+    "Website": "www.sangha-luzern.ch",
+    "Description": "",
     "Language": "deutsch (german)"
   },
   {
@@ -3090,7 +3104,7 @@
     "Contact Name": "Joaquín",
     "Contact Email": "joaquincarral@gmail.com",
     "Website": "",
-    "Description": "",
+    "Description": "La Sangha de las Americas les da la cordial bienvenida a todas las personas que quieran practicar en Español. Nos reunimos el segundo domingo de los meses par a las 10 de la mañana horario Bogotá y Quito. Para participar por favor da click a este link: https://zoom.us/j/902276739",
     "Language": "español (spanish)"
   },
   {
@@ -3439,8 +3453,8 @@
     "Times": "12:00 Sun",
     "Contact Name": "Andrea",
     "Contact Email": "zasphispanohablantes@gmail.com",
-    "Website": "",
-    "Description": "",
+    "Website": "https://www.instagram.com/zenparaelmundo?igsh=bHYyZ3MxZjFrZmFw",
+    "Description": "Sangha habla hispana de práctica, estudio, acompañamiento e intercambio, inspirada en el curso Zen y el Arte de Salvar el planeta y su libro homónimo. Temas de afinidad: crisis planetaria, ecología profunda, equilibrio de bienestar y acción climática, resiliencia, ecoansiedad, activismo consciente, compasivo y sostenible, conciencia plena, escucha profunda y comunicación compasiva, budismo comprometido, resistencia no violenta, fortaleza espiritual. (Importante: esta sangha ha sido creada en primer instancia por y para alumnos y alumnas hispanohablantes del curso pero no es excluyente. Queremos apoyar también a quienes quieran hacerlo y tengan intereses afines. Por este motivo No se comparte material del curso no publicado)",
     "Language": "español (spanish)"
   },
   {
