@@ -2782,7 +2782,7 @@
     "Contact Name": "Tasha Chuang / Tristan Chen",
     "Contact Email": "morning.light.sangha.taiwan@gmail.com",
     "Website": "https://www.instagram.com/morning_light_sangha",
-    "Description": "Our sangha is a hybrid one, with both physical and online sangha happening at the same time in Taipei. Conducted in English",
+    "Description": "Our sangha is a hybrid one, with both physical and online sangha happening at the same time in Taipei.",
     "Language": "中文 (chinese)"
   },
   {
@@ -2852,7 +2852,7 @@
     "Contact Name": "CTC.OI",
     "Contact Email": "ctcoi@plumvillage.or.id",
     "Website": "http://ordointerbeing.id/",
-    "Description": "First Saturday of each month",
+    "Description": "Sabtu pertama setiap bulan",
     "Language": "bahasa indonesia (indonesian)"
   },
   {
@@ -2880,7 +2880,7 @@
     "Contact Name": "Contact",
     "Contact Email": "plumvillage.bulgarian.sangha@gmail.com",
     "Website": "",
-    "Description": "The Bulgarian Plum Village Sanga was established in 2021. We meet online and practice usually Guided Sitting Meditation (or Slow Walking, Deep Relaxation etc.), presentation of Plum Village Practice (text, Dharma talk or video) and Dharma Sharing. Sometimes we have online sessions with Plum Village monastics who offer us short Dharma Talks and/or Questions and Answers sessions.",
+    "Description": "Българската Санга на Plum Village е създадена през 2021 г. Срещаме се онлайн и обикновено практикуваме Водена седяща медитация (или бавно ходене, дълбока релаксация и др.), представяне на практиката на Plum Village (текст, беседа за Дхарма или видео) и споделяне на Дхарма. Понякога имаме онлайн сесии с монаси от Plum Village, които ни предлагат кратки беседи за Дхарма и/или сесии с въпроси и отговори.",
     "Language": "български (bulgarian)"
   },
   {
@@ -2908,12 +2908,12 @@
     "Contact Name": "Jindra",
     "Contact Email": "jindracekan@gmail.com",
     "Website": "",
-    "Description": "First Saturday of each month",
+    "Description": "první sobotu každého měsíce",
     "Language": "česky mluvící (czech)"
   },
   {
     "Name": "Plum Village v české Republice",
-    "Category": "Traditional Sanghas",
+    "Category": "Affinity Sanghas",
     "Sub Category": "Mindfulness Trainings",
     "Frequency": "Monthly",
     "Duration": "60",
@@ -2922,7 +2922,7 @@
     "Contact Name": "Jindra",
     "Contact Email": "jindracekan@gmail.com",
     "Website": "",
-    "Description": "Third Sunday of each month, mindfulness trainings",
+    "Description": "třetí neděli každého měsíce",
     "Language": "česky mluvící (czech)"
   },
   {
@@ -2950,7 +2950,7 @@
     "Contact Name": "Magnus",
     "Contact Email": "info@achtsam-leben-heidelberg.de",
     "Website": "https://achtsam-leben-heidelberg.de/",
-    "Description": "hybrid sangha - meetings online + local days of mindfulness and walking meditations",
+    "Description": "Online-Treffen + lokale Tage mit Achtsamkeitsübungen und Gehmeditatione",
     "Language": "deutsch (german)"
   },
   {
@@ -3164,7 +3164,7 @@
     "Language": "español (spanish)"
   },
   {
-    "Name": "Sanghade de Colombia",
+    "Name": "Sangha de Colombia",
     "Category": "Affinity Sanghas",
     "Sub Category": "Mindfulness Trainings",
     "Frequency": "Bi-Weekly",
@@ -3370,7 +3370,7 @@
     "Contact Name": "Nivia",
     "Contact Email": "npimentel0722@gmail.com",
     "Website": "",
-    "Description": "We meet on even weeks of each month.",
+    "Description": "Nos reunimos en las semanas pares de cada mes.",
     "Language": "español (spanish)"
   },
   {
@@ -3454,7 +3454,7 @@
     "Contact Name": "Andrea",
     "Contact Email": "zasphispanohablantes@gmail.com",
     "Website": "https://www.instagram.com/zenparaelmundo?igsh=bHYyZ3MxZjFrZmFw",
-    "Description": "Sangha habla hispana de práctica, estudio, acompañamiento e intercambio, inspirada en el curso Zen y el Arte de Salvar el planeta y su libro homónimo. Temas de afinidad: crisis planetaria, ecología profunda, equilibrio de bienestar y acción climática, resiliencia, ecoansiedad, activismo consciente, compasivo y sostenible, conciencia plena, escucha profunda y comunicación compasiva, budismo comprometido, resistencia no violenta, fortaleza espiritual. (Importante: esta sangha ha sido creada en primer instancia por y para alumnos y alumnas hispanohablantes del curso pero no es excluyente. Queremos apoyar también a quienes quieran hacerlo y tengan intereses afines. Por este motivo No se comparte material del curso no publicado)",
+    "Description": "Sangha habla hispana de práctica, estudio, acompañamiento e intercambio, inspirada en el curso Zen y el Arte de Salvar el planeta y su libro homónimo. Temas de afinidad: crisis planetaria, ecología profunda, equilibrio de bienestar y acción climática, resiliencia, ecoansiedad, activismo consciente, compasivo y sostenible, conciencia plena, escucha profunda y comunicación compasiva, budismo comprometido, resistencia no violenta, fortaleza espiritual. (Importante: esta sangha ha sido creada en primer instancia por y para alumnos y alumnas hispanohablantes del curso pero no es excluyente. Queremos apoyar también a quienes quieran hacerlo y tengan intereses afines. Por este motivo no se comparte material del curso no publicado)",
     "Language": "español (spanish)"
   },
   {
@@ -3580,7 +3580,7 @@
     "Contact Name": "Sébastien",
     "Contact Email": "sanghaqueer@gmail.com",
     "Website": "",
-    "Description": "First and third weeks of each month.",
+    "Description": "La première et la troisième semaine de chaque mois.",
     "Language": "français (french)"
   },
   {
@@ -3720,7 +3720,7 @@
     "Contact Name": "Kanako",
     "Contact Email": "belovedcommunity.jp@gmail.com",
     "Website": "https://www.beloved-community.net/",
-    "Description": "We are a community of friends practicing mindfulness since 2013. We offer online gatherings, including a monthly recitation of the Five Mindfulness Trainings, as well as monthly in-person meetings in Yokohama. All are welcome!",
+    "Description": "私たちは2013年からマインドフルネスを実践する仲間たちのコミュニティです。毎月「五つのマインドフルネス・トレーニング」の朗読を含むオンラインの集まりや、横浜で毎月対面で開催するミーティングを開催しています。どなたでも大歓迎です！",
     "Language": "日本語 (japanese)"
   },
   {
@@ -3734,7 +3734,7 @@
     "Contact Name": "Kanako",
     "Contact Email": "belovedcommunity.jp@gmail.com",
     "Website": "https://www.beloved-community.net/",
-    "Description": "We are a community of friends practicing mindfulness since 2013. We offer online gatherings, including a monthly recitation of the Five Mindfulness Trainings, as well as monthly in-person meetings in Yokohama. All are welcome!",
+    "Description": "私たちは2013年からマインドフルネスを実践する仲間たちのコミュニティです。毎月「五つのマインドフルネス・トレーニング」の朗読を含むオンラインの集まりや、横浜で毎月対面で開催するミーティングを開催しています。どなたでも大歓迎です！",
     "Language": "日本語 (japanese)"
   },
   {
@@ -3748,7 +3748,7 @@
     "Contact Name": "Kanako",
     "Contact Email": "belovedcommunity.jp@gmail.com",
     "Website": "https://www.beloved-community.net/",
-    "Description": "We are a community of friends practicing mindfulness since 2013. We offer online gatherings, including a monthly recitation of the Five Mindfulness Trainings, as well as monthly in-person meetings in Yokohama. All are welcome!",
+    "Description": "私たちは2013年からマインドフルネスを実践する仲間たちのコミュニティです。毎月「五つのマインドフルネス・トレーニング」の朗読を含むオンラインの集まりや、横浜で毎月対面で開催するミーティングを開催しています。どなたでも大歓迎です！",
     "Language": "日本語 (japanese)"
   },
   {
@@ -3762,7 +3762,7 @@
     "Contact Name": "Kanako",
     "Contact Email": "belovedcommunity.jp@gmail.com",
     "Website": "https://www.beloved-community.net/",
-    "Description": "We are a community of friends practicing mindfulness since 2013. We offer online gatherings, including a monthly recitation of the Five Mindfulness Trainings, as well as monthly in-person meetings in Yokohama. All are welcome!",
+    "Description": "私たちは2013年からマインドフルネスを実践する仲間たちのコミュニティです。毎月「五つのマインドフルネス・トレーニング」の朗読を含むオンラインの集まりや、横浜で毎月対面で開催するミーティングを開催しています。どなたでも大歓迎です！",
     "Language": "日本語 (japanese)"
   },
   {
@@ -3950,7 +3950,7 @@
   {
     "Name": "Sangha Zen Mantiqueira",
     "Category": "Traditional Sanghas",
-    "Sub Category": "Silent Meditation",
+    "Sub Category": "Chanting",
     "Frequency": "Daily",
     "Duration": "30",
     "Time Zone": "Brazil/Sao Paulo",
@@ -4014,7 +4014,7 @@
     "Contact Name": "Nivia",
     "Contact Email": "npimentel0722@gmail.com",
     "Website": "",
-    "Description": "Smo Sangha Slovenija, sveže ustanovljena za prakso v tradiciji Plum Village.  Pozdravljeni,  dragi prijatelj!  \n\nRojstvo Sanghe v tradiciji Plum Village v Sloveniji poteka že nekaj časa.  Zdaj, ko nas je peščica ljudi, ki so pokazali zanimanje, bi se radi začeli občasno srečevati.  S tem v mislih predlagamo spletno srečanje, da se malo spoznamo in izmenjamo zamisli ter čas, oblike in pogostost takih srečanj. Srečanje bi bilo okvirno konec marca 2025. \n\nČe vas sodelovanje zanima, nam, prosimo, sporočite na npimentel0722@gmail.com. Poskusili bomo uskladiti čas spletnega srečanja tako, da bo vsem v redu. \n\nZ ljubečo prijaznostjo,\n\nSangha Slovenia",
+    "Description": "",
     "Language": "slovenščina (slovenian)"
   },
   {
@@ -4182,11 +4182,11 @@
     "Contact Name": "Mete",
     "Contact Email": "mete@commoncolors.net",
     "Website": "",
-    "Description": "This sangha meets in Turkshi, however English translation is available for non-Turkish speakers",
+    "Description": "Bu cemaat Türkçe olarak toplanmaktadır, ancak Türkçe bilmeyenler için İngilizce çeviri mevcuttur. \nThis sangha meets in Turkshi, however English translation is available for non-Turkish speakers.",
     "Language": "türkçe (turkish)"
   },
   {
-    "Name": "12",
+    "Name": "70",
     "Category": "",
     "Sub Category": "",
     "Frequency": "",
