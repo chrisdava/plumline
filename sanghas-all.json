@@ -142,7 +142,7 @@
   {
     "Name": "BIPOC – World Interbeing Sangha",
     "Category": "Affinity Sanghas",
-    "Sub Category": "Other Affinity Sanghas",
+    "Sub Category": "BIPOC",
     "Frequency": "third Sunday of each month",
     "Duration": "60",
     "Time Zone": "America/Los_Angeles",
@@ -156,7 +156,7 @@
   {
     "Name": "BIPOC – World Interbeing Sangha",
     "Category": "Affinity Sanghas",
-    "Sub Category": "Other Affinity Sanghas",
+    "Sub Category": "BIPOC",
     "Frequency": "first Sunday of each month",
     "Duration": "60",
     "Time Zone": "America/Los_Angeles",
@@ -1212,7 +1212,7 @@
     "Time Zone": "America/Los_Angeles",
     "Times": "19:00 Tue",
     "Contact Name": "Danalee",
-    "Contact Email": "danaleemcfadden@gmail.com",
+    "Contact Email": "danalee.karuna@gmail.com",
     "Website": "",
     "Description": "Karuna Garden Sangha is an inclusive, peer-led online community where practitioners of all levels come together to practice meditation, share Dharma, and support each other's growth. We offer a welcoming space for individuals to explore and contribute to our collective mindfulness practice in a safe and supportive environment.",
     "Language": "English"
@@ -1971,6 +1971,20 @@
     "Contact Email": "radiantheart888@gmail.com",
     "Website": "",
     "Description": "For friends struggling with issues of sexual misconduct, and ready to embrace personal change through the Plum Village tradition",
+    "Language": "English"
+  },
+  {
+    "Name": "Rainbow (LGBTQIAS+) - World Interbeing Sangha",
+    "Category": "Affinity Sanghas",
+    "Sub Category": "LGBTQ+",
+    "Frequency": "monthly",
+    "Duration": "60",
+    "Time Zone": "Australia/Brisbane",
+    "Times": "09:00 Sun",
+    "Contact Name": "",
+    "Contact Email": "",
+    "Website": "https://worldinterbeingsangha.org",
+    "Description": "",
     "Language": "English"
   },
   {
@@ -2742,20 +2756,6 @@
     "Website": "https://worldinterbeingsangha.org",
     "Description": "",
     "Language": "English"
-  },
-  {
-    "Name": "Rainbow Sangha - World Interbeing Sangha",
-    "Category": "Affinity Sanghas",
-    "Sub Category": "LGBTQ+",
-    "Frequency": "monthly",
-    "Duration": "60",
-    "Time Zone": "Australia/Brisbane",
-    "Times": "09:00 Sun",
-    "Contact Name": "",
-    "Contact Email": "",
-    "Website": "https://worldinterbeingsangha.org",
-    "Description": "",
-    "Language": ""
   },
   {
     "Name": "CHINESE",
