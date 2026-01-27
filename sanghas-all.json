@@ -826,6 +826,20 @@
     "Language": "English"
   },
   {
+    "Name": "Fire Side Sangha",
+    "Category": "Traditional Sanghas",
+    "Sub Category": "",
+    "Frequency": "weekly",
+    "Duration": "60",
+    "Time Zone": "Europe/Rome",
+    "Times": "21:00 Sun",
+    "Contact Name": "Maria Grazia",
+    "Contact Email": "firesidesangha@gmail.com",
+    "Website": "",
+    "Description": "We are a group who met at a PV retreat in November 2025, who decided to start a weekly practice together and developed a bond. The name of our sangha comes from the warm light of the stove in the meditation hall of the Healing Spring Monastery. Of course we are open to others who want to join our fire side place :-)",
+    "Language": "English"
+  },
+  {
     "Name": "First Light Sangha",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
@@ -1542,7 +1556,7 @@
   {
     "Name": "Muddy Path Sangha",
     "Category": "Affinity Sanghas",
-    "Sub Category": "Healing, Other Affinity Sanghas",
+    "Sub Category": "Healing",
     "Frequency": "quarterly",
     "Duration": "60-90",
     "Time Zone": "America/New_York",
@@ -1629,7 +1643,7 @@
     "Sub Category": "",
     "Frequency": "weekly",
     "Duration": "90",
-    "Time Zone": "Europe/Dublin",
+    "Time Zone": "Europe/London",
     "Times": "17:00 Thu",
     "Contact Name": "Teri",
     "Contact Email": "northdevonsangha@gmail.com",
@@ -2394,7 +2408,7 @@
     "Language": "English"
   },
   {
-    "Name": "Still Waters Sangha",
+    "Name": "Still Waters Sangha UK",
     "Category": "Single Practice Sanghas",
     "Sub Category": "Mindfulness Trainings",
     "Frequency": "monthly",
@@ -2408,7 +2422,7 @@
     "Language": "English"
   },
   {
-    "Name": "Still Waters Sangha",
+    "Name": "Still Waters Sangha UK",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
     "Frequency": "monthly",
@@ -2581,7 +2595,7 @@
     "Sub Category": "",
     "Frequency": "monthly",
     "Duration": "120",
-    "Time Zone": "Europe/London",
+    "Time Zone": "Europe/Madrid",
     "Times": "09:45 Mon",
     "Contact Name": "Nancee",
     "Contact Email": "nzannone@gmail.com",
