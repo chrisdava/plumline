@@ -226,9 +226,9 @@
     "latitude": "41.747414",
     "longitude": "-73.19012",
     "entity_url": "",
-    "email": "fromcelia@me.com",
+    "email": "hellofromcelia@gmail.com",
     "entity_phone": "",
-    "notes": "We share the 5 MTS every other week. We walk, sit, sing, and have dharma sharing at each meeting. Sometimes we read from Thay's books, sometimes we read a sutra or a Bhodisattvah vow.",
+    "notes": "We share the 5 MTS every other week. We walk, sit, sing, and have dharma sharing at each meeting. Sometimes we read from Thay's books, sometimes we read a sutra or a Bhodisattvah vow. Currently meeting via Zoom.",
     "day": 2,
     "time": "19:00",
     "end_time": "20:30"
@@ -3129,6 +3129,24 @@
     "notes": "Our practice is in-person only (currently no Zoom options) and includes sitting meditation (two twenty-minute sits), ten minutes of walking meditation, reading together from one of Thay's books, and Dharma sharing.",
     "day": 0,
     "time": "08:00",
+    "end_time": ""
+  },
+  {
+    "country": "United States",
+    "region": "United States",
+    "state": "VT",
+    "name": "Stillpoint Sangha",
+    "entity": "Stillpoint Sangha",
+    "slug": "stillpoint-sangha-860",
+    "address": "961 US-2, Middlesex, Vermont 05602, United States",
+    "latitude": "44.294511",
+    "longitude": "-72.682894",
+    "entity_url": "https://stillpointsangha.org/",
+    "email": "elisaotter@gmail.com",
+    "entity_phone": "",
+    "notes": "Based in Middlesex, Vermont we are an open group of practitioners meeting Mondays evenings to practice together.",
+    "day": 1,
+    "time": "08:45",
     "end_time": ""
   },
   {
@@ -6546,7 +6564,7 @@
     "entity_url": "",
     "email": "highbredvigorr@gmail.com",
     "entity_phone": "",
-    "notes": "Friendly community of practitioners. Chanting is in Vietnamese, but all are welcome to meditate while others are chanting. There are a few monastics who lead services.",
+    "notes": "We are a friendly community of practitioners. Chanting is in Vietnamese, but all are welcome to meditate while others are chanting. There are a few monastics who lead services.",
     "day": 0,
     "time": "11:30",
     "end_time": "12:30"
