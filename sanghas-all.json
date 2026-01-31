@@ -1082,14 +1082,14 @@
     "Category": "Traditional Sanghas",
     "Sub Category": "",
     "Frequency": "weekly",
-    "Duration": "90",
+    "Duration": "60",
     "Time Zone": "Atlantic/Canary",
     "Times": "19:00 Mon",
     "Contact Name": "Ben",
-    "Contact Email": "ben@benearthplus@gmail.com",
-    "Website": "",
+    "Contact Email": "clubexhort@gmail.com",
+    "Website": "https://ben4937.wixsite.com/insightful-mind",
     "Description": "",
-    "Language": "English"
+    "Language": "English, español"
   },
   {
     "Name": "Insightful Mind Sangha (GMT)",
@@ -1100,8 +1100,8 @@
     "Time Zone": "Atlantic/Canary",
     "Times": "12:30 Tue",
     "Contact Name": "Ben",
-    "Contact Email": "ben@benearthplus@gmail.com",
-    "Website": "",
+    "Contact Email": "clubexhort@gmail.com",
+    "Website": "https://ben4937.wixsite.com/insightful-mind",
     "Description": "Mindful Eating",
     "Language": "English"
   },
@@ -1112,11 +1112,11 @@
     "Frequency": "Monday to Friday",
     "Duration": "30",
     "Time Zone": "Atlantic/Canary",
-    "Times": "12:30 Mon",
+    "Times": "12:30",
     "Contact Name": "Ben",
-    "Contact Email": "ben@benearthplus@gmail.com",
-    "Website": "",
-    "Description": "",
+    "Contact Email": "clubexhort@gmail.com",
+    "Website": "https://ben4937.wixsite.com/insightful-mind",
+    "Description": "online and in person / en línea y presencial (@Juan Adalid, Garafía, Sant Cruz De La Palma, Islas Canarias)",
     "Language": "English"
   },
   {
@@ -1126,12 +1126,26 @@
     "Frequency": "Monday to Friday",
     "Duration": "45",
     "Time Zone": "Atlantic/Canary",
-    "Times": "06:30 Mon",
+    "Times": "06:30",
     "Contact Name": "Ben",
-    "Contact Email": "ben@benearthplus@gmail.com",
-    "Website": "",
+    "Contact Email": "clubexhort@gmail.com",
+    "Website": "https://ben4937.wixsite.com/insightful-mind",
     "Description": "",
     "Language": "English"
+  },
+  {
+    "Name": "Insightful Mind Sangha (GMT)",
+    "Category": "Single Practice Sanghas",
+    "Sub Category": "Silent Meditation",
+    "Frequency": "weekly",
+    "Duration": "30",
+    "Time Zone": "Atlantic/Canary",
+    "Times": "09:00 Sat",
+    "Contact Name": "Ben",
+    "Contact Email": "clubexhort@gmail.com",
+    "Website": "https://ben4937.wixsite.com/insightful-mind",
+    "Description": "",
+    "Language": ""
   },
   {
     "Name": "Interbeing Study – World Interbeing Sangha",
@@ -1395,7 +1409,7 @@
     "Times": "19:00 Thu",
     "Contact Name": "Margrit",
     "Contact Email": "m.romang@rcn.com",
-    "Website": "",
+    "Website": "http://laketahoemindfulness.com",
     "Description": "We always welcome new members.  In our first hour, we practice formal meditation (guided or silent), and our second hour is dedicated to dharma reading/sharing",
     "Language": "English"
   },
@@ -1409,8 +1423,8 @@
     "Times": "07:45 Thu",
     "Contact Name": "Karla            Silvana",
     "Contact Email": "karla@laketahoemindfulness.com            silvanamatteo@gmail.com",
-    "Website": "https://laketahoemindfulness.com/",
-    "Description": "For family and beloveds of those in recovery from substances",
+    "Website": "http://laketahoemindfulness.com",
+    "Description": "For family, friends and all those impacted by substance use",
     "Language": "English"
   },
   {
@@ -1423,8 +1437,8 @@
     "Times": "20:00 Fri",
     "Contact Name": "Karla            Silvana",
     "Contact Email": "karla@laketahoemindfulness.com            silvanamatteo@gmail.com",
-    "Website": "https://laketahoemindfulness.com/",
-    "Description": "For family and beloveds of those in recovery from substances",
+    "Website": "http://laketahoemindfulness.com",
+    "Description": "For family, friends and all those impacted by substance use",
     "Language": "English"
   },
   {
@@ -1860,6 +1874,20 @@
     "Website": "",
     "Description": "",
     "Language": "English"
+  },
+  {
+    "Name": "Path of Peace Sangha",
+    "Category": "Traditional Sanghas",
+    "Sub Category": "",
+    "Frequency": "weekly",
+    "Duration": "90",
+    "Time Zone": "America/New_York",
+    "Times": "19:00 Mon",
+    "Contact Name": "Ann",
+    "Contact Email": "pathofpeacesanghafranklinma@gmail.com",
+    "Website": "",
+    "Description": "",
+    "Language": ""
   },
   {
     "Name": "Peace in Our Hearts Mindfulness Practice Circle",
