@@ -1089,7 +1089,7 @@
     "Contact Email": "clubexhort@gmail.com",
     "Website": "https://ben4937.wixsite.com/insightful-mind",
     "Description": "",
-    "Language": "English, español"
+    "Language": "English"
   },
   {
     "Name": "Insightful Mind Sangha (GMT)",
@@ -1117,7 +1117,7 @@
     "Contact Email": "clubexhort@gmail.com",
     "Website": "https://ben4937.wixsite.com/insightful-mind",
     "Description": "online and in person / en línea y presencial (@Juan Adalid, Garafía, Sant Cruz De La Palma, Islas Canarias)",
-    "Language": "English"
+    "Language": "English, español"
   },
   {
     "Name": "Insightful Mind Sangha (GMT)",
@@ -1126,7 +1126,7 @@
     "Frequency": "weekdays",
     "Duration": "45",
     "Time Zone": "Atlantic/Canary",
-    "Times": "06:30",
+    "Times": "06:30 Mon",
     "Contact Name": "Ben",
     "Contact Email": "clubexhort@gmail.com",
     "Website": "https://ben4937.wixsite.com/insightful-mind",
@@ -1140,12 +1140,12 @@
     "Frequency": "weekly",
     "Duration": "30",
     "Time Zone": "Atlantic/Canary",
-    "Times": "09:00 Sat",
+    "Times": "09:30 Sat",
     "Contact Name": "Ben",
     "Contact Email": "clubexhort@gmail.com",
     "Website": "https://ben4937.wixsite.com/insightful-mind",
     "Description": "",
-    "Language": ""
+    "Language": "English"
   },
   {
     "Name": "Interbeing Study – World Interbeing Sangha",
@@ -1421,9 +1421,9 @@
     "Duration": "60",
     "Time Zone": "America/Los_Angeles",
     "Times": "07:45 Thu",
-    "Contact Name": "Karla            Silvana",
-    "Contact Email": "karla@laketahoemindfulness.com            silvanamatteo@gmail.com",
-    "Website": "http://laketahoemindfulness.com",
+    "Contact Name": "Karla",
+    "Contact Email": "karla@laketahoemindfulness.com",
+    "Website": "",
     "Description": "For family, friends and all those impacted by substance use",
     "Language": "English"
   },
@@ -1435,9 +1435,9 @@
     "Duration": "60",
     "Time Zone": "Europe/Paris",
     "Times": "20:00 Fri",
-    "Contact Name": "Karla            Silvana",
-    "Contact Email": "karla@laketahoemindfulness.com            silvanamatteo@gmail.com",
-    "Website": "http://laketahoemindfulness.com",
+    "Contact Name": "Silvana",
+    "Contact Email": "silvanamatteo@gmail.com",
+    "Website": "",
     "Description": "For family, friends and all those impacted by substance use",
     "Language": "English"
   },
@@ -1885,8 +1885,8 @@
     "Times": "19:00 Mon",
     "Contact Name": "Ann",
     "Contact Email": "pathofpeacesanghafranklinma@gmail.com",
-    "Website": "",
-    "Description": "",
+    "Website": "http://pathsangha.com",
+    "Description": "Please email us prior to attending first meeting.",
     "Language": ""
   },
   {
@@ -3389,16 +3389,16 @@
   },
   {
     "Name": "Sangha Insightful Mind",
-    "Category": "Affinity Sanghas",
-    "Sub Category": "Guided Meditation",
-    "Frequency": "Wed / Thu / Fri",
+    "Category": "Traditional Sanghas",
+    "Sub Category": "",
+    "Frequency": "weekdays",
     "Duration": "30",
     "Time Zone": "Europe/Tenerife",
-    "Times": "12:30",
+    "Times": "12:30 Mon",
     "Contact Name": "Ben",
-    "Contact Email": "ben@earthplus.io",
-    "Website": "",
-    "Description": "",
+    "Contact Email": "clubexhort@gmail.com",
+    "Website": "https://ben4937.wixsite.com/insightful-mind",
+    "Description": "En línea y presencial (@Juan Adalid, Garafía, Sant Cruz De La Palma, Islas Canarias)",
     "Language": "español (spanish)"
   },
   {
