@@ -1423,7 +1423,7 @@
     "Times": "07:45 Thu",
     "Contact Name": "Karla",
     "Contact Email": "karla@laketahoemindfulness.com",
-    "Website": "",
+    "Website": "http://laketahoemindfulness.com",
     "Description": "For family, friends and all those impacted by substance use",
     "Language": "English"
   },
@@ -1437,7 +1437,7 @@
     "Times": "20:00 Fri",
     "Contact Name": "Silvana",
     "Contact Email": "silvanamatteo@gmail.com",
-    "Website": "",
+    "Website": "http://laketahoemindfulness.com",
     "Description": "For family, friends and all those impacted by substance use",
     "Language": "English"
   },
@@ -3385,20 +3385,6 @@
     "Contact Email": "mandreabutron@gmail.com",
     "Website": "",
     "Description": "",
-    "Language": "español (spanish)"
-  },
-  {
-    "Name": "Sangha Insightful Mind",
-    "Category": "Traditional Sanghas",
-    "Sub Category": "",
-    "Frequency": "weekdays",
-    "Duration": "30",
-    "Time Zone": "Europe/Tenerife",
-    "Times": "12:30 Mon",
-    "Contact Name": "Ben",
-    "Contact Email": "clubexhort@gmail.com",
-    "Website": "https://ben4937.wixsite.com/insightful-mind",
-    "Description": "En línea y presencial (@Juan Adalid, Garafía, Sant Cruz De La Palma, Islas Canarias)",
     "Language": "español (spanish)"
   },
   {
