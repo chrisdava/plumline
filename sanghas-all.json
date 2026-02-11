@@ -2856,20 +2856,6 @@
     "Language": "English"
   },
   {
-    "Name": "CHINESE",
-    "Category": "",
-    "Sub Category": "",
-    "Frequency": "",
-    "Duration": "",
-    "Time Zone": "",
-    "Times": "",
-    "Contact Name": "",
-    "Contact Email": "",
-    "Website": "",
-    "Description": "",
-    "Language": "中文 (chinese)"
-  },
-  {
     "Name": "晨光共修團  (Morning Light Sangha)",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
@@ -2912,20 +2898,6 @@
     "Language": "中文 (chinese)"
   },
   {
-    "Name": "INDONESIAN",
-    "Category": "",
-    "Sub Category": "",
-    "Frequency": "",
-    "Duration": "",
-    "Time Zone": "",
-    "Times": "",
-    "Contact Name": "",
-    "Contact Email": "",
-    "Website": "",
-    "Description": "",
-    "Language": "bahasa indonesia (indonesian)"
-  },
-  {
     "Name": "Indonesian Rainbow Sangha",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
@@ -2954,20 +2926,6 @@
     "Language": "bahasa indonesia (indonesian)"
   },
   {
-    "Name": "BULGARIAN",
-    "Category": "",
-    "Sub Category": "",
-    "Frequency": "",
-    "Duration": "",
-    "Time Zone": "",
-    "Times": "",
-    "Contact Name": "",
-    "Contact Email": "",
-    "Website": "",
-    "Description": "",
-    "Language": "български (bulgarian)"
-  },
-  {
     "Name": "Bulgarian Plum Village Sangha",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
@@ -2979,21 +2937,7 @@
     "Contact Email": "plumvillage.bulgarian.sangha@gmail.com",
     "Website": "",
     "Description": "Българската Санга на Plum Village е създадена през 2021 г. Срещаме се онлайн и обикновено практикуваме Водена седяща медитация (или бавно ходене, дълбока релаксация и др.), представяне на практиката на Plum Village (текст, беседа за Дхарма или видео) и споделяне на Дхарма. Понякога имаме онлайн сесии с монаси от Plum Village, които ни предлагат кратки беседи за Дхарма и/или сесии с въпроси и отговори.",
-    "Language": ""
-  },
-  {
-    "Name": "CZECH",
-    "Category": "",
-    "Sub Category": "",
-    "Frequency": "",
-    "Duration": "",
-    "Time Zone": "",
-    "Times": "",
-    "Contact Name": "",
-    "Contact Email": "",
-    "Website": "",
-    "Description": "",
-    "Language": "česky mluvící (czech)"
+    "Language": "български (bulgarian)"
   },
   {
     "Name": "Plum Village v české Republice",
@@ -3022,20 +2966,6 @@
     "Website": "",
     "Description": "třetí neděli každého měsíce",
     "Language": "česky mluvící (czech)"
-  },
-  {
-    "Name": "GERMAN",
-    "Category": "",
-    "Sub Category": "",
-    "Frequency": "",
-    "Duration": "",
-    "Time Zone": "",
-    "Times": "",
-    "Contact Name": "",
-    "Contact Email": "",
-    "Website": "",
-    "Description": "",
-    "Language": "deutsch (german)"
   },
   {
     "Name": "Achtsames Leben Heidelberg Sangha",
@@ -3122,20 +3052,6 @@
     "Language": "deutsch (german)"
   },
   {
-    "Name": "GREEK",
-    "Category": "",
-    "Sub Category": "",
-    "Frequency": "",
-    "Duration": "",
-    "Time Zone": "",
-    "Times": "",
-    "Contact Name": "",
-    "Contact Email": "",
-    "Website": "",
-    "Description": "",
-    "Language": "ελληνικά (greek)"
-  },
-  {
     "Name": "Sangha Αθήνας",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
@@ -3162,20 +3078,6 @@
     "Website": "",
     "Description": "",
     "Language": "ελληνικά (greek)"
-  },
-  {
-    "Name": "SPANISH",
-    "Category": "",
-    "Sub Category": "",
-    "Frequency": "",
-    "Duration": "",
-    "Time Zone": "",
-    "Times": "",
-    "Contact Name": "",
-    "Contact Email": "",
-    "Website": "",
-    "Description": "",
-    "Language": "español (spanish)"
   },
   {
     "Name": "Abrazadores de la Tierra Argentina",
@@ -3542,20 +3444,6 @@
     "Language": "español (spanish)"
   },
   {
-    "Name": "FRENCH",
-    "Category": "",
-    "Sub Category": "",
-    "Frequency": "",
-    "Duration": "",
-    "Time Zone": "",
-    "Times": "",
-    "Contact Name": "",
-    "Contact Email": "",
-    "Website": "",
-    "Description": "",
-    "Language": "français (french)"
-  },
-  {
     "Name": "Sangha la Barque de Somarel",
     "Category": "Affinity Sanghas",
     "Sub Category": "Guided Meditation",
@@ -3668,20 +3556,6 @@
     "Language": "français (french)"
   },
   {
-    "Name": "HEBREW",
-    "Category": "",
-    "Sub Category": "",
-    "Frequency": "",
-    "Duration": "",
-    "Time Zone": "",
-    "Times": "",
-    "Contact Name": "",
-    "Contact Email": "",
-    "Website": "",
-    "Description": "",
-    "Language": "עברית (hebrew)"
-  },
-  {
     "Name": "סנגהת שן הארי",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
@@ -3696,20 +3570,6 @@
     "Language": "עברית (hebrew)"
   },
   {
-    "Name": "HUNGARIAN",
-    "Category": "",
-    "Sub Category": "",
-    "Frequency": "",
-    "Duration": "",
-    "Time Zone": "",
-    "Times": "",
-    "Contact Name": "",
-    "Contact Email": "",
-    "Website": "",
-    "Description": "",
-    "Language": "magyar (hungarian)"
-  },
-  {
     "Name": "Szelíd Mosoly Buddhista Szangha",
     "Category": "Affinity Sanghas",
     "Sub Category": "Silent Meditation",
@@ -3722,20 +3582,6 @@
     "Website": "https://szelidmosoly.hu/",
     "Description": "",
     "Language": "magyar (hungarian)"
-  },
-  {
-    "Name": "ITALIAN",
-    "Category": "",
-    "Sub Category": "",
-    "Frequency": "",
-    "Duration": "",
-    "Time Zone": "",
-    "Times": "",
-    "Contact Name": "",
-    "Contact Email": "",
-    "Website": "",
-    "Description": "",
-    "Language": "italiano (italian)"
   },
   {
     "Name": "Sangha Diffuso",
@@ -3778,20 +3624,6 @@
     "Website": "",
     "Description": "",
     "Language": "italiano (italian)"
-  },
-  {
-    "Name": "JAPANESE",
-    "Category": "",
-    "Sub Category": "",
-    "Frequency": "",
-    "Duration": "",
-    "Time Zone": "",
-    "Times": "",
-    "Contact Name": "",
-    "Contact Email": "",
-    "Website": "",
-    "Description": "",
-    "Language": "日本語 (japanese)"
   },
   {
     "Name": "Heart of Tokyo,Yokohama & Kamakura Sangha",
@@ -3850,20 +3682,6 @@
     "Language": "日本語 (japanese)"
   },
   {
-    "Name": "LITHUANIAN",
-    "Category": "",
-    "Sub Category": "",
-    "Frequency": "",
-    "Duration": "",
-    "Time Zone": "",
-    "Times": "",
-    "Contact Name": "",
-    "Contact Email": "",
-    "Website": "",
-    "Description": "",
-    "Language": "lietuvių (lithuanian)"
-  },
-  {
     "Name": "Vilniaus Sangha Prabuskime",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
@@ -3876,20 +3694,6 @@
     "Website": "",
     "Description": "",
     "Language": "lietuvių (lithuanian)"
-  },
-  {
-    "Name": "DUTCH",
-    "Category": "",
-    "Sub Category": "",
-    "Frequency": "",
-    "Duration": "",
-    "Time Zone": "",
-    "Times": "",
-    "Contact Name": "",
-    "Contact Email": "",
-    "Website": "",
-    "Description": "",
-    "Language": "nederland (dutch)"
   },
   {
     "Name": "Online Sangha Leven in Aandacht",
@@ -3920,20 +3724,6 @@
     "Language": "nederland (dutch)"
   },
   {
-    "Name": "POLISH",
-    "Category": "",
-    "Sub Category": "",
-    "Frequency": "",
-    "Duration": "",
-    "Time Zone": "",
-    "Times": "",
-    "Contact Name": "",
-    "Contact Email": "",
-    "Website": "",
-    "Description": "",
-    "Language": "polskie (polish)"
-  },
-  {
     "Name": "Sangha Uśmiech Buddy",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
@@ -3946,20 +3736,6 @@
     "Website": "https://www.usmiechbuddy.org/cloud/",
     "Description": "",
     "Language": "polskie (polish)"
-  },
-  {
-    "Name": "PORTUGUESE",
-    "Category": "",
-    "Sub Category": "",
-    "Frequency": "",
-    "Duration": "",
-    "Time Zone": "",
-    "Times": "",
-    "Contact Name": "",
-    "Contact Email": "",
-    "Website": "",
-    "Description": "",
-    "Language": "português (portuguese)"
   },
   {
     "Name": "A Outra Margem",
@@ -4046,20 +3822,6 @@
     "Language": "português (portuguese)"
   },
   {
-    "Name": "ROMANIAN",
-    "Category": "",
-    "Sub Category": "",
-    "Frequency": "",
-    "Duration": "",
-    "Time Zone": "",
-    "Times": "",
-    "Contact Name": "",
-    "Contact Email": "",
-    "Website": "",
-    "Description": "",
-    "Language": "românește (romanian)"
-  },
-  {
     "Name": "Sangha Romania",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
@@ -4074,20 +3836,6 @@
     "Language": "românește (romanian)"
   },
   {
-    "Name": "SLOVENIAN",
-    "Category": "",
-    "Sub Category": "",
-    "Frequency": "",
-    "Duration": "",
-    "Time Zone": "",
-    "Times": "",
-    "Contact Name": "",
-    "Contact Email": "",
-    "Website": "",
-    "Description": "",
-    "Language": "slovenščina (slovenian)"
-  },
-  {
     "Name": "Sangha Slovenia",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
@@ -4100,20 +3848,6 @@
     "Website": "",
     "Description": "",
     "Language": "slovenščina (slovenian)"
-  },
-  {
-    "Name": "SWEDISH",
-    "Category": "",
-    "Sub Category": "",
-    "Frequency": "",
-    "Duration": "",
-    "Time Zone": "",
-    "Times": "",
-    "Contact Name": "",
-    "Contact Email": "",
-    "Website": "",
-    "Description": "",
-    "Language": "svenska (swedish)"
   },
   {
     "Name": "Earth Holders Sverige",
@@ -4142,20 +3876,6 @@
     "Website": "",
     "Description": "",
     "Language": "svenska (swedish)"
-  },
-  {
-    "Name": "VIETNAMESE",
-    "Category": "",
-    "Sub Category": "",
-    "Frequency": "",
-    "Duration": "",
-    "Time Zone": "",
-    "Times": "",
-    "Contact Name": "",
-    "Contact Email": "",
-    "Website": "",
-    "Description": "",
-    "Language": "tiếng việt (vietnamese)"
   },
   {
     "Name": "Suối Tuệ / Hơi Thở Nhẹ Sangha",
@@ -4214,20 +3934,6 @@
     "Language": "tiếng việt (vietnamese)"
   },
   {
-    "Name": "THAI",
-    "Category": "",
-    "Sub Category": "",
-    "Frequency": "",
-    "Duration": "",
-    "Time Zone": "",
-    "Times": "",
-    "Contact Name": "",
-    "Contact Email": "",
-    "Website": "",
-    "Description": "",
-    "Language": "ไทย (thai)"
-  },
-  {
     "Name": "บ่มเพาะพลังแห่งรัก",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
@@ -4240,20 +3946,6 @@
     "Website": "",
     "Description": "",
     "Language": "ไทย (thai)"
-  },
-  {
-    "Name": "TURKISH",
-    "Category": "",
-    "Sub Category": "",
-    "Frequency": "",
-    "Duration": "",
-    "Time Zone": "",
-    "Times": "",
-    "Contact Name": "",
-    "Contact Email": "",
-    "Website": "",
-    "Description": "",
-    "Language": "türkçe (turkish)"
   },
   {
     "Name": "Türkçe Destek ve Dayanışma Sanghası",
