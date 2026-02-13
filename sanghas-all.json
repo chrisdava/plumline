@@ -868,6 +868,20 @@
     "Language": "English"
   },
   {
+    "Name": "Floating Leaf Sangha",
+    "Category": "Traditional Sanghas",
+    "Sub Category": "",
+    "Frequency": "weekly",
+    "Duration": "90",
+    "Time Zone": "Alaska/Anchorage",
+    "Times": "18:30 Wed",
+    "Contact Name": "Sharon/Joe",
+    "Contact Email": "alaskamindfulnessretreat@gmail.com",
+    "Website": "",
+    "Description": "",
+    "Language": ""
+  },
+  {
     "Name": "Flowering Tree Sangha",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
@@ -2630,6 +2644,20 @@
     "Website": "",
     "Description": "",
     "Language": "English"
+  },
+  {
+    "Name": "True Home Mindfulness Community",
+    "Category": "Traditional Sanghas",
+    "Sub Category": "",
+    "Frequency": "weekly",
+    "Duration": "60",
+    "Time Zone": "America/New_York",
+    "Times": "18:45 Thurs",
+    "Contact Name": "Patrick",
+    "Contact Email": "colepatrickJ@gmail.com",
+    "Website": "https://truehomemc.org/",
+    "Description": "",
+    "Language": ""
   },
   {
     "Name": "True Love Sangha",
