@@ -448,20 +448,6 @@
     "Language": "English"
   },
   {
-    "Name": "Green Sea Sangha",
-    "Category": "Traditional Sanghas",
-    "Sub Category": "",
-    "Frequency": "2nd & 4th week of month",
-    "Duration": "60",
-    "Time Zone": "America/New_York",
-    "Times": "10:00 Thursday",
-    "Contact Name": "Jeannie",
-    "Contact Email": "jeannielawlor@gmail.com",
-    "Website": "",
-    "Description": "We sit together via Zoom twice a month, with an hour for practice and Dharma sharing. We’ve been practicing joyfully in the Plum Village tradition since 2019. Please send an email for Zoom link so you can join us! All are welcome, including newcomers. We’re affiliated with the UUSociety of Fairhaven, MA. Sometimes in the late spring and summer we gather in person to meditate outdoors.",
-    "Language": "English"
-  },
-  {
     "Name": "Circle of Presence Sangha",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
@@ -728,17 +714,17 @@
     "Language": "English"
   },
   {
-    "Name": "Upper Midwest OI, OI aspirant or Aspirant Curious Sangha",
+    "Name": "Diamond Moon Sangha - (Tăng đoàn mặt trăng kim cương)",
     "Category": "Affinity Sanghas",
-    "Sub Category": "Mindfulness Trainings",
-    "Frequency": "second Sunday",
-    "Duration": "75",
-    "Time Zone": "America/New_York",
-    "Times": "08:00 Sun",
-    "Contact Name": "Kristin",
-    "Contact Email": "kristin@kristinjohnstad.com",
-    "Website": "https://groups.google.com/g/mw-oi/about",
-    "Description": "This online sangha meets monthly on the second Sunday from 8am - 9:30am (USA central time zone) The purpose is to: 1) CONNECT . . . . . cultivating spiritual friendships among those who are Order of Interbeing (OI) members, OI aspirants or OI curious and reside in IL, MO, WI, MN, IA, NE, ND, SD and Upper Peninsula of MI. 2) LEARN . . . . . practical ways people are deepening their embodiment of the 14 Mindfulness trainings in their daily life; hold a solid and spacious practice container to support one another as we cultivate greater mindfulness, concentration and insight; to provide reciprocal community mentorship on challenges on the path. 3) GROW . . . . . an emergent and resilient “network of networks” in the Upper Midwest flowing as a river and carrying us on our collective journey of healing and liberation for all.",
+    "Sub Category": "Other Affinity Sanghas",
+    "Frequency": "weekly",
+    "Duration": "90",
+    "Time Zone": "Europe/London",
+    "Times": "18:00 Wed",
+    "Contact Name": "Sib. Yonten",
+    "Contact Email": "siblingyonten@plumvillage.uk",
+    "Website": "",
+    "Description": "An affiliate Sangha for Disabled (Dis) and Neurodiverse (ND) practitioners following the teachings of Ven. Thich Nhat Hanh, Sisters, Brothers and Siblings of Plum Village. In our Sangha, we embrace a mindful approach to navigating the challenges of disability and neurodiversity, inspired by the teachings of Ven. Thich Nhat Hanh, the Buddha, and the practices of Plum Village. We understand that pain, whether physical or emotional, is a natural part of life. Through mindfulness, we learn to observe our differences with a gentle and non-judgemental awareness, transforming our relationship with them.",
     "Language": "English"
   },
   {
@@ -966,20 +952,6 @@
     "Language": "English"
   },
   {
-    "Name": "Heart of Insight Sangha",
-    "Category": "Traditional Sanghas",
-    "Sub Category": "",
-    "Frequency": "weekly",
-    "Duration": "105",
-    "Time Zone": "America/Los_Angeles",
-    "Times": "19:15 Wed",
-    "Contact Name": "Gail",
-    "Contact Email": "atinfinity@comcast.net",
-    "Website": "https://mindful.community/",
-    "Description": "Heart of Insight is a Sangha that practices in the Plum Village tradition as taught by our teacher, Zen Master Thich Nhat Hanh. Together we share in meditation, walking meditation, dharma study, dharma sharing, service and mutual practice support. All are welcome! We meet weekly online and once a season in person for a half day to full day retreat.",
-    "Language": "English"
-  },
-  {
     "Name": "Free Street Sangha",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
@@ -991,20 +963,6 @@
     "Contact Email": "00-ends-lumbar@icloud.com",
     "Website": "",
     "Description": "Free Street Sangha is an inclusive community movement uniting body, speech, and mind to support individual and collective wellbeing. Welcoming all, it encourages open-hearted practice, active listening, and compassionate response, fostering a nourishing environment that helps participants manage life’s challenges and pursue peace, happiness, and healing together.",
-    "Language": "English"
-  },
-  {
-    "Name": "Heartland Community of Mindful Living",
-    "Category": "Traditional Sanghas",
-    "Sub Category": "",
-    "Frequency": "weekly",
-    "Duration": "120",
-    "Time Zone": "America/Kansas_City",
-    "Times": "19:00 Mon",
-    "Contact Name": "Bethany",
-    "Contact Email": "contact@mindfulnesskc.org",
-    "Website": "http://mindfulnesskc.org/",
-    "Description": "HCML is an online hub offering a safe and supportive space for anyone aspiring to apply the Plum Village practice to their life.",
     "Language": "English"
   },
   {
@@ -1036,6 +994,20 @@
     "Language": "English"
   },
   {
+    "Name": "Garrison BIPOC Meditation Sangha",
+    "Category": "Affinity Sanghas",
+    "Sub Category": "BIPOC",
+    "Frequency": "weekly",
+    "Duration": "60",
+    "Time Zone": "America/New_York",
+    "Times": "12:00 Thu",
+    "Contact Name": "Kaira",
+    "Contact Email": "gibipocsangha@garrisoninstitute.org",
+    "Website": "https://www.garrisoninstitute.org/online-communities/bipoc-meditation-sangha/",
+    "Description": "The Black, Indigenous and People of Color (BIPOC) Sangha is a weekly gathering of self-identified BIPOC practitioners that provides a safe place to meditate and explore contemplative practices. This sangha cultivates an environment that welcomes diverse voices and builds community. The guided meditations are facilitated every Thursday by Dharma teachers Kaira Jewel Lingo and Dr. Marisela Gomez as well as other experienced practitioners.",
+    "Language": "English"
+  },
+  {
     "Name": "Gentle Heart Sangha",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
@@ -1061,6 +1033,20 @@
     "Contact Email": "jvosburgh15@pm.me",
     "Website": "",
     "Description": "We were established in 2019. We were co-founded by an Order of Interbeing member and a local Yoga Instructor. We practice in the Plum Village Tradition offering online meditations and Dharma sharing. We plan trips to Blue Cliff Monastery for Days of Mindfulness throughout the year.",
+    "Language": "English"
+  },
+  {
+    "Name": "Green Sea Sangha",
+    "Category": "Traditional Sanghas",
+    "Sub Category": "",
+    "Frequency": "2nd & 4th week of month",
+    "Duration": "60",
+    "Time Zone": "America/New_York",
+    "Times": "10:00 Thursday",
+    "Contact Name": "Jeannie",
+    "Contact Email": "jeannielawlor@gmail.com",
+    "Website": "",
+    "Description": "We sit together via Zoom twice a month, with an hour for practice and Dharma sharing. We’ve been practicing joyfully in the Plum Village tradition since 2019. Please send an email for Zoom link so you can join us! All are welcome, including newcomers. We’re affiliated with the UUSociety of Fairhaven, MA. Sometimes in the late spring and summer we gather in person to meditate outdoors.",
     "Language": "English"
   },
   {
@@ -1092,6 +1078,20 @@
     "Language": "English"
   },
   {
+    "Name": "Heart of Insight Sangha",
+    "Category": "Traditional Sanghas",
+    "Sub Category": "",
+    "Frequency": "weekly",
+    "Duration": "105",
+    "Time Zone": "America/Los_Angeles",
+    "Times": "19:15 Wed",
+    "Contact Name": "Gail",
+    "Contact Email": "atinfinity@comcast.net",
+    "Website": "https://mindful.community/",
+    "Description": "Heart of Insight is a Sangha that practices in the Plum Village tradition as taught by our teacher, Zen Master Thich Nhat Hanh. Together we share in meditation, walking meditation, dharma study, dharma sharing, service and mutual practice support. All are welcome! We meet weekly online and once a season in person for a half day to full day retreat.",
+    "Language": "English"
+  },
+  {
     "Name": "Heart of London Sangha",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
@@ -1117,6 +1117,20 @@
     "Contact Email": "joyceandpat@gmail.com",
     "Website": "",
     "Description": "",
+    "Language": "English"
+  },
+  {
+    "Name": "Heartland Community of Mindful Living",
+    "Category": "Traditional Sanghas",
+    "Sub Category": "",
+    "Frequency": "weekly",
+    "Duration": "120",
+    "Time Zone": "America/Kansas_City",
+    "Times": "19:00 Mon",
+    "Contact Name": "Bethany",
+    "Contact Email": "contact@mindfulnesskc.org",
+    "Website": "http://mindfulnesskc.org/",
+    "Description": "HCML is an online hub offering a safe and supportive space for anyone aspiring to apply the Plum Village practice to their life.",
     "Language": "English"
   },
   {
@@ -1330,20 +1344,6 @@
     "Language": "English"
   },
   {
-    "Name": "Leeds Interbeing Sangha",
-    "Category": "Single Practice Sanghas",
-    "Sub Category": "Study",
-    "Frequency": "monthly",
-    "Duration": "90",
-    "Time Zone": "Europe/London",
-    "Times": "19:00 Tue",
-    "Contact Name": "Barbara",
-    "Contact Email": "barbaraparry@waitrose.com",
-    "Website": "",
-    "Description": "Studying 'The Art of Living' and other books by Thay",
-    "Language": "English"
-  },
-  {
     "Name": "LGBTQ+ – World Interbeing Sangha",
     "Category": "Affinity Sanghas",
     "Sub Category": "LGBTQ+",
@@ -1495,6 +1495,20 @@
     "Contact Email": "prabhasrini@gmail.com",
     "Website": "",
     "Description": "",
+    "Language": "English"
+  },
+  {
+    "Name": "Mens Awareness Sangha",
+    "Category": "Affinity Sanghas",
+    "Sub Category": "Other Affinity Sanghas",
+    "Frequency": "monthly",
+    "Duration": "90",
+    "Time Zone": "Europe/London",
+    "Times": "8:00 First Tue",
+    "Contact Name": "Joe",
+    "Contact Email": "joe_holtaway@hotmail.com",
+    "Website": "https://plumvillage.uk/group/mens-awareness-sangha/",
+    "Description": "Men’s Awareness Sangha is an online monthly sangha for people identifying as men who wish to practise mindfulness together while exploring awareness around patriarchy, conditioning, boundaries, responsibility, and relationship, and what it means to be a man in these times. Grounded in Plum Village practice — including sitting and walking meditation, deep listening, and loving speech — the sangha offers a supportive space for reflection and shared inquiry with PV and external resources",
     "Language": "English"
   },
   {
@@ -1659,8 +1673,8 @@
     "Duration": "60",
     "Time Zone": "America/New_York",
     "Times": "07:00 Mon",
-    "Contact Name": "Scott",
-    "Contact Email": "scott.hagaman@aim.com",
+    "Contact Name": "Brett",
+    "Contact Email": "brett@cruibne.net",
     "Website": "",
     "Description": "Virtual meetings of the New Dawn Sangha",
     "Language": "English"
@@ -1673,8 +1687,8 @@
     "Duration": "60",
     "Time Zone": "America/New_York",
     "Times": "07:00 Wed",
-    "Contact Name": "Scott",
-    "Contact Email": "scott.hagaman@aim.com",
+    "Contact Name": "Brett",
+    "Contact Email": "brett@cruibne.net",
     "Website": "",
     "Description": "Virtual meetings of the New Dawn Sangha",
     "Language": "English"
@@ -1687,8 +1701,8 @@
     "Duration": "60",
     "Time Zone": "America/New_York",
     "Times": "07:00 Fri",
-    "Contact Name": "Scott",
-    "Contact Email": "scott.hagaman@aim.com",
+    "Contact Name": "Brett",
+    "Contact Email": "brett@cruibne.net",
     "Website": "",
     "Description": "Virtual meetings of the New Dawn Sangha",
     "Language": "English"
@@ -2086,20 +2100,6 @@
     "Language": "English"
   },
   {
-    "Name": "Diamond Moon Sangha - (Tăng đoàn mặt trăng kim cương)",
-    "Category": "Affinity Sanghas",
-    "Sub Category": "Other Affinity Sanghas",
-    "Frequency": "weekly",
-    "Duration": "90",
-    "Time Zone": "Europe/London",
-    "Times": "18:00 Wed",
-    "Contact Name": "Sib. Yonten",
-    "Contact Email": "siblingyonten@plumvillage.uk",
-    "Website": "",
-    "Description": "An affiliate Sangha for Disabled (Dis) and Neurodiverse (ND) practitioners following the teachings of Ven. Thich Nhat Hanh, Sisters, Brothers and Siblings of Plum Village. In our Sangha, we embrace a mindful approach to navigating the challenges of disability and neurodiversity, inspired by the teachings of Ven. Thich Nhat Hanh, the Buddha, and the practices of Plum Village. We understand that pain, whether physical or emotional, is a natural part of life. Through mindfulness, we learn to observe our differences with a gentle and non-judgemental awareness, transforming our relationship with them.",
-    "Language": "English"
-  },
-  {
     "Name": "Rainbow Sangha Ireland",
     "Category": "Affinity Sanghas",
     "Sub Category": "LGBTQ+",
@@ -2139,20 +2139,6 @@
     "Contact Email": "",
     "Website": "https://redkitezen.org",
     "Description": "Red Kite Zen is a simple zen meditation and mindfulness group open to everyone - from beginners to more experienced - all are welcome - please visit our website for more info or to join our invite list",
-    "Language": "English"
-  },
-  {
-    "Name": "Garrison BIPOC Meditation Sangha",
-    "Category": "Affinity Sanghas",
-    "Sub Category": "BIPOC",
-    "Frequency": "weekly",
-    "Duration": "60",
-    "Time Zone": "America/New_York",
-    "Times": "12:00 Thu",
-    "Contact Name": "Kaira",
-    "Contact Email": "gibipocsangha@garrisoninstitute.org",
-    "Website": "https://www.garrisoninstitute.org/online-communities/bipoc-meditation-sangha/",
-    "Description": "The Black, Indigenous and People of Color (BIPOC) Sangha is a weekly gathering of self-identified BIPOC practitioners that provides a safe place to meditate and explore contemplative practices. This sangha cultivates an environment that welcomes diverse voices and builds community. The guided meditations are facilitated every Thursday by Dharma teachers Kaira Jewel Lingo and Dr. Marisela Gomez as well as other experienced practitioners.",
     "Language": "English"
   },
   {
@@ -2716,6 +2702,20 @@
     "Language": "English"
   },
   {
+    "Name": "Upper Midwest OI, OI aspirant or Aspirant Curious Sangha",
+    "Category": "Affinity Sanghas",
+    "Sub Category": "Mindfulness Trainings",
+    "Frequency": "second Sunday",
+    "Duration": "75",
+    "Time Zone": "America/New_York",
+    "Times": "08:00 Sun",
+    "Contact Name": "Kristin",
+    "Contact Email": "kristin@kristinjohnstad.com",
+    "Website": "https://groups.google.com/g/mw-oi/about",
+    "Description": "This online sangha meets monthly on the second Sunday from 8am - 9:30am (USA central time zone) The purpose is to: 1) CONNECT . . . . . cultivating spiritual friendships among those who are Order of Interbeing (OI) members, OI aspirants or OI curious and reside in IL, MO, WI, MN, IA, NE, ND, SD and Upper Peninsula of MI. 2) LEARN . . . . . practical ways people are deepening their embodiment of the 14 Mindfulness trainings in their daily life; hold a solid and spacious practice container to support one another as we cultivate greater mindfulness, concentration and insight; to provide reciprocal community mentorship on challenges on the path. 3) GROW . . . . . an emergent and resilient “network of networks” in the Upper Midwest flowing as a river and carrying us on our collective journey of healing and liberation for all.",
+    "Language": "English"
+  },
+  {
     "Name": "Waving Grass Sangha",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
@@ -2758,6 +2758,20 @@
     "Language": "English"
   },
   {
+    "Name": "Wild Rose Rainbow Sangha",
+    "Category": "Affinity Sanghas",
+    "Sub Category": "LGBTQ+",
+    "Frequency": "monthly",
+    "Duration": "75",
+    "Time Zone": "Canada/Mountain",
+    "Times": "19:00 Sunday",
+    "Contact Name": "Elizabeth",
+    "Contact Email": "wildroserainbow@gmail.com",
+    "Website": "wildrosesangha.ca",
+    "Description": "Open to 2SLGBTQIA practitioners with a current emphasis on supporting queer practitioners residing in Canada. Our monthly practice consists of guided meditation, silent sitting meditation and dharma sharing. Meets the third Sunday of each month",
+    "Language": "English"
+  },
+  {
     "Name": "Wild Rose Sangha",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
@@ -2783,20 +2797,6 @@
     "Contact Email": "Jim.fries@shaw.ca",
     "Website": "",
     "Description": "",
-    "Language": "English"
-  },
-  {
-    "Name": "Wild Rose Rainbow Sangha",
-    "Category": "Affinity Sanghas",
-    "Sub Category": "LGBTQ+",
-    "Frequency": "monthly",
-    "Duration": "75",
-    "Time Zone": "Canada/Mountain",
-    "Times": "19:00 Sunday",
-    "Contact Name": "Elizabeth",
-    "Contact Email": "wildroserainbow@gmail.com",
-    "Website": "wildrosesangha.ca",
-    "Description": "Open to 2SLGBTQIA practitioners with a current emphasis on supporting queer practitioners residing in Canada. Our monthly practice consists of guided meditation, silent sitting meditation and dharma sharing. Meets the third Sunday of each month",
     "Language": "English"
   },
   {
@@ -2884,18 +2884,172 @@
     "Language": "English"
   },
   {
-    "Name": "Mens Awareness Sangha",
+    "Name": "Abrazadores de la Tierra Argentina",
     "Category": "Affinity Sanghas",
-    "Sub Category": "Other Affinity Sanghas",
-    "Frequency": "monthly",
+    "Sub Category": "Engaged Practice",
+    "Frequency": "Weekly",
     "Duration": "90",
-    "Time Zone": "Europe/London",
-    "Times": "8:00 First Tue",
-    "Contact Name": "Joe",
-    "Contact Email": "joe_holtaway@hotmail.com",
-    "Website": "https://plumvillage.uk/group/mens-awareness-sangha/",
-    "Description": "Men’s Awareness Sangha is an online monthly sangha for people identifying as men who wish to practise mindfulness together while exploring awareness around patriarchy, conditioning, boundaries, responsibility, and relationship, and what it means to be a man in these times. Grounded in Plum Village practice — including sitting and walking meditation, deep listening, and loving speech — the sangha offers a supportive space for reflection and shared inquiry with PV and external resources",
-    "Language": "English"
+    "Time Zone": "Argentina/Buenos_Aires",
+    "Times": "20:00 Tue",
+    "Contact Name": "Carolina",
+    "Contact Email": "adtargentina@earthholders.org",
+    "Website": "",
+    "Description": "",
+    "Language": "español (spanish)"
+  },
+  {
+    "Name": "Sangha Aspiración de la Fuente",
+    "Category": "Traditional Sanghas",
+    "Sub Category": "",
+    "Frequency": "Weekly",
+    "Duration": "60",
+    "Time Zone": "Colombia/Bogota",
+    "Times": "07:00 Mon",
+    "Contact Name": "Mariana",
+    "Contact Email": "marianaguhl@gmail.com",
+    "Website": "",
+    "Description": "",
+    "Language": "español (spanish)"
+  },
+  {
+    "Name": "Comunidade Guardiã da Terra",
+    "Category": "Affinity Sanghas",
+    "Sub Category": "Engaged Practice",
+    "Frequency": "Bi-Monthly",
+    "Duration": "90",
+    "Time Zone": "Brazil/Sao Paulo",
+    "Times": "10:00 Sat",
+    "Contact Name": "Maíra",
+    "Contact Email": "guardioesdaterra.thay@gmail.com",
+    "Website": "https://www.instagram.com/guardioesdaterra.ehcbr/",
+    "Description": "",
+    "Language": "português (portuguese)"
+  },
+  {
+    "Name": "บ่มเพาะพลังแห่งรัก",
+    "Category": "Traditional Sanghas",
+    "Sub Category": "",
+    "Frequency": "Weekly",
+    "Duration": "60",
+    "Time Zone": "Indochine/Thailand",
+    "Times": "20:00 Tue",
+    "Contact Name": "Poom",
+    "Contact Email": "premprach@gmail.com",
+    "Website": "",
+    "Description": "",
+    "Language": "ไทย (thai)"
+  },
+  {
+    "Name": "Interbeing Ελλάδα",
+    "Category": "Traditional Sanghas",
+    "Sub Category": "",
+    "Frequency": "Fortnightly",
+    "Duration": "90",
+    "Time Zone": "Europe/Athens",
+    "Times": "18:00 Thu",
+    "Contact Name": "Sophie",
+    "Contact Email": "interbeing.greece@gmail.com",
+    "Website": "",
+    "Description": "",
+    "Language": "ελληνικά (greek)"
+  },
+  {
+    "Name": "Sangha Girasoles",
+    "Category": "Traditional Sanghas",
+    "Sub Category": "",
+    "Frequency": "Weekly",
+    "Duration": "60",
+    "Time Zone": "Argentina/Buenos Aires",
+    "Times": "20:00 Thu",
+    "Contact Name": "Maca",
+    "Contact Email": "sanghagirasoles2024@gmail.com",
+    "Website": "",
+    "Description": "",
+    "Language": "español (spanish)"
+  },
+  {
+    "Name": "ZASP Hispanohablantes Internacional",
+    "Category": "Affinity Sanghas",
+    "Sub Category": "Engaged Practice",
+    "Frequency": "Monthly",
+    "Duration": "120",
+    "Time Zone": "America/Argentina/Buenos_Aires",
+    "Times": "12:00 Sun",
+    "Contact Name": "Andrea",
+    "Contact Email": "zasphispanohablantes@gmail.com",
+    "Website": "https://www.instagram.com/zenparaelmundo?igsh=bHYyZ3MxZjFrZmFw",
+    "Description": "Sangha habla hispana de práctica, estudio, acompañamiento e intercambio, inspirada en el curso Zen y el Arte de Salvar el planeta y su libro homónimo. Temas de afinidad: crisis planetaria, ecología profunda, equilibrio de bienestar y acción climática, resiliencia, ecoansiedad, activismo consciente, compasivo y sostenible, conciencia plena, escucha profunda y comunicación compasiva, budismo comprometido, resistencia no violenta, fortaleza espiritual. (Importante: esta sangha ha sido creada en primer instancia por y para alumnos y alumnas hispanohablantes del curso pero no es excluyente. Queremos apoyar también a quienes quieran hacerlo y tengan intereses afines. Por este motivo no se comparte material del curso no publicado)",
+    "Language": "español (spanish)"
+  },
+  {
+    "Name": "Sangha Queer Paris",
+    "Category": "Affinity Sanghas",
+    "Sub Category": "LGBTQ+",
+    "Frequency": "Bi-Monthly",
+    "Duration": "150",
+    "Time Zone": "Europe/Paris",
+    "Times": "19:00 Thu",
+    "Contact Name": "Sébastien",
+    "Contact Email": "sanghaqueer@gmail.com",
+    "Website": "",
+    "Description": "La première et la troisième semaine de chaque mois.",
+    "Language": "français (french)"
+  },
+  {
+    "Name": "Wake Up Nederland",
+    "Category": "Traditional Sanghas",
+    "Sub Category": "",
+    "Frequency": "Weekly",
+    "Duration": "120",
+    "Time Zone": "Europe/Amsterdam",
+    "Times": "19:15 Tue",
+    "Contact Name": "Tobias",
+    "Contact Email": "online@wkup.nl",
+    "Website": "",
+    "Description": "",
+    "Language": "nederland (dutch)"
+  },
+  {
+    "Name": "Deutschsprachige Lehrersangha",
+    "Category": "Affinity Sanghas",
+    "Sub Category": "Professions",
+    "Frequency": "1st Monday",
+    "Duration": "90",
+    "Time Zone": "Europe/Berlin",
+    "Times": "19:00 Mon",
+    "Contact Name": "Tobias",
+    "Contact Email": "tobias.schramm@rwth-aachen.de",
+    "Website": "",
+    "Description": "Wir sind eine sehr junge deutschsprachige Sangha von Lehrern, die Achtsamkeit privat und beruflich praktizieren.",
+    "Language": "deutsch (german)"
+  },
+  {
+    "Name": "Sangha Panamá",
+    "Category": "Traditional Sanghas",
+    "Sub Category": "",
+    "Frequency": "Fortnightly",
+    "Duration": "60",
+    "Time Zone": "Eastern Standard Time",
+    "Times": "14:00 Fri",
+    "Contact Name": "Nivia",
+    "Contact Email": "npimentel0722@gmail.com",
+    "Website": "",
+    "Description": "Nos reunimos en las semanas pares de cada mes.",
+    "Language": "español (spanish)"
+  },
+  {
+    "Name": "Sangha Slovenia",
+    "Category": "Traditional Sanghas",
+    "Sub Category": "",
+    "Frequency": "Fortnightly",
+    "Duration": "60",
+    "Time Zone": "Europe/Ljubljana",
+    "Times": "19:00 Tue/Wed",
+    "Contact Name": "Nivia",
+    "Contact Email": "npimentel0722@gmail.com",
+    "Website": "",
+    "Description": "",
+    "Language": "slovenščina (slovenian)"
   },
   {
     "Name": "晨光共修團  (Morning Light Sangha)",
@@ -3052,20 +3206,6 @@
     "Language": "deutsch (german)"
   },
   {
-    "Name": "Deutschsprachige Lehrersangha",
-    "Category": "Affinity Sanghas",
-    "Sub Category": "Professions",
-    "Frequency": "1st Monday",
-    "Duration": "90",
-    "Time Zone": "Europe/Berlin",
-    "Times": "19:00 Mon",
-    "Contact Name": "Tobias",
-    "Contact Email": "tobias.schramm@rwth-aachen.de",
-    "Website": "",
-    "Description": "Wir sind eine sehr junge deutschsprachige Sangha von Lehrern, die Achtsamkeit privat und beruflich praktizieren.",
-    "Language": "deutsch (german)"
-  },
-  {
     "Name": "Sangha Garten der Achtsamkeit",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
@@ -3108,34 +3248,6 @@
     "Language": "ελληνικά (greek)"
   },
   {
-    "Name": "Interbeing Ελλάδα",
-    "Category": "Traditional Sanghas",
-    "Sub Category": "",
-    "Frequency": "Fortnightly",
-    "Duration": "90",
-    "Time Zone": "Europe/Athens",
-    "Times": "18:00 Thu",
-    "Contact Name": "Sophie",
-    "Contact Email": "interbeing.greece@gmail.com",
-    "Website": "",
-    "Description": "",
-    "Language": "ελληνικά (greek)"
-  },
-  {
-    "Name": "Abrazadores de la Tierra Argentina",
-    "Category": "Affinity Sanghas",
-    "Sub Category": "Engaged Practice",
-    "Frequency": "Weekly",
-    "Duration": "90",
-    "Time Zone": "Argentina/Buenos_Aires",
-    "Times": "20:00 Tue",
-    "Contact Name": "Carolina",
-    "Contact Email": "adtargentina@earthholders.org",
-    "Website": "",
-    "Description": "",
-    "Language": "español (spanish)"
-  },
-  {
     "Name": "Sangha de las Américas",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
@@ -3147,20 +3259,6 @@
     "Contact Email": "joaquincarral@gmail.com",
     "Website": "",
     "Description": "La Sangha de las Americas les da la cordial bienvenida a todas las personas que quieran practicar en Español. Nos reunimos el segundo domingo de los meses par a las 10 de la mañana horario Bogotá y Quito. Para participar por favor da click a este link: https://zoom.us/j/902276739",
-    "Language": "español (spanish)"
-  },
-  {
-    "Name": "Sangha Aspiración de la Fuente",
-    "Category": "Traditional Sanghas",
-    "Sub Category": "",
-    "Frequency": "Weekly",
-    "Duration": "60",
-    "Time Zone": "Colombia/Bogota",
-    "Times": "07:00 Mon",
-    "Contact Name": "Mariana",
-    "Contact Email": "marianaguhl@gmail.com",
-    "Website": "",
-    "Description": "",
     "Language": "español (spanish)"
   },
   {
@@ -3304,20 +3402,6 @@
     "Language": "español (spanish)"
   },
   {
-    "Name": "Sangha Girasoles",
-    "Category": "Traditional Sanghas",
-    "Sub Category": "",
-    "Frequency": "Weekly",
-    "Duration": "60",
-    "Time Zone": "Argentina/Buenos Aires",
-    "Times": "20:00 Thu",
-    "Contact Name": "Maca",
-    "Contact Email": "sanghagirasoles2024@gmail.com",
-    "Website": "",
-    "Description": "",
-    "Language": "español (spanish)"
-  },
-  {
     "Name": "Sangha de Ibero",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
@@ -3388,20 +3472,6 @@
     "Language": "español (spanish)"
   },
   {
-    "Name": "Sangha Panamá",
-    "Category": "Traditional Sanghas",
-    "Sub Category": "",
-    "Frequency": "Fortnightly",
-    "Duration": "60",
-    "Time Zone": "Eastern Standard Time",
-    "Times": "14:00 Fri",
-    "Contact Name": "Nivia",
-    "Contact Email": "npimentel0722@gmail.com",
-    "Website": "",
-    "Description": "Nos reunimos en las semanas pares de cada mes.",
-    "Language": "español (spanish)"
-  },
-  {
     "Name": "Sangha de Querétaro",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
@@ -3469,20 +3539,6 @@
     "Contact Email": "barbarapeuvrie@yahoo.com.ar",
     "Website": "",
     "Description": "",
-    "Language": "español (spanish)"
-  },
-  {
-    "Name": "ZASP Hispanohablantes Internacional",
-    "Category": "Affinity Sanghas",
-    "Sub Category": "Engaged Practice",
-    "Frequency": "Monthly",
-    "Duration": "120",
-    "Time Zone": "America/Argentina/Buenos_Aires",
-    "Times": "12:00 Sun",
-    "Contact Name": "Andrea",
-    "Contact Email": "zasphispanohablantes@gmail.com",
-    "Website": "https://www.instagram.com/zenparaelmundo?igsh=bHYyZ3MxZjFrZmFw",
-    "Description": "Sangha habla hispana de práctica, estudio, acompañamiento e intercambio, inspirada en el curso Zen y el Arte de Salvar el planeta y su libro homónimo. Temas de afinidad: crisis planetaria, ecología profunda, equilibrio de bienestar y acción climática, resiliencia, ecoansiedad, activismo consciente, compasivo y sostenible, conciencia plena, escucha profunda y comunicación compasiva, budismo comprometido, resistencia no violenta, fortaleza espiritual. (Importante: esta sangha ha sido creada en primer instancia por y para alumnos y alumnas hispanohablantes del curso pero no es excluyente. Queremos apoyar también a quienes quieran hacerlo y tengan intereses afines. Por este motivo no se comparte material del curso no publicado)",
     "Language": "español (spanish)"
   },
   {
@@ -3581,20 +3637,6 @@
     "Contact Email": "eco.rando31@orange.fr",
     "Website": "",
     "Description": "",
-    "Language": "français (french)"
-  },
-  {
-    "Name": "Sangha Queer Paris",
-    "Category": "Affinity Sanghas",
-    "Sub Category": "LGBTQ+",
-    "Frequency": "Bi-Monthly",
-    "Duration": "150",
-    "Time Zone": "Europe/Paris",
-    "Times": "19:00 Thu",
-    "Contact Name": "Sébastien",
-    "Contact Email": "sanghaqueer@gmail.com",
-    "Website": "",
-    "Description": "La première et la troisième semaine de chaque mois.",
     "Language": "français (french)"
   },
   {
@@ -3752,20 +3794,6 @@
     "Language": "nederland (dutch)"
   },
   {
-    "Name": "Wake Up Nederland",
-    "Category": "Traditional Sanghas",
-    "Sub Category": "",
-    "Frequency": "Weekly",
-    "Duration": "120",
-    "Time Zone": "Europe/Amsterdam",
-    "Times": "19:15 Tue",
-    "Contact Name": "Tobias",
-    "Contact Email": "online@wkup.nl",
-    "Website": "",
-    "Description": "",
-    "Language": "nederland (dutch)"
-  },
-  {
     "Name": "Sangha Uśmiech Buddy",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
@@ -3790,20 +3818,6 @@
     "Contact Name": "Eduardo",
     "Contact Email": "eduardo@aoutramargem.org",
     "Website": "",
-    "Description": "",
-    "Language": "português (portuguese)"
-  },
-  {
-    "Name": "Comunidade Guardiã da Terra",
-    "Category": "Affinity Sanghas",
-    "Sub Category": "Engaged Practice",
-    "Frequency": "Bi-Monthly",
-    "Duration": "90",
-    "Time Zone": "Brazil/Sao Paulo",
-    "Times": "10:00 Sat",
-    "Contact Name": "Maíra",
-    "Contact Email": "guardioesdaterra.thay@gmail.com",
-    "Website": "https://www.instagram.com/guardioesdaterra.ehcbr/",
     "Description": "",
     "Language": "português (portuguese)"
   },
@@ -3876,20 +3890,6 @@
     "Website": "",
     "Description": "",
     "Language": "românește (romanian)"
-  },
-  {
-    "Name": "Sangha Slovenia",
-    "Category": "Traditional Sanghas",
-    "Sub Category": "",
-    "Frequency": "Fortnightly",
-    "Duration": "60",
-    "Time Zone": "Europe/Ljubljana",
-    "Times": "19:00 Tue/Wed",
-    "Contact Name": "Nivia",
-    "Contact Email": "npimentel0722@gmail.com",
-    "Website": "",
-    "Description": "",
-    "Language": "slovenščina (slovenian)"
   },
   {
     "Name": "Earth Holders Sverige",
@@ -3976,20 +3976,6 @@
     "Language": "tiếng việt (vietnamese)"
   },
   {
-    "Name": "บ่มเพาะพลังแห่งรัก",
-    "Category": "Traditional Sanghas",
-    "Sub Category": "",
-    "Frequency": "Weekly",
-    "Duration": "60",
-    "Time Zone": "Indochine/Thailand",
-    "Times": "20:00 Tue",
-    "Contact Name": "Poom",
-    "Contact Email": "premprach@gmail.com",
-    "Website": "",
-    "Description": "",
-    "Language": "ไทย (thai)"
-  },
-  {
     "Name": "Türkçe Destek ve Dayanışma Sanghası",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
@@ -4004,7 +3990,7 @@
     "Language": "türkçe (turkish)"
   },
   {
-    "Name": "71",
+    "Name": "68",
     "Category": "",
     "Sub Category": "",
     "Frequency": "",
