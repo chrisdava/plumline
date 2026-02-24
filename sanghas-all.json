@@ -714,6 +714,20 @@
     "Language": "English"
   },
   {
+    "Name": "Yellow Lotus Sangha",
+    "Category": "Traditional Sanghas",
+    "Sub Category": "",
+    "Frequency": "weekly",
+    "Duration": "90",
+    "Time Zone": "Europe/Paris",
+    "Times": "19:00 Sat",
+    "Contact Name": "Nhung Anh",
+    "Contact Email": "anh.nhung.vn@gmail.com",
+    "Website": "",
+    "Description": "Yellow Lotus Sanga is the continuation of the course \"Who Is Thich Nhat Hanh? Rising Tide Cohort 2\". It has started on October 11, 2025 and every Saturday from 19:00 - 20:30 (CET). It is an international Sangha with two experienced OI members. One of the ongoing practices of the Sangha is to train Sangha members to facilitate and make rotations. There is always a place for you in the circle. Please come and experience the practice with us. A smile from Nhung and the Yellow Lotus Sangha.",
+    "Language": "English"
+  },
+  {
     "Name": "Diamond Moon Sangha - (Tăng đoàn mặt trăng kim cương)",
     "Category": "Affinity Sanghas",
     "Sub Category": "Other Affinity Sanghas",
@@ -812,10 +826,24 @@
     "Language": "English"
   },
   {
+    "Name": "Ey Up Sheffield Sangha",
+    "Category": "Traditional Sanghas",
+    "Sub Category": "",
+    "Frequency": "weekly",
+    "Duration": "105",
+    "Time Zone": "Europe/London",
+    "Times": "19:00 Mon",
+    "Contact Name": "John",
+    "Contact Email": "EyUpSheffieldSangha@gmail.com",
+    "Website": "https://sheffieldsangha.wordpress.com/",
+    "Description": "Originally a sangh based in Sheffield UK. Since Covid pandemic we continued Online. We have both friends joining us who are local and international friends. Meeting online supports and meets our friends invidual needs for every day minful living.\nPlease see our website for more details.",
+    "Language": "English"
+  },
+  {
     "Name": "Eyes of Compassion Sangha",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
-    "Frequency": "Weekly",
+    "Frequency": "weekly",
     "Duration": "60",
     "Time Zone": "America/Denver",
     "Times": "10:00 Sun",
@@ -865,7 +893,7 @@
     "Contact Email": "alaskamindfulnessretreat@gmail.com",
     "Website": "",
     "Description": "",
-    "Language": ""
+    "Language": "English"
   },
   {
     "Name": "Flowering Tree Sangha",
@@ -1050,6 +1078,20 @@
     "Language": "English"
   },
   {
+    "Name": "Happy Teachers Change the World Sangha",
+    "Category": "Traditional Sanghas",
+    "Sub Category": "",
+    "Frequency": "weekly",
+    "Duration": "60",
+    "Time Zone": "Europe/Paris",
+    "Times": "12:30 Wed",
+    "Contact Name": "Nhung Anh",
+    "Contact Email": "anh.nhung.vn@gmail.com",
+    "Website": "",
+    "Description": "I invited my student to read a book, \"Happy Teachers Change the World Together”. At the same time, I also invited friends (Yan) whom I met in Plum Village if they were interested. Finally, we set up a small Sangha for students and teachers. Our online Sangha starts in November 2025 and every Wednesday from 12:30 to 13:30 (CET).",
+    "Language": "English"
+  },
+  {
     "Name": "Happy Teachers Together Sangha",
     "Category": "Affinity Sanghas",
     "Sub Category": "Professions",
@@ -1131,6 +1173,20 @@
     "Contact Email": "contact@mindfulnesskc.org",
     "Website": "http://mindfulnesskc.org/",
     "Description": "HCML is an online hub offering a safe and supportive space for anyone aspiring to apply the Plum Village practice to their life.",
+    "Language": "English"
+  },
+  {
+    "Name": "Heritage Interbeing Sangha",
+    "Category": "Traditional Sanghas",
+    "Sub Category": "",
+    "Frequency": "weekly",
+    "Duration": "90",
+    "Time Zone": "America/Kansas_City",
+    "Times": "10:00 Sun",
+    "Contact Name": "Aubrey",
+    "Contact Email": "aubrey.l.hardman@gmail.com",
+    "Website": "https://www.facebook.com/groups/2435616600174744/",
+    "Description": "",
     "Language": "English"
   },
   {
