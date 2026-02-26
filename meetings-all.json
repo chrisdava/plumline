@@ -4311,7 +4311,7 @@
     "address": "Merthyr Road Uniting Church, Merthyr Road, New Farm Queensland 4005, Australia",
     "latitude": "-27.466663",
     "longitude": "153.046636",
-    "entity_url": "",
+    "entity_url": "https://www.facebook.com/BrisbaneMindfulnessGroup",
     "email": "",
     "entity_phone": "",
     "notes": "",
@@ -4390,6 +4390,24 @@
     "day": 0,
     "time": "08:45",
     "end_time": "16:00"
+  },
+  {
+    "country": "Australia",
+    "region": "Australia",
+    "state": "",
+    "name": "Sunshine Coast Sangha",
+    "entity": "Sunshine Coast Sangha",
+    "slug": "sunshine-coast-sangha-2008",
+    "address": "21 South Coolum Rd, Coolum Beach QLD 4573, Australia",
+    "latitude": "-26.5390416",
+    "longitude": "153.0788236",
+    "entity_url": "https://www.facebook.com/people/Sunshine-Coast-Sangha/61587090184447/",
+    "email": "hello@saigonom.com",
+    "entity_phone": "",
+    "notes": "The Sunshine Coast Sangha is a non-profit donation-based group of mindfulness practitioners that come together to breathe and cultivate peaceful living. The sangha's practices are based on the Plum Village tradition and the teachings of Thich Nhat Hanh.",
+    "day": 4,
+    "time": "08:30",
+    "end_time": ""
   },
   {
     "country": "United Kingdom",
