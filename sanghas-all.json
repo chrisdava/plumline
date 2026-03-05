@@ -3188,7 +3188,7 @@
     "Contact Name": "Rahka",
     "Contact Email": "rahka.lioe@gmail.com",
     "Website": "",
-    "Description": "",
+    "Description": "Rainbow Sangha Indonesia adalah komunitas daring yang inklusif dan berfokus pada kesadaran diri, dirancang untuk individu LGBTQIA+ yang terinspirasi oleh ajaran Thich Nhat Hanh.",
     "Language": "bahasa indonesia (indonesian)"
   },
   {
@@ -3202,7 +3202,7 @@
     "Contact Name": "CTC.OI",
     "Contact Email": "ctcoi@plumvillage.or.id",
     "Website": "http://ordointerbeing.id/",
-    "Description": "Sabtu pertama setiap bulan",
+    "Description": "sabtu pertama setiap bulan",
     "Language": "bahasa indonesia (indonesian)"
   },
   {
@@ -3299,8 +3299,8 @@
     "Times": "19:30 Sun",
     "Contact Name": "Letizia, Rolland",
     "Contact Email": "mail@sangha-luzern.ch",
-    "Website": "www.sangha-luzern.ch",
-    "Description": "",
+    "Website": "https://sangha-luzern.ch/",
+    "Description": "Die Sangha \"Garten der Achtsamkeit“ ist eine Gruppe von Personen, die sich 1-2 mal pro Woche (ausser in den Schulferien und an Feiertagen) zur Meditation und zum Austausch in der Tradition von Thich Nhat Hanh, Plum Village trifft.",
     "Language": "deutsch (german)"
   },
   {
@@ -3370,7 +3370,7 @@
     "Contact Name": "Camilo",
     "Contact Email": "sangha.bogota@gmail.com",
     "Website": "",
-    "Description": "",
+    "Description": "Grupo abierto de práctica de la plena consciencia, el amor y la compasión en la tradicion del maestro zen Thich Nhat Hanh y la comunidad internacional de Plum Village en Colombia.",
     "Language": "español (spanish)"
   },
   {
@@ -3468,7 +3468,7 @@
     "Contact Name": "Carlos",
     "Contact Email": "sanghaflordeloto@gmail.com",
     "Website": "",
-    "Description": "Todas las tradiciones espirituales son bienvenidas. Practicamos la plena conciencia en la tradición de la Aldea de los Ciruelos.",
+    "Description": "Todas las tradiciones espirituales son bienvenidas. Practicamos la plena conciencia en la tradición de la Aldea de los Ciruelos. Practicamos meditación sentada por media hora, leemos uno de los libros de Thich Nhat Hanh y compartimos el dharma.",
     "Language": "español (spanish)"
   },
   {
@@ -3491,7 +3491,7 @@
     "Sub Category": "",
     "Frequency": "weekly",
     "Duration": "90",
-    "Time Zone": "Argentina/Buenos Aires",
+    "Time Zone": "Argentina/Buenos_Aires",
     "Times": "19:00 Sun",
     "Contact Name": "Sandra",
     "Contact Email": "sanghadelafuente@gmail.com",
@@ -3505,7 +3505,7 @@
     "Sub Category": "",
     "Frequency": "weekly",
     "Duration": "60",
-    "Time Zone": "Argentina/Buenos Aires",
+    "Time Zone": "Argentina/Buenos_Aires",
     "Times": "20:00 Thu",
     "Contact Name": "Maca",
     "Contact Email": "sanghagirasoles2024@gmail.com",
@@ -3566,7 +3566,7 @@
     "Contact Name": "Sol",
     "Contact Email": "lapazencadapaso@gmail.com",
     "Website": "www.facebook.com/ComunidadChilenaPlenaConciencia/",
-    "Description": "Practicamos semanalmente una sesión de una hora y Media de meditación sentada/caminando, Cantos, lecturas de Dharma (textos de Thay) Compartir el Dharma y observación de los 5 Mindfulness Trainings",
+    "Description": "Practicamos semanalmente una sesión de una hora y media de meditación sentada y caminando, cantos, lecturas de Dharma (textos de Thay), compartir el Dharma y observación de los 5 Entrenamientos.",
     "Language": "español (spanish)"
   },
   {
@@ -3650,7 +3650,7 @@
     "Contact Name": "Carmen",
     "Contact Email": "carpinto2000@gmail.com",
     "Website": "www.facebook.com/ComunidadChilenaPlenaConciencia/",
-    "Description": "Practicamos semanalmente una sesión de dos horas de meditación,sentada/caminando, cantos, lecturas de Dharma (textos de Thay) compartir el Dharma y observación de los 5 Mindfulness Trainings",
+    "Description": "Practicamos semanalmente una sesión de una hora y media de meditación sentada y caminando, cantos, lecturas de Dharma (textos de Thay), compartir el Dharma y observación de los 5 Entrenamientos.",
     "Language": "español (spanish)"
   },
   {
@@ -3944,7 +3944,7 @@
     "Contact Name": "Maíra",
     "Contact Email": "guardioesdaterra.thay@gmail.com",
     "Website": "https://www.instagram.com/guardioesdaterra.ehcbr/",
-    "Description": "",
+    "Description": "Iniciativa de justiça socioambiental da Comunidade Plum Village de Budismo Engajado. Oferecemos práticas de atenção plena, compaixão, cura e não-violência, para o cuidado conosco, uns com os outros, com todos os seres e com a Terra.",
     "Language": "português (portuguese)"
   },
   {
