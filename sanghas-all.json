@@ -827,20 +827,6 @@
   },
   {
     "Name": "Equanimity Sangha",
-    "Category": "Single Practice Sanghas",
-    "Sub Category": "Mindfulness Trainings",
-    "Frequency": "monthly",
-    "Duration": "60",
-    "Time Zone": "America/Chicago",
-    "Times": "14:00 Thu",
-    "Contact Name": "Rebecca",
-    "Contact Email": "drreb62@att.net",
-    "Website": "",
-    "Description": "5 Mindfulness Trainings Recitation & Dharma Sharing",
-    "Language": "English"
-  },
-  {
-    "Name": "Equanimity Sangha",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
     "Frequency": "fortnightly",
@@ -851,6 +837,20 @@
     "Contact Email": "regina.galhardi@gmail.com",
     "Website": "",
     "Description": "",
+    "Language": "English"
+  },
+  {
+    "Name": "Equanimity Sangha",
+    "Category": "Single Practice Sanghas",
+    "Sub Category": "Mindfulness Trainings",
+    "Frequency": "monthly",
+    "Duration": "60",
+    "Time Zone": "America/Chicago",
+    "Times": "14:00 Thu",
+    "Contact Name": "Rebecca",
+    "Contact Email": "drreb62@att.net",
+    "Website": "",
+    "Description": "5 Mindfulness Trainings Recitation & Dharma Sharing",
     "Language": "English"
   },
   {
