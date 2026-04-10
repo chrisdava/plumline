@@ -854,7 +854,7 @@
     "Language": "English"
   },
   {
-    "Name": "BIPOC - True Names",
+    "Name": "True Names Sangha (BIPOC)",
     "Category": "Single Practice Sanghas",
     "Sub Category": "Mindfulness Trainings",
     "Frequency": "Monthly, 3rd Tuesday",
@@ -1811,7 +1811,7 @@
     "Sub Category": "",
     "Frequency": "weekly",
     "Duration": "60",
-    "Time Zone": "Atlantic/Canary",
+    "Time Zone": "GMT",
     "Times": "19:00 Mon",
     "Contact Name": "Ben",
     "Contact Email": "clubexhort@gmail.com",
@@ -1825,7 +1825,7 @@
     "Sub Category": "Other Affinity Sanghas",
     "Frequency": "weekly",
     "Duration": "30",
-    "Time Zone": "Atlantic/Canary",
+    "Time Zone": "GMT",
     "Times": "12:30 Tue",
     "Contact Name": "Ben",
     "Contact Email": "clubexhort@gmail.com",
@@ -1839,7 +1839,7 @@
     "Sub Category": "Silent Meditation",
     "Frequency": "weekdays",
     "Duration": "30",
-    "Time Zone": "Atlantic/Canary",
+    "Time Zone": "GMT",
     "Times": "12:30 Mon",
     "Contact Name": "Ben",
     "Contact Email": "clubexhort@gmail.com",
@@ -1853,7 +1853,7 @@
     "Sub Category": "Silent Meditation",
     "Frequency": "weekdays",
     "Duration": "45",
-    "Time Zone": "Atlantic/Canary",
+    "Time Zone": "GMT",
     "Times": "06:30 Mon",
     "Contact Name": "Ben",
     "Contact Email": "clubexhort@gmail.com",
@@ -1867,7 +1867,7 @@
     "Sub Category": "Silent Meditation",
     "Frequency": "weekly",
     "Duration": "30",
-    "Time Zone": "Atlantic/Canary",
+    "Time Zone": "GMT",
     "Times": "09:30 Sat",
     "Contact Name": "Ben",
     "Contact Email": "clubexhort@gmail.com",
@@ -2212,7 +2212,7 @@
     "Language": "English"
   },
   {
-    "Name": "BIPOC - Colours of Compassion Sangha",
+    "Name": "Colours of Compassion Sangha (BIPOC)",
     "Category": "Affinity Sanghas",
     "Sub Category": "BIPOC",
     "Frequency": "1st and 3rd Tue",
@@ -2478,7 +2478,7 @@
     "Language": "English"
   },
   {
-    "Name": "Mens Awareness Sangha",
+    "Name": "Men's Awareness Sangha",
     "Category": "Affinity Sanghas",
     "Sub Category": "Other Affinity Sanghas",
     "Frequency": "monthly",
@@ -3035,6 +3035,20 @@
     "Contact Email": "",
     "Website": "https://redkitezen.org",
     "Description": "Red Kite Zen is a simple zen meditation and mindfulness group open to everyone - from beginners to more experienced - all are welcome - please visit our website for more info or to join our invite list",
+    "Language": "English"
+  },
+  {
+    "Name": "Living Buddha, Living Christ Sangha",
+    "Category": "Affinity Sanghas",
+    "Sub Category": "Other Affinity Sanghas",
+    "Frequency": "weekly",
+    "Duration": "75",
+    "Time Zone": "Canada/Mountain",
+    "Times": "10:45 Sun",
+    "Contact Name": "Aaron",
+    "Contact Email": "livingbuddhalivingchristsangha@gmail.com",
+    "Website": "https://www.facebook.com/share/g/1ARh2Xo37x/?mibextid=wwXIfr",
+    "Description": "A sangha in the Plum Village Tradition with a focus on Thay’s efforts to foster dialogue and bridges between Buddhism and Christianity, specifically “c”atholicism. A sangha of current and former “small c” catholics (Roman, Anglican, Eastern, etc.) who practice in the Plum Village tradition and who want to connect their practice to their root spiritual ancestry.",
     "Language": "English"
   },
   {
