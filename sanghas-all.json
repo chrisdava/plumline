@@ -2520,6 +2520,20 @@
     "Language": "English"
   },
   {
+    "Name": "Neurodivergent Sangha",
+    "Category": "Affinity Sanghas",
+    "Sub Category": "Other Affinity Sanghas",
+    "Frequency": "weekly",
+    "Duration": "60",
+    "Time Zone": "Europe/Paris",
+    "Times": "various times",
+    "Contact Name": "Elizabeth",
+    "Contact Email": "neurodivergentsangha@gmail.com",
+    "Website": "https://meet.google.com/cuf-vxyc-kmv",
+    "Description": "Neurodivergent Sangha offers a safe and reliable space where you can express and liberate what you’ve been hiding without the fear of discrimination.",
+    "Language": "English"
+  },
+  {
     "Name": "Oxford Thich Nhat Hanh Sangha",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
@@ -3304,17 +3318,17 @@
     "Language": "deutsch (german)"
   },
   {
-    "Name": "Deutschsprachige Lehrersangha",
+    "Name": "Achtsame Happy Teacher Sangha",
     "Category": "Affinity Sanghas",
     "Sub Category": "Professions",
-    "Frequency": "1st Monday",
+    "Frequency": "2nd Monday",
     "Duration": "90",
     "Time Zone": "Europe/Berlin",
     "Times": "19:00 Mon",
     "Contact Name": "Tobias",
     "Contact Email": "tobias.schramm@rwth-aachen.de",
     "Website": "",
-    "Description": "Wir sind eine sehr junge deutschsprachige Sangha von Lehrern, die Achtsamkeit privat und beruflich praktizieren.",
+    "Description": "Alle Menschen in lehrenden und erziehenden Berufen sind herzlich willkommen.",
     "Language": "deutsch (german)"
   },
   {
@@ -3819,20 +3833,6 @@
     "Contact Email": "sanghaqueer@gmail.com",
     "Website": "",
     "Description": "La première et la troisième semaine de chaque mois.",
-    "Language": "français (french)"
-  },
-  {
-    "Name": "Neurodivergent Sangha",
-    "Category": "Affinity Sanghas",
-    "Sub Category": "Other Affinity Sanghas",
-    "Frequency": "monthly",
-    "Duration": "60",
-    "Time Zone": "Europe/Paris",
-    "Times": "",
-    "Contact Name": "",
-    "Contact Email": "neurodivergentsangha@gmail.com",
-    "Website": "https://meet.google.com/cuf-vxyc-kmv",
-    "Description": "We want to provide spiritual support, offer a safe and reliable place for Neurodivergents, so they can express and find peace in their conditions or diagnosis, without fear of judgments or discrimination. We recognise, embrace and accept our differences with the practice of Plum Village. Mindfulness helps us to regulate our mental and emotional behaviour, helps to control the brain into calm, improve our mood and reduce the feeling of pain. The Neurodivergence is not a disorder, it's just to be a little different. We are beautiful and colourful. You don't have to pretend to be anything else. There is nothing wrong with you. We say: “I can be myself, I accept it, I am loved. I am enough. We are enough”.",
     "Language": "français (french)"
   },
   {
