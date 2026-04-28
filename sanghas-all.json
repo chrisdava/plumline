@@ -1164,7 +1164,7 @@
   {
     "Name": "Hopeful Bay Morning Meditation Sangha",
     "Category": "Affinity Sanghas",
-    "Sub Category": "Guided Meditation, Silent Meditation",
+    "Sub Category": "Guided Meditation",
     "Frequency": "daily",
     "Duration": "15",
     "Time Zone": "America/New_York",
@@ -1174,6 +1174,20 @@
     "Website": "",
     "Description": "https://us02web.zoom.us/j/83494588614?pwd=qBSgaqzlGX2njaYkjGLQKDbGgjAaqZ.1 Password: 244741",
     "Language": "English"
+  },
+  {
+    "Name": "Hopeful Bay Morning Meditation Sangha",
+    "Category": "Affinity Sanghas",
+    "Sub Category": "Silent Meditation",
+    "Frequency": "3x weekly",
+    "Duration": "15",
+    "Time Zone": "America/New_York",
+    "Times": "05:45 Wed, Fri, Sat",
+    "Contact Name": "Lisa Ann",
+    "Contact Email": "lisaannrthere@gmail.com",
+    "Website": "",
+    "Description": "https://us02web.zoom.us/j/83494588614?pwd=qBSgaqzlGX2njaYkjGLQKDbGgjAaqZ.1 Password: 244741",
+    "Language": ""
   },
   {
     "Name": "Interbeing Study – World Interbeing Sangha",
