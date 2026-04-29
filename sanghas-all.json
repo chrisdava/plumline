@@ -1182,7 +1182,7 @@
     "Frequency": "3x weekly",
     "Duration": "15",
     "Time Zone": "America/New_York",
-    "Times": "05:45 Wed, Fri, Sat",
+    "Times": "05:45 Wed, 05:45 Fri,  05:45 Sat",
     "Contact Name": "Lisa Ann",
     "Contact Email": "lisaannrthere@gmail.com",
     "Website": "",
@@ -4060,6 +4060,20 @@
     "Language": "românește (romanian)"
   },
   {
+    "Name": "Tshedisa Sangha",
+    "Category": "Traditional Sanghas",
+    "Sub Category": "",
+    "Frequency": "weekly",
+    "Duration": "90",
+    "Time Zone": "Africa/Gaborone",
+    "Times": "18:00 Sun",
+    "Contact Name": "Ava",
+    "Contact Email": "tshedisasangha@gmail.com",
+    "Website": "",
+    "Description": "We are an African based Sangha practicing in Thay's tradition since 2006.\n\"Tshedisa\" is a Setswana word that means to grow, nurture and comfort.",
+    "Language": "setswana (setswana)"
+  },
+  {
     "Name": "Sangha Slovenia",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
@@ -4172,7 +4186,7 @@
     "Language": "türkçe (turkish)"
   },
   {
-    "Name": "69",
+    "Name": "70",
     "Category": "",
     "Sub Category": "",
     "Frequency": "",
