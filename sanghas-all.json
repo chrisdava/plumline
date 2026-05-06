@@ -2380,6 +2380,34 @@
     "Language": "English"
   },
   {
+    "Name": "Midwest Moon Sangha",
+    "Category": "Traditional Sanghas",
+    "Sub Category": "",
+    "Frequency": "daily (m-f)",
+    "Duration": "30",
+    "Time Zone": "America/Chicago",
+    "Times": "0:700 and 19:00 Mon-Fri",
+    "Contact Name": "Daniel",
+    "Contact Email": "hello@midwestmoonsangha.org",
+    "Website": "http://www.midwestmoonsangha.org/",
+    "Description": "Plum Village Tradition Practice: Meets online 7am/7pm CT Monday-Friday, full sangha online Wednesday 7pm, full sangha in person-hybrid online Saturdays 9am",
+    "Language": "English"
+  },
+  {
+    "Name": "Midwest Moon Sangha",
+    "Category": "Traditional Sanghas",
+    "Sub Category": "",
+    "Frequency": "weekly",
+    "Duration": "50",
+    "Time Zone": "America/Chicago",
+    "Times": "19:00 Wed",
+    "Contact Name": "Daniel",
+    "Contact Email": "hello@midwestmoonsangha.org",
+    "Website": "http://www.midwestmoonsangha.org/",
+    "Description": "Plum Village Tradition Practice: Meets online 7am/7pm CT Monday-Friday, full sangha online Wednesday 7pm, full sangha in person-hybrid online Saturdays 9am",
+    "Language": "English"
+  },
+  {
     "Name": "Diamond Moon Sangha - (Tăng đoàn mặt trăng kim cương)",
     "Category": "Affinity Sanghas",
     "Sub Category": "Other Affinity Sanghas",
