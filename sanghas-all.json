@@ -2139,7 +2139,7 @@
     "Contact Email": "pathofpeacesanghafranklinma@gmail.com",
     "Website": "http://pathsangha.com",
     "Description": "Please email us prior to attending first meeting.",
-    "Language": ""
+    "Language": "English"
   },
   {
     "Name": "Peace in Our Hearts Mindfulness Practice Circle",
@@ -2646,6 +2646,20 @@
     "Language": "English"
   },
   {
+    "Name": "St. Légier Sangha",
+    "Category": "Affinity Sanghas",
+    "Sub Category": "Beginners",
+    "Frequency": "fortnightly",
+    "Duration": "75",
+    "Time Zone": "Europe/Zurich",
+    "Times": "09:00 Wed",
+    "Contact Name": "Nixie",
+    "Contact Email": "nixiegraham@mac.com",
+    "Website": "",
+    "Description": "We are a  Plum Village style sangha for beginners in St. Légier, Switzerland. We practice mindfulness together and support one another on the path of awakening.",
+    "Language": "English"
+  },
+  {
     "Name": "Still Water Kent Island",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
@@ -2783,7 +2797,7 @@
     "Contact Email": "ellenjohnsonfay@gmail.com",
     "Website": "sunmountainsangha.org",
     "Description": "Sangha meeting since 2006 in the tradition of Thay.  Meetings are both in person and online.  All are welcome to come practice.",
-    "Language": ""
+    "Language": "English"
   },
   {
     "Name": "Thousand Trees Sangha (Alberta, Canada)",
@@ -2853,7 +2867,7 @@
     "Contact Email": "colepatrickJ@gmail.com",
     "Website": "https://truehomemc.org/",
     "Description": "",
-    "Language": ""
+    "Language": "English"
   },
   {
     "Name": "True Love Sangha",
@@ -4142,6 +4156,20 @@
     "Website": "",
     "Description": "",
     "Language": "svenska (swedish)"
+  },
+  {
+    "Name": "Mai Blossom UK",
+    "Category": "Traditional Sanghas",
+    "Sub Category": "",
+    "Frequency": "monthly",
+    "Duration": "90",
+    "Time Zone": "Europe/London",
+    "Times": "17:30 Sun",
+    "Contact Name": "Nguyet",
+    "Contact Email": "maiblossomuk@gmail.com",
+    "Website": "https://plumvillage.uk/group/mai-blossom-uk-vietnamese-sangha/",
+    "Description": "Mai Blossom UK is a Vietnamese Sangha based in London practicing in the Plum Village tradition. We offer a gentle space for Vietnamese friends who wish to explore the practice in Vietnamese and enjoy Thay’s Vietnamese teachings. Whether you are taking your first steps on the path or wishing to deepen your practice in Vietnamese, you are lovingly welcomed into our Mai Blossom UK Sangha.",
+    "Language": "tiếng việt (vietnamese)"
   },
   {
     "Name": "Suối Tuệ / Hơi Thở Nhẹ Sangha",
