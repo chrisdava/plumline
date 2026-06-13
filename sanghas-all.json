@@ -3360,6 +3360,20 @@
     "Language": "deutsch (german)"
   },
   {
+    "Name": "BIPoC Sangha",
+    "Category": "Affinity Sanghas",
+    "Sub Category": "BIPoC",
+    "Frequency": "Monthly",
+    "Duration": "90",
+    "Time Zone": "Europe/Rome",
+    "Times": "19:30 Mon",
+    "Contact Name": "Magnus",
+    "Contact Email": "m.wang@gmx.de",
+    "Website": "https://achtsam-leben-heidelberg.de/german-speaking-bipoc-sangha/",
+    "Description": "Viele Menschen haben Ausgrenzung aufgrund ihrers Aussehens, ihrer Kultur oder anderer Fremdzuschreibungen erlebt. Für diese Menschen ist es wichtig Räume zu haben, in denen sie frei von Diskriminierung durchzuatmen können, sich gegenseitig stärken und Erfahrungen auszutauschen können, ohne sich erklären zu müssen. Einen solchen sicheren Raum möchen wir mit der BIPoC Sangha schaffen.",
+    "Language": "deutsch (german)"
+  },
+  {
     "Name": "Elternsangha",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
@@ -4256,7 +4270,7 @@
     "Language": "türkçe (turkish)"
   },
   {
-    "Name": "72",
+    "Name": "73",
     "Category": "",
     "Sub Category": "",
     "Frequency": "",
