@@ -1363,8 +1363,8 @@
     "Sub Category": "LGBTQ+",
     "Frequency": "monthly",
     "Duration": "120",
-    "Time Zone": "Europe/London",
-    "Times": "10:00 Sun",
+    "Time Zone": "Europe/Paris",
+    "Times": "11:00 Sun",
     "Contact Name": "contact",
     "Contact Email": "sanghaqueer@gmail.com",
     "Website": "https://meditationlgbtiqparis.Jimdosite.com/rainbow-sangha-english/",
@@ -1377,8 +1377,8 @@
     "Sub Category": "LGBTQ+",
     "Frequency": "monthly",
     "Duration": "120",
-    "Time Zone": "Europe/London",
-    "Times": "18:00 Sun",
+    "Time Zone": "Europe/Paris",
+    "Times": "19:00 Sun",
     "Contact Name": "contact",
     "Contact Email": "sanghaqueer@gmail.com",
     "Website": "https://meditationlgbtiqparis.Jimdosite.com/rainbow-sangha-english/",
@@ -1410,7 +1410,7 @@
     "Contact Name": "Regina",
     "Contact Email": "regina.galhardi@gmail.com",
     "Website": "",
-    "Description": "",
+    "Description": "Meetings on 2nd and 4th Fridays of each month.",
     "Language": "English"
   },
   {
@@ -3113,13 +3113,13 @@
     "Sub Category": "",
     "Frequency": "weekly",
     "Duration": "60",
-    "Time Zone": "India",
+    "Time Zone": "Asia/Kolkata",
     "Times": "19:00 Fri",
     "Contact Name": "",
     "Contact Email": "",
     "Website": "https://worldinterbeingsangha.org",
     "Description": "",
-    "Language": ""
+    "Language": "English"
   },
   {
     "Name": "Yellow Lotus Sangha",
