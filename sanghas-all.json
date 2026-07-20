@@ -1894,27 +1894,13 @@
     "Category": "Affinity Sanghas",
     "Sub Category": "Other Affinity Sanghas",
     "Frequency": "monthly,\nlast Thursday",
-    "Duration": "60-120",
+    "Duration": "60 -120",
     "Time Zone": "Europe/Paris",
     "Times": "19:00 Thu",
     "Contact Name": "Elizabeth",
     "Contact Email": "neurodivergentsangha@gmail.com",
     "Website": "https://neurodivergentsangha.wixsite.com/plumvillage",
     "Description": "A safe and reliable space where you can express and liberate what you’ve been hiding without the fear of discrimination. Embracing neurodiversity through mindful connection, we provide spiritual support with Thich Nhat Hanh Tradition Plum Village's Practice.",
-    "Language": "English"
-  },
-  {
-    "Name": "Neurodivergent Sangha",
-    "Category": "Affinity Sanghas",
-    "Sub Category": "Other Affinity Sanghas",
-    "Frequency": "weekly",
-    "Duration": "60",
-    "Time Zone": "Europe/Paris",
-    "Times": "various times",
-    "Contact Name": "Elizabeth",
-    "Contact Email": "neurodivergentsangha@gmail.com",
-    "Website": "https://meet.google.com/cuf-vxyc-kmv",
-    "Description": "Neurodivergent Sangha offers a safe and reliable space where you can express and liberate what you’ve been hiding without the fear of discrimination.",
     "Language": "English"
   },
   {
@@ -4256,7 +4242,7 @@
     "Language": "türkçe (turkish)"
   },
   {
-    "Name": "73",
+    "Name": "72",
     "Category": "",
     "Sub Category": "",
     "Frequency": "",
