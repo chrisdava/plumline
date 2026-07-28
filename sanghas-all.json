@@ -4172,6 +4172,20 @@
     "Language": "tiếng việt (vietnamese)"
   },
   {
+    "Name": "QT Việt Sangha",
+    "Category": "Traditional Sanghas",
+    "Sub Category": "",
+    "Frequency": "monthly",
+    "Duration": "120",
+    "Time Zone": "America/Los_Angeles",
+    "Times": "11:00 Sun",
+    "Contact Name": "LoAn / Trang",
+    "Contact Email": "qtvietsangha@gmail.com",
+    "Website": "",
+    "Description": "",
+    "Language": "tiếng việt (vietnamese)"
+  },
+  {
     "Name": "Suối Tuệ / Hơi Thở Nhẹ Sangha",
     "Category": "Affinity Sanghas",
     "Sub Category": "Chanting",
@@ -4200,6 +4214,20 @@
     "Language": "tiếng việt (vietnamese)"
   },
   {
+    "Name": "Walking Together on the Joyful Path",
+    "Category": "Traditional Sanghas",
+    "Sub Category": "",
+    "Frequency": "weekly",
+    "Duration": "90 - 120",
+    "Time Zone": "Australia/Sydney",
+    "Times": "19:30 Fri",
+    "Contact Name": "Thuy",
+    "Contact Email": "afterfx2007@gmail.com",
+    "Website": "",
+    "Description": "",
+    "Language": "tiếng việt (vietnamese)"
+  },
+  {
     "Name": "Xóm Dừa Sangha",
     "Category": "Affinity Sanghas",
     "Sub Category": "Silent Meditation",
@@ -4211,20 +4239,6 @@
     "Contact Email": "",
     "Website": "",
     "Description": "please connect at: https://tinyurl.com/27m23p47",
-    "Language": "tiếng việt (vietnamese)"
-  },
-  {
-    "Name": "QT Việt Sangha",
-    "Category": "Traditional Sanghas",
-    "Sub Category": "",
-    "Frequency": "monthly",
-    "Duration": "120",
-    "Time Zone": "America/Los_Angeles",
-    "Times": "11:00 Sun",
-    "Contact Name": "LoAn / Trang",
-    "Contact Email": "qtvietsangha@gmail.com",
-    "Website": "",
-    "Description": "",
     "Language": "tiếng việt (vietnamese)"
   },
   {
@@ -4242,7 +4256,7 @@
     "Language": "türkçe (turkish)"
   },
   {
-    "Name": "20",
+    "Name": "3",
     "Category": "",
     "Sub Category": "",
     "Frequency": "",
