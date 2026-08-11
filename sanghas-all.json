@@ -1,5 +1,19 @@
 [
   {
+    "Name": "12 Step Sangha",
+    "Category": "Affinity Sanghas",
+    "Sub Category": "Healing",
+    "Frequency": "monthly\n2nd Sunday",
+    "Duration": "75",
+    "Time Zone": "America/Chicago",
+    "Times": "18:30 Sun",
+    "Contact Name": "Sarah",
+    "Contact Email": "12stepsanghameeting@gmail.com",
+    "Website": "https://linktr.ee/12stepsanghameeting",
+    "Description": "The primary purpose of this group is for dedicated, longtime members of various 12 Step fellowships to support one another in practicing and applying the 5 Mindfulness Trainings and teachings of Zen master Thich Nhat Hanh and the Plum Village tradition in our personal program of 12 Step recovery.",
+    "Language": "English"
+  },
+  {
     "Name": "12 Step Zen",
     "Category": "Affinity Sanghas",
     "Sub Category": "Healing",
@@ -146,7 +160,7 @@
     "Frequency": "first Tuesday of each month",
     "Duration": "60",
     "Time Zone": "America/New_York",
-    "Times": "11:00 Sun",
+    "Times": "11:00 Tue",
     "Contact Name": "",
     "Contact Email": "",
     "Website": "https://worldinterbeingsangha.org",
@@ -3360,7 +3374,7 @@
     "Language": "deutsch (german)"
   },
   {
-    "Name": "BIPoC Sangha",
+    "Name": "BIPOC Sangha",
     "Category": "Affinity Sanghas",
     "Sub Category": "BIPoC",
     "Frequency": "Monthly",
@@ -4172,14 +4186,14 @@
     "Language": "svenska (swedish)"
   },
   {
-    "Name": "Glädjens källa",
+    "Name": "Glädjens Källa",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
     "Frequency": "monthly",
     "Duration": "60",
     "Time Zone": "Europe/Paris",
     "Times": "19:00 Wed",
-    "Contact Name": "",
+    "Contact Name": "kontakt@gladjenskalla.se",
     "Contact Email": "kontakt@gladjenskalla.se",
     "Website": "",
     "Description": "",
