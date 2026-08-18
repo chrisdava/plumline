@@ -442,7 +442,7 @@
     "Time Zone": "America/New_York",
     "Times": "19:30 Wed",
     "Contact Name": "Pamela",
-    "Contact Email": "pamelagoddard.com(@gmail.com",
+    "Contact Email": "pamelagoddard.com@gmail.com",
     "Website": "",
     "Description": "Our sangha has practiced more than 20 years ago and continues weekly in downtown Ithaca, NY.   In 2002, we began our practice in the Plum Village tradition. Each week we come together in person in a friendly, welcoming gathering to share songs, guided meditations, walking meditation, readings, silent meditation, a tea ceremony and dharma sharing. We meet alternate weeks on Zoom + in person. All are welcome.",
     "Language": "English"
@@ -2752,7 +2752,7 @@
     "Time Zone": "America/Los_Angeles",
     "Times": "07:30",
     "Contact Name": "Bridgett",
-    "Contact Email": "b.wall985@gmail com",
+    "Contact Email": "b.wall985@gmail.com",
     "Website": "",
     "Description": "Online sangha meeting Monday to Saturday morning, 7:30 - 8:30am",
     "Language": "English"
@@ -4296,19 +4296,5 @@
     "Website": "",
     "Description": "Bu cemaat Türkçe olarak toplanmaktadır, ancak Türkçe bilmeyenler için İngilizce çeviri mevcuttur. \nThis sangha meets in Turkshi, however English translation is available for non-Turkish speakers.",
     "Language": "türkçe (turkish)"
-  },
-  {
-    "Name": "3",
-    "Category": "",
-    "Sub Category": "",
-    "Frequency": "",
-    "Duration": "",
-    "Time Zone": "",
-    "Times": "",
-    "Contact Name": "",
-    "Contact Email": "",
-    "Website": "",
-    "Description": "",
-    "Language": ""
   }
 ]
