@@ -126,6 +126,20 @@
     "Language": "English"
   },
   {
+    "Name": "Baobab Sangha",
+    "Category": "Traditional Sanghas",
+    "Sub Category": "",
+    "Frequency": "weekly",
+    "Duration": "75",
+    "Time Zone": "Africa/Johannesburg",
+    "Times": "19:00 Wed",
+    "Contact Name": "Lillibet",
+    "Contact Email": "lillibet1978@gmail.com",
+    "Website": "",
+    "Description": "Sitting meditation, Dharma sharing, recitation and observation of the Five Mindfulness Trainings",
+    "Language": "English"
+  },
+  {
     "Name": "Big Spring Sangha",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
@@ -308,7 +322,7 @@
     "Language": "English"
   },
   {
-    "Name": "bodhi seeds",
+    "Name": "Bodhi Seeds",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
     "Frequency": "1st Sunday",
@@ -3336,12 +3350,12 @@
     "Category": "Traditional Sanghas",
     "Sub Category": "",
     "Frequency": "monthly",
-    "Duration": "480",
+    "Duration": "360",
     "Time Zone": "Europe/Prague",
     "Times": "10:00 Sat",
     "Contact Name": "Jindra",
     "Contact Email": "jindracekan@gmail.com",
-    "Website": "",
+    "Website": "www.facebook.com/PlumVillageCzechRepublic/",
     "Description": "první sobotu každého měsíce",
     "Language": "česky mluvící (czech)"
   },
@@ -3355,7 +3369,7 @@
     "Times": "20:00 Sun",
     "Contact Name": "Jindra",
     "Contact Email": "jindracekan@gmail.com",
-    "Website": "",
+    "Website": "www.facebook.com/PlumVillageCzechRepublic/",
     "Description": "třetí neděli každého měsíce",
     "Language": "česky mluvící (czech)"
   },
