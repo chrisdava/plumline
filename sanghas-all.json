@@ -3136,6 +3136,20 @@
     "Language": "English"
   },
   {
+    "Name": "Bridge of Breath Sangha",
+    "Category": "Traditional Sanghas",
+    "Sub Category": "",
+    "Frequency": "weekly",
+    "Duration": "90",
+    "Time Zone": "America/New_York",
+    "Times": "19:15 Wed, 9:30 Sun",
+    "Contact Name": "Caine / Matt",
+    "Contact Email": "team@bridgeofbreath.org",
+    "Website": "http://bridgeofbreath.org/",
+    "Description": "We are an inclusive sangha that welcomes practitioners of all backgrounds, identities, abilities, and walks of life. By meeting online via Zoom, we clear away physical, geographic, and systemic barriers so that anyone, anywhere in the world, can access the warmth of community. Wherever you are and whatever you bring with you, you are invited to practice in the way that serves you best.",
+    "Language": "English"
+  },
+  {
     "Name": "Yellow Lotus Sangha",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
@@ -4030,6 +4044,20 @@
     "Website": "https://szelidmosoly.hu/",
     "Description": "",
     "Language": "magyar (hungarian)"
+  },
+  {
+    "Name": "Earth Holder Community NL",
+    "Category": "Traditional Sanghas",
+    "Sub Category": "",
+    "Frequency": "monthly",
+    "Duration": "75",
+    "Time Zone": "Europe/Amsterdam",
+    "Times": "19:30 Wed (2nd week)",
+    "Contact Name": "Haiko",
+    "Contact Email": "earthholder@aandacht.net",
+    "Website": "https://aandacht.net/meditatiegroepen/sangha-vinden2/item/earthholder-community",
+    "Description": "De Nederlandse Earth Holder-gemeenschap komt maandelijks online bijeen om – als bodhisattva's – mindfulness, mededogen, heling en geweldloosheid te verspreiden, ter bescherming van elkaar, alle levende wezens en de Aarde.",
+    "Language": "nederland (dutch)"
   },
   {
     "Name": "Online Sangha Leven in Aandacht",
