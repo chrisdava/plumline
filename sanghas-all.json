@@ -45,56 +45,14 @@
     "Name": "Ahimsa Trust Sanghas",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
-    "Frequency": "fortnightly",
+    "Frequency": "monthly + bi-monthly",
     "Duration": "90",
     "Time Zone": "Asia/Calcutta",
-    "Times": "18:30 Fri",
+    "Times": "various",
     "Contact Name": "Shalini",
     "Contact Email": "ahimsa.trust@gmail.com",
     "Website": "https://ahimsatrust.org/events",
-    "Description": "",
-    "Language": "English"
-  },
-  {
-    "Name": "Ahimsa Trust Sanghas",
-    "Category": "Traditional Sanghas",
-    "Sub Category": "",
-    "Frequency": "fortnightly",
-    "Duration": "60",
-    "Time Zone": "Asia/Calcutta",
-    "Times": "18:00 Wed",
-    "Contact Name": "Shalini",
-    "Contact Email": "ahimsa.trust@gmail.com",
-    "Website": "https://ahimsatrust.org/events",
-    "Description": "",
-    "Language": "English"
-  },
-  {
-    "Name": "Ahimsa Trust Sanghas",
-    "Category": "Traditional Sanghas",
-    "Sub Category": "",
-    "Frequency": "monthly",
-    "Duration": "90",
-    "Time Zone": "Asia/Calcutta",
-    "Times": "17:30 Fri",
-    "Contact Name": "Shalini",
-    "Contact Email": "ahimsa.trust@gmail.com",
-    "Website": "https://ahimsatrust.org/events",
-    "Description": "",
-    "Language": "English"
-  },
-  {
-    "Name": "Ahimsa Trust Sanghas",
-    "Category": "Traditional Sanghas",
-    "Sub Category": "",
-    "Frequency": "monthly",
-    "Duration": "120",
-    "Time Zone": "Asia/Calcutta",
-    "Times": "15:00 Sat",
-    "Contact Name": "Shalini",
-    "Contact Email": "ahimsa.trust@gmail.com",
-    "Website": "https://ahimsatrust.org/events",
-    "Description": "",
+    "Description": "Please see the website for all the offerings.",
     "Language": "English"
   },
   {
@@ -137,6 +95,20 @@
     "Contact Email": "lillibet1978@gmail.com",
     "Website": "",
     "Description": "Sitting meditation, Dharma sharing, recitation and observation of the Five Mindfulness Trainings",
+    "Language": "English"
+  },
+  {
+    "Name": "Be Longing Sangha",
+    "Category": "Traditional Sanghas",
+    "Sub Category": "",
+    "Frequency": "daily",
+    "Duration": "60",
+    "Time Zone": "America/Los_Angeles",
+    "Times": "06:00, 21:00",
+    "Contact Name": "Michelle",
+    "Contact Email": "micscharff@gmail.com",
+    "Website": "https://www.facebook.com/profile.php?id=61595645844399&sk=directory_links",
+    "Description": "A gathering of all individuals residing in or around the San Bernardino mountain communities near Lake Arrowhead who have like-minded aspirations to observe, practice, and study Thich Nhat Hahn's teachings and the Deer Park Monastery traditions.",
     "Language": "English"
   },
   {
@@ -322,20 +294,6 @@
     "Language": "English"
   },
   {
-    "Name": "Mindful Mondays",
-    "Category": "Traditional Sanghas",
-    "Sub Category": "",
-    "Frequency": "weekly",
-    "Duration": "90",
-    "Time Zone": "America/Chicago",
-    "Times": "19:00 Mon",
-    "Contact Name": "Cornell",
-    "Contact Email": "cornell@dallasmeditationcenter.com",
-    "Website": "https://dallasmeditationcenter.com/product/weekly-meditation-mindful-mondays/",
-    "Description": "Mindful Mondays is a gentle weekly gathering that invites us to slow down and touch the present moment in the midst of our everyday lives. Together, we explore how mindfulness and meditation can be lived—not only on the cushion, but in our walking, listening, working, and loving. Each gathering includes sitting meditation, a short reading, and spacious, heart-centered reflection. This practice is part of the Awakening Heart Community at the Dallas Meditation Center and is rooted in the Plum Village tradition of Zen master Thich Nhat Hanh. We practice in a spirit of simplicity, compassion, and togetherness, allowing understanding and ease to arise naturally.",
-    "Language": "English"
-  },
-  {
     "Name": "Bodhi Seeds",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
@@ -375,6 +333,20 @@
     "Contact Email": "chob@seznam.cz",
     "Website": "https://verakristensen1406.wixsite.com/breatheyouarealive",
     "Description": "",
+    "Language": "English"
+  },
+  {
+    "Name": "Bridge of Breath Sangha",
+    "Category": "Traditional Sanghas",
+    "Sub Category": "",
+    "Frequency": "weekly",
+    "Duration": "90",
+    "Time Zone": "America/New_York",
+    "Times": "19:15 Wed, 9:30 Sun",
+    "Contact Name": "Caine / Matt",
+    "Contact Email": "team@bridgeofbreath.org",
+    "Website": "http://bridgeofbreath.org/",
+    "Description": "We are an inclusive sangha that welcomes practitioners of all backgrounds, identities, abilities, and walks of life. By meeting online via Zoom, we clear away physical, geographic, and systemic barriers so that anyone, anywhere in the world, can access the warmth of community. Wherever you are and whatever you bring with you, you are invited to practice in the way that serves you best.",
     "Language": "English"
   },
   {
@@ -582,8 +554,8 @@
     "Time Zone": "Australia/Sydney",
     "Times": "20:00 Thu",
     "Contact Name": "",
-    "Contact Email": "",
-    "Website": "",
+    "Contact Email": "compassionateoceansangha@gmail.com",
+    "Website": "https://www.compassionateoceansangha.org",
     "Description": "",
     "Language": "English"
   },
@@ -596,8 +568,8 @@
     "Time Zone": "Australia/Sydney",
     "Times": "20:00 Sun",
     "Contact Name": "",
-    "Contact Email": "",
-    "Website": "",
+    "Contact Email": "compassionateoceansangha@gmail.com",
+    "Website": "https://www.compassionateoceansangha.org/",
     "Description": "",
     "Language": "English"
   },
@@ -610,7 +582,7 @@
     "Time Zone": "Australia/Sydney",
     "Times": "20:00 Sat",
     "Contact Name": "",
-    "Contact Email": "",
+    "Contact Email": "compassionateoceansangha@gmail.com",
     "Website": "https://www.compassionateoceansangha.org",
     "Description": "",
     "Language": "English"
@@ -624,7 +596,7 @@
     "Time Zone": "Australia/Sydney",
     "Times": "20:00 Fri",
     "Contact Name": "",
-    "Contact Email": "",
+    "Contact Email": "compassionateoceansangha@gmail.com",
     "Website": "https://www.compassionateoceansangha.org",
     "Description": "",
     "Language": "English"
@@ -854,30 +826,16 @@
     "Language": "English"
   },
   {
-    "Name": "Earth Holder Sangha",
+    "Name": "Earth Holder Sangha Online",
     "Category": "Affinity Sanghas",
     "Sub Category": "Engaged Practice",
-    "Frequency": "twice monthly",
+    "Frequency": "monthly",
     "Duration": "90",
     "Time Zone": "America/New_York",
     "Times": "11:00 Sun",
     "Contact Name": "",
     "Contact Email": "",
-    "Website": "https://earthholdinghereandnow.us8.list-manage.com/subscribe?id=bcd0d7b6bc&u=8be9b5ed990a2cbf98c358356",
-    "Description": "Growing our love for Mother Earth",
-    "Language": "English"
-  },
-  {
-    "Name": "Earth Holder Sangha",
-    "Category": "Affinity Sanghas",
-    "Sub Category": "Engaged Practice",
-    "Frequency": "twice monthly",
-    "Duration": "90",
-    "Time Zone": "America/New_York",
-    "Times": "18:00 Sun",
-    "Contact Name": "",
-    "Contact Email": "",
-    "Website": "https://earthholdinghereandnow.us8.list-manage.com/subscribe?id=bcd0d7b6bc&u=8be9b5ed990a2cbf98c358356",
+    "Website": "https://earthholder.training/online-earth-holder-sangha/",
     "Description": "Growing our love for Mother Earth",
     "Language": "English"
   },
@@ -1008,31 +966,17 @@
     "Language": "English"
   },
   {
-    "Name": "Flowing Together Sangha",
+    "Name": "Flowing Togetherness Sangha",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
     "Frequency": "weekly",
-    "Duration": "90",
+    "Duration": "60",
     "Time Zone": "Europe/Dublin",
     "Times": "20:00 Wed",
     "Contact Name": "Martin",
     "Contact Email": "mindfulnessday.mi@gmail.com",
-    "Website": "",
-    "Description": "",
-    "Language": "English"
-  },
-  {
-    "Name": "Flowing Together Sangha",
-    "Category": "Traditional Sanghas",
-    "Sub Category": "",
-    "Frequency": "fortnightly",
-    "Duration": "90",
-    "Time Zone": "Europe/Dublin",
-    "Times": "11:00 Sun",
-    "Contact Name": "Martin",
-    "Contact Email": "mindfulnessday.mi@gmail.com",
-    "Website": "",
-    "Description": "",
+    "Website": "https://www.mindfulnessireland.ie/sanghas-ireland-wide-online-or-phone/",
+    "Description": "We offer guided meditations, silent meditation, spiritual readings, dharma sharing and connection.",
     "Language": "English"
   },
   {
@@ -1088,7 +1032,7 @@
     "Contact Name": "Orlaith",
     "Contact Email": "hello@orlatihosullivan.com",
     "Website": "https://www.orlaithosullivan.com/freshmorning",
-    "Description": "We meet Tuesday & Thursday mornings, via Zoom which you may need to download to your device in advance (audio only; no video). The Zoom link is https://zoom.us/j/568796923.  join call to connect together and share the focus/aspiration of our day / 7am – bell to invite guided or silent sitting /7.20am – bell to close meditation with closing words from facilitator. We leave the call in silence, taking the calm energy with us into our day.",
+    "Description": "We meet Tuesday & Thursday mornings, via Zoom (audio only; no video). The Zoom link is https://zoom.us/j/568796923.  Join call to connect together and share the focus/aspiration of our day / 7am – bell to invite guided or silent sitting /7.20am – bell to close meditation with closing words from facilitator. We leave the call in silence, taking the calm energy with us into our day.",
     "Language": "English"
   },
   {
@@ -1820,6 +1764,20 @@
     "Language": "English"
   },
   {
+    "Name": "Mindful Mondays",
+    "Category": "Traditional Sanghas",
+    "Sub Category": "",
+    "Frequency": "weekly",
+    "Duration": "90",
+    "Time Zone": "America/Chicago",
+    "Times": "19:00 Mon",
+    "Contact Name": "Cornell",
+    "Contact Email": "cornell@dallasmeditationcenter.com",
+    "Website": "https://dallasmeditationcenter.com/product/weekly-meditation-mindful-mondays/",
+    "Description": "Mindful Mondays is a gentle weekly gathering that invites us to slow down and touch the present moment in the midst of our everyday lives. Together, we explore how mindfulness and meditation can be lived—not only on the cushion, but in our walking, listening, working, and loving. Each gathering includes sitting meditation, a short reading, and spacious, heart-centered reflection. This practice is part of the Awakening Heart Community at the Dallas Meditation Center and is rooted in the Plum Village tradition of Zen master Thich Nhat Hanh. We practice in a spirit of simplicity, compassion, and togetherness, allowing understanding and ease to arise naturally.",
+    "Language": "English"
+  },
+  {
     "Name": "Mindful Parenting – World Interbeing Sangha",
     "Category": "Affinity Sanghas",
     "Sub Category": "Other Affinity Sanghas",
@@ -2143,30 +2101,16 @@
   },
   {
     "Name": "Pacific Online Sangha",
-    "Category": "Single Practice Sanghas",
-    "Sub Category": "Study",
-    "Frequency": "weekly",
-    "Duration": "60",
-    "Time Zone": "America/Los_Angeles",
-    "Times": "16:00 Sun",
-    "Contact Name": "Michael",
-    "Contact Email": "mikemigrates@gmail.com",
-    "Website": "",
-    "Description": "",
-    "Language": "English"
-  },
-  {
-    "Name": "Pacific Online Sangha",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
     "Frequency": "weekly",
-    "Duration": "60",
+    "Duration": "90",
     "Time Zone": "America/Los_Angeles",
     "Times": "16:00 Sun",
     "Contact Name": "Michael",
     "Contact Email": "mikemigrates@gmail.com",
-    "Website": "",
-    "Description": "",
+    "Website": "https://www.pacificonlinesangha.org/",
+    "Description": "Sessions incorporate guided/silent meditation, recorded video or audio teachings from the Plum Village tradition, and a community dharma discussion on mindful living.",
     "Language": "English"
   },
   {
@@ -2375,8 +2319,8 @@
     "Times": "18:00 Sun",
     "Contact Name": "contact",
     "Contact Email": "rainbowsanghaireland@gmail.com",
-    "Website": "",
-    "Description": "For friends who identify as LGBTQIA+, curious or questioning - and in the spirit of celebrating inclusivity & cultural diversity we welcome people from all identities, cultures and countries, and members from all traditions or no particular tradition",
+    "Website": "https://www.mindfulnessireland.ie/sanghas-ireland-wide-online-or-phone/",
+    "Description": "For friends who identify as LGBTQIA+, curious or questioning - and in the spirit of celebrating inclusivity & cultural diversity we welcome people from all identities, cultures and countries, and members from all traditions or no particular tradition.\nWe meet on the 1st Sunday of every month.",
     "Language": "English"
   },
   {
@@ -2487,7 +2431,7 @@
     "Times": "20:00 Sat",
     "Contact Name": "Cristina",
     "Contact Email": "mindfulnessnoa@gmail.com",
-    "Website": "",
+    "Website": "https://www.mindfulnessireland.ie/sanghas-ireland-wide-online-or-phone/",
     "Description": "What is the purpose of providing public health if we do not have love in our hearts? (Br Phap An)",
     "Language": "English"
   },
@@ -2503,6 +2447,20 @@
     "Contact Email": "brotherdave@davekenneally.com",
     "Website": "",
     "Description": "",
+    "Language": "English"
+  },
+  {
+    "Name": "Sangha of Freedom / Sangha Na Saoirse",
+    "Category": "Traditional Sanghas",
+    "Sub Category": "",
+    "Frequency": "fortnightly",
+    "Duration": "90",
+    "Time Zone": "Europe/Dublin",
+    "Times": "11:00 Sun",
+    "Contact Name": "Ellen",
+    "Contact Email": "SanghaNaSaoirse@gmail.com",
+    "Website": "https://www.mindfulnessireland.ie/sanghas-ireland-wide-online-or-phone/",
+    "Description": "We offer readings of the mindfulness trainings, guided or silent meditation, dharma sharing and connection.\nAll are welcome, and the Five Mindfulness Trainings will be recited monthly on the 4th Sunday.",
     "Language": "English"
   },
   {
@@ -2643,6 +2601,20 @@
     "Contact Email": "secondheartsangha@gmail.com",
     "Website": "",
     "Description": "",
+    "Language": "English"
+  },
+  {
+    "Name": "Seniors Sangha",
+    "Category": "Affinity Sanghas",
+    "Sub Category": "Younger Friends Older Friends",
+    "Frequency": "monthly",
+    "Duration": "90",
+    "Time Zone": "Europe/London",
+    "Times": "15:00 Sun",
+    "Contact Name": "Isabelle",
+    "Contact Email": "isabelle@plumvillage.uk",
+    "Website": "https://plumvillage.uk/group/seniors-sangha/",
+    "Description": "Older UK Sangha members. We share experiences, insights and discuss the fascinating and sometimes bewildering process of ageing that happens to our human body and mind. As well as the many opportunities and hazards that this process presents. These discussions are at times joyful, practical, thought-provoking, helpful, rich, nourishing and often funny. Whilst always being very supportive of each other. We often include a meditation, a reading and perhaps most importantly deep listening and dharma sharing. Whether you feel you are “young old”, or “old old” and would like to join us in these explorations, we would be very happy to welcome you.",
     "Language": "English"
   },
   {
@@ -3122,34 +3094,6 @@
     "Language": "English"
   },
   {
-    "Name": "Be Longing Sangha",
-    "Category": "Traditional Sanghas",
-    "Sub Category": "",
-    "Frequency": "daily",
-    "Duration": "60",
-    "Time Zone": "America/Los_Angeles",
-    "Times": "06:00, 21:00",
-    "Contact Name": "Michelle",
-    "Contact Email": "micscharff@gmail.com",
-    "Website": "https://www.facebook.com/profile.php?id=61595645844399&sk=directory_links",
-    "Description": "A gathering of all individuals residing in or around the San Bernardino mountain communities near Lake Arrowhead who have like-minded aspirations to observe, practice, and study Thich Nhat Hahn's teachings and the Deer Park Monastery traditions.",
-    "Language": "English"
-  },
-  {
-    "Name": "Bridge of Breath Sangha",
-    "Category": "Traditional Sanghas",
-    "Sub Category": "",
-    "Frequency": "weekly",
-    "Duration": "90",
-    "Time Zone": "America/New_York",
-    "Times": "19:15 Wed, 9:30 Sun",
-    "Contact Name": "Caine / Matt",
-    "Contact Email": "team@bridgeofbreath.org",
-    "Website": "http://bridgeofbreath.org/",
-    "Description": "We are an inclusive sangha that welcomes practitioners of all backgrounds, identities, abilities, and walks of life. By meeting online via Zoom, we clear away physical, geographic, and systemic barriers so that anyone, anywhere in the world, can access the warmth of community. Wherever you are and whatever you bring with you, you are invited to practice in the way that serves you best.",
-    "Language": "English"
-  },
-  {
     "Name": "Yellow Lotus Sangha",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
@@ -3161,20 +3105,6 @@
     "Contact Email": "anh.nhung.vn@gmail.com",
     "Website": "",
     "Description": "Yellow Lotus Sanga is the continuation of the course \"Who Is Thich Nhat Hanh? Rising Tide Cohort 2\". It has started on October 11, 2025 and every Saturday from 19:00 - 20:30 (CET). It is an international Sangha with two experienced OI members. One of the ongoing practices of the Sangha is to train Sangha members to facilitate and make rotations. There is always a place for you in the circle. Please come and experience the practice with us. A smile from Nhung and the Yellow Lotus Sangha.",
-    "Language": "English"
-  },
-  {
-    "Name": "Seniors Sangha",
-    "Category": "Affinity Sanghas",
-    "Sub Category": "Younger Friends Older Friends",
-    "Frequency": "monthly",
-    "Duration": "90",
-    "Time Zone": "Europe/London",
-    "Times": "15:00 Sun",
-    "Contact Name": "Isabelle",
-    "Contact Email": "isabelle@plumvillage.uk",
-    "Website": "https://plumvillage.uk/group/seniors-sangha/",
-    "Description": "Older UK Sangha members. We share experiences, insights and discuss the fascinating and sometimes bewildering process of ageing that happens to our human body and mind. As well as the many opportunities and hazards that this process presents. These discussions are at times joyful, practical, thought-provoking, helpful, rich, nourishing and often funny. Whilst always being very supportive of each other. We often include a meditation, a reading and perhaps most importantly deep listening and dharma sharing. Whether you feel you are “young old”, or “old old” and would like to join us in these explorations, we would be very happy to welcome you.",
     "Language": "English"
   },
   {
@@ -3780,20 +3710,6 @@
     "Language": "español (spanish)"
   },
   {
-    "Name": "Sangha Primavera",
-    "Category": "Traditional Sanghas",
-    "Sub Category": "",
-    "Frequency": "weekly",
-    "Duration": "120",
-    "Time Zone": "Europe/Madrid",
-    "Times": "19:00 Fri, 19:30 Mon",
-    "Contact Name": "Ana Maria",
-    "Contact Email": "amleiras@yahoo.com",
-    "Website": "",
-    "Description": "We are a multi-age sangha who try to practice engaged Buddhism in our everyday lives. We like to be in nature, we like to read and reflect on Thay's teachings and try to put them into practice. We value establishing and nurturing connections with other sanghas and like to share Days of Mindfulness together.",
-    "Language": "español (spanish)"
-  },
-  {
     "Name": "Sangha Panamá",
     "Category": "Traditional Sanghas",
     "Sub Category": "",
@@ -3805,6 +3721,34 @@
     "Contact Email": "npimentel0722@gmail.com",
     "Website": "",
     "Description": "Nos reunimos en las semanas pares de cada mes.",
+    "Language": "español (spanish)"
+  },
+  {
+    "Name": "Sangha Primavera",
+    "Category": "Traditional Sanghas",
+    "Sub Category": "",
+    "Frequency": "weekly",
+    "Duration": "120",
+    "Time Zone": "Europe/Madrid",
+    "Times": "19:00 Fri",
+    "Contact Name": "Ana María",
+    "Contact Email": "amleiras@yahoo.com",
+    "Website": "",
+    "Description": "Somos una sangha compuesta por personas de diversas edades que procuramos practicar el budismo comprometido en nuestra vida cotidiana. Nos gusta estar en contacto con la naturaleza, leer y reflexionar sobre las enseñanzas de Thay, e intentar ponerlas en práctica. Valoramos establecer y cultivar vínculos con otras sanghas, y nos gusta compartir jornadas de plena consciencia.",
+    "Language": "español (spanish)"
+  },
+  {
+    "Name": "Sangha Primavera",
+    "Category": "Affinity Sanghas",
+    "Sub Category": "Mindfulness Trainings",
+    "Frequency": "weekly",
+    "Duration": "90",
+    "Time Zone": "Europe/Madrid",
+    "Times": "19:30 Mon",
+    "Contact Name": "Ana María",
+    "Contact Email": "amleiras@yahoo.com",
+    "Website": "",
+    "Description": "Nos reunimos para profundizar en nuestra práctica de los Cinco Entrenamientos de la Plena Consciencia.",
     "Language": "español (spanish)"
   },
   {
